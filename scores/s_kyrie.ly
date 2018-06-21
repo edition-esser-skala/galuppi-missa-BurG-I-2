@@ -6,7 +6,10 @@
 
 \include "../definitions.ly"
 
-\paper { first-page-number = #1 }
+\paper {
+	first-page-number = #1
+	systems-per-page = #1
+}
 
 #(set-global-staff-size 15.87)
 
