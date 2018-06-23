@@ -6,8 +6,7 @@
 
 KyrieViola = {
 	\relative c' {
-		\clef treble
-% 		\clef alto
+		\clef alto
 		\key c \major \time 4/4 \tempoKyrie
 		\partial 8 r8 g'\fE g g g g g e\p f
 		e e, d g c,4 c'8\f c
