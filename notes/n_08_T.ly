@@ -20,13 +20,13 @@ KyrieTenoreNotes = {
 		\clef "treble_8"
 		\key c \major \time 4/4 \autoBeamOff \tempoKyrie
 		\partial 8 r8 R1*11 %11
-		\mvTr e8.\fE^\tuttiE e16 e8 r r e d d
+		\mvDll e8.\fE^\tuttiE e16 e8 r r e d d
 		e4 r r2
 		r4 c8 c c e d d
 		e4 r8 e f2~ %15
-		f8[ f16 e] d8[\trill c16 h] e2~
-		e8[ e16 d] c8[\trill d16 e] d2~
-		d8[ d16 c] h8[(\trill c16 d]) c4 r
+		f8[ f16 e] \appoggiatura e d8[ c16 h] e2~
+		e8[ e16 d] \appoggiatura d c8[ d16 e] d2~
+		d8[ d16 c] \appoggiatura c h8[( c16 d]) c4 r
 		r8 c a g g4 r
 		R1 %20
 		r2 r8 d'16([ c16)] h8 a16([ g)]
@@ -36,10 +36,10 @@ KyrieTenoreNotes = {
 		h a4 r %25
 		r2 r8 \mvTr e'16([\fE^\tutti d)] c8 d16([ e)]
 		d8 d e d d4 r
-		r r8 d d([ e] d8.) d16
+		r r8 d( d[ e]) d8. d16
 		d4 r r2
 		R1*26 %55
-		\mvTr e8.\fE^\tuttiE e16 e8 r r2
+		\mvDll e8.\fE^\tuttiE e16 e8 r r2
 		r4 e8 d e e d e
 		e4 r8 c d2~
 		d8[ d16 c] h8[ c16 d] c2~
@@ -49,7 +49,7 @@ KyrieTenoreNotes = {
 		r2 \mvTr e\pE^\solo
 		f e4 r
 		R1*2 %66
-		r2 r8 \mvTr e\fE^\tutti e e
+		r2 r8 \mvDll e\fE^\tutti e e
 		d4^\critnote r r8 d d d
 		e4 r r8 e e e
 		fis e dis c dis4 r %70
@@ -60,8 +60,8 @@ KyrieTenoreNotes = {
 		r2 r4 c8 c %75
 		c e d d e e d d
 		e4 r8 e f2~
-		f8[ f16 e] d8[\trill e16 f] e2~
-		e8[ e16^\critnote d] c8[\trill d16 e] d2~
+		f8[ f16 e] \appoggiatura e d8[ e16 f] e2~
+		e8[ e16^\critnote d] \appoggiatura d c8[ d16 e] d2~
 		d8[ d16 c] h8 g' g4 r %80
 		r8 c, a g g4 r
 		r2 \mvTr h\pE^\solo
@@ -92,7 +92,7 @@ KyrieTenoreLyrics = \lyricmode {
 	e -- le -- i --
 	son, e -- le -- i --
 	son, e -- le -- i -- son.
-	Ky -- 
+	Ky --
 	ri -- e %25
 	e -- le -- i --
 	son, e -- le -- i -- son,

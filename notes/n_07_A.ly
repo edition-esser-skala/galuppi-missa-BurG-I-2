@@ -20,13 +20,13 @@ KyrieAltoNotes = {
 		\clef treble
 		\key c \major \time 4/4 \autoBeamOff \tempoKyrie
 		\partial 8 r8 R1*11 %11
-		\mvTr g'8.\fE^\tuttiE g16 g8 r r g g g
+		\mvDll g'8.\fE^\tuttiE g16 g8 r r g g g
 		g4 r r2
 		r4 g8 a g g f g
 		g4 r8 g a2~ %15
-		a8[ a16 g] f8[\trill e16 d] g2~
-		g8[ g16 f] e8[\trill d16 c] f2~
-		f8[ f16 e] d8[(\trill c16 h]) e4 f
+		a8[ a16 g] \appoggiatura g f8[ e16 d] g2~
+		g8[ g16 f] \appoggiatura f e8[ d16 c] f2~
+		f8[ f16 e] \appoggiatura e d8[( c16 h]) e4 f
 		g8([ a16 g] f8) e d4 r
 		r2 \mvTr h'\pE^\solo %20
 		c h4 r
@@ -61,7 +61,7 @@ KyrieAltoNotes = {
 		e2~ e16[ e f g] f8 e
 		d a' g f e4 d\trill
 		c r r2 %55
-		\mvTr a'8.\fE^\tutti a16 a8 r r2
+		\mvDll a'8.\fE^\tutti a16 a8 r r2
 		r4 a8 a a a a gis
 		a4 r r r8 a
 		h2~ h8[ h16 a] g!8[ f16 e]
@@ -72,7 +72,7 @@ KyrieAltoNotes = {
 		R1
 		r2 h %65
 		c h4 r
-		r2 r8 \mvTr g\fE^\tutti g g
+		r2 r8 \mvDll g\fE^\tutti g g
 		g4 r r8 e e e
 		e4 r r8 a a a
 		a g! fis e fis4 r %70
@@ -83,8 +83,8 @@ KyrieAltoNotes = {
 		r2 r4 g8 a %75
 		g g f g g g f g
 		g4 r8 g a2~
-		a8[ a16 g] f8[\trill e16 d] g2~
-		g8[ g16 f] e8[\trill d16 c] f2~
+		a8[ a16 g] \appoggiatura g f8[ e16 d] g2~
+		g8[ g16 f] \appoggiatura f e8[ d16 c] f2~
 		f8[ f16 e] d8 c16([ h)] e4 f %80
 		g8([ a16 g] f8) e d4 r
 		R1

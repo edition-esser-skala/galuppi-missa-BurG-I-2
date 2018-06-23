@@ -20,12 +20,12 @@ KyrieSopranoNotes = {
 		\clef treble
 		\key c \major \time 4/4 \autoBeamOff \tempoKyrie
 		\partial 8 r8 R1*11 %11
-		\mvTr c'8.\fE^\tuttiE c16 c8 r r c d h
+		\mvDll c'8.\fE^\tuttiE c16 c8 r r c d h
 		c4 r r2
 		r4 c8 c c c c h
 		c4 r r r8 c %15
-		d2~ d8[ d16 c] h8[\trill a16 g]
-		c2~ c8[ c16 h] a8[\trill g16 f]
+		d2~ d8[ d16 c] \appoggiatura c h8[ a16 g]
+		c2~ c8[ c16 h] \appoggiatura h a8[ g16 f]
 		h4. h8 c4 d
 		e8([ f16 e] d8) c h4 r
 		r2 \mvTr d2\pE^\solo %20
@@ -35,14 +35,14 @@ KyrieSopranoNotes = {
 		R1*2 %25
 		r8 h16([ c)] d8 c16([ h)] c8 c c c
 		c h a a h4 r
-		r r8 c h([ c h)] a
+		r r8 c( h[ c]) h a
 		h4 r r2
 		R1*4 %33
 		r2 \mvTr h\pE^\solo
 		c c8 h g4~ %35
 		g8 a16 h c8 d es4 r
 		r2 r4 f,~
-		f8 g16 a b8 c d4 r
+		f8 g16 a! b8 c d4 r
 		r2 r4 es~
 		es8[ f16 es] d8[ cis] d2~ %40
 		d8[ es16 d] c8[ h!] c2~
@@ -60,7 +60,7 @@ KyrieSopranoNotes = {
 		d8[ e16 d] c8[ h] c16[ c d e] d8 c
 		h f' e d c4 h\trill
 		c r r2 %55
-		\mvTr c8.\fE^\tutti c16 c8 r r2
+		\mvDll c8.\fE^\tutti c16 c8 r r2
 		r4 e8 f e c d h
 		c4 r8 e f2~
 		f8[ f16 e] d8[ c16 h] e2~
@@ -71,7 +71,7 @@ KyrieSopranoNotes = {
 		R1
 		r2 d %65
 		e d4 r
-		r2 r8 \mvTr c\fE^\tutti c c
+		r2 r8 \mvDll c\fE^\tutti c c
 		h4 r r8 h h h
 		a4 r r8 c c c
 		h h h a h4 r %70
@@ -82,8 +82,8 @@ KyrieSopranoNotes = {
 		r2 r4 c8 c %75
 		c c c h c c c h
 		c4 r r r8 c
-		d2~ d8[ d16 c] h8[\trill a16 g]
-		c2~ c8[ c16 h] a8[\trill g16 f]
+		d2~ d8[ d16 c] \appoggiatura c h8[ a16 g]
+		c2~ c8[ c16 h] \appoggiatura h a8[ g16 f]
 		h4. h8 c4 d %80
 		e8([ f16 e] d8) c h4 r
 		r2 \mvTr d\pE^\solo
