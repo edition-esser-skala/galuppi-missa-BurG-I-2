@@ -92,8 +92,8 @@ KyrieOrgano = {
 		g g g g \mvTr g\pE-\soloE g g g
 		g g g g g \mvTr g'\fE-\soloE g g
 		c, c c c g g'16 f e8 d
-		c c \mvTr c\pE-\soloE c c c c c %85
-		\mvTr c\fE-\tuttiE c c c f f f f
+		\mvTr c\pE-\soloE c c c c c c c %85
+		c \mvTr c\fE-\tuttiE c c f f f f
 		c c, c' c f f d c
 		g' g, h g c r d r
 		e r e d c f g g,
