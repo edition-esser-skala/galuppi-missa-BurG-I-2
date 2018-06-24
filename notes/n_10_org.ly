@@ -346,7 +346,7 @@ GloriaOrgano = {
 		c,4 r8
 		c4 r8
 		R4.*3 %146
-		r8 \mvTr h'\fE-\tuttiE g
+		r8 h' g
 		c a d
 		g, r r
 		R4. %150
@@ -377,13 +377,13 @@ GloriaOrgano = {
 		fis fis g
 		c, d d, %195
 		g4 r8
-		c8 c c
+		c8-\soloE c c
 		h h h
 		c d d,
 		r r fis' %200
 		g d' d,
-		g, g'16 a g f!
-		e4 r8
+		g, g'16 a g fis
+		e4\pE r8
 		a8 h h,
 		e e d! %205
 		c gis' e
@@ -424,7 +424,7 @@ GloriaOrgano = {
 		c c d
 		e4 e,8
 		a4 r8
-		a' e c
+		a'\fE e c
 		f e c %245
 		f f f
 		g g g
@@ -504,12 +504,12 @@ GloriaOrgano = {
 		b a g
 		a a, a
 		d4 r8
-		a' e c
+		a'\fE e c
 		f e c %325
 		f a f
 		g g f
 		e c e
-		\mvTr f\fE-\tuttiE f, f'
+		f-\tuttiE f, f'
 		c' c, r %330
 		f e c
 		f e c

@@ -357,9 +357,9 @@ GloriaSopranoLyrics = \lyricmode {
 	
 	sis
 	De -- o,
-	[glo -- ri -- a %65
+	[glo -- ri -- a] %65
 	
-	in ex -- %68
+	[in ex -- %68
 	cel -- sis
 	De -- o, %70
 	glo -- ri -- a,

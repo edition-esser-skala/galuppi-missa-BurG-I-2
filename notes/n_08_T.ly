@@ -141,12 +141,308 @@ GloriaTenoreNotes = {
 	\relative c' {
 		\clef "treble_8"
 		\key c \major \time 3/8 \autoBeamOff \tempoGloria
-		
+		R4.*34 %34
+		\mvTr e8.\pE^\solo d16 c8 %35
+		R4.*4
+		r8 \mvTr c\fE^\tutti c %40
+		d d r
+		r h h
+		c c e16 e
+		d4 d8
+		d4 d8 %45
+		c8. c16 c8
+		r c16([ h)] c([ d)]
+		e8([ g)] h,
+		c([ g')] h,
+		c4~ c16 c %50
+		h4 r8
+		e8. e16 e8
+		d8. d16 d8
+		r d d
+		d4.~ %55
+		\once \tieDashed d~
+		d4 d8
+		d4 d8
+		d8. c16 h8
+		R4.*2 %61
+		r8 h dis
+		e([ fis)] dis
+		e([ fis)] dis
+		e8. e16 e8 %65
+		R4.*2
+		r8 d d
+		e16([ f g8)] d
+		e([ c)] d %70
+		d8. d16 d8
+		d8. d16 d8
+		R4.*2
+		d8 d16 d d d %75
+		d4 d8
+		d4 e8~
+		e d d
+		d4 r8
+		R4.*60 %139
+		r8 r \mvTr c\fE^\tuttiE %140
+		d4 d8
+		e4 r8
+		R4.*4 %146
+		r8 d d
+		e e d
+		d r r
+		R4. %150
+		r8 \mvTr a\pE^\soloE a
+		h16([ c d8)] a
+		h d a
+		h h r
+		R4.*2 %156
+		r8 h dis
+		e([ fis)] dis
+		e fis dis
+		e e r %160
+		R4.*11 %171
+		\mvTr d8\fE^\tuttiE d d
+		d4.(
+		c8) d4
+		d r8 %175
+		R4.*11 %186
+		d8 d d
+		d4.~
+		d
+		d4 r8 %190
+		e16([ f)] g8 d
+		e16[ f] g8[ d]
+		e[ c e]
+		d4.
+		e8 d4 %195
+		d r8
+		R4.*6 %202
+		\mvTr h8.\pE^\solo e,16 e8
+		c' h a
+		g16([ fis)] e8 r %205
+		R4.*3
+		e'8. a,16 a8
+		f' e d %210
+		c16([ h)] a8 r
+		r cis cis
+		d([ e)] f
+		e a, e'
+		f16([ e)] d8 r %215
+		r h h
+		c([ d)] e
+		d g, d'
+		e16([ d)] c8 r
+		r e e %220
+		d16[ c] h4
+		f'8[ e d]
+		c16[ h] a4
+		e'8[ d] c
+		h([ gis a] %225
+		e) d' c
+		c h r
+		R4.*2
+		a8 a4 %230
+		gis16([ fis)] e8 r
+		f'! f4
+		e8 a, d
+		c32([ h a16] h4)\trill
+		a4 r8 %235
+		R4.*2
+		a8 a4
+		gis16([ fis)] e8 r
+		f'! f4 %240
+		e8 a, d
+		c32([ h a16] h4)\trill
+		a4 r8
+		R4.*85 %328
+		\mvTr c8.\fE^\tuttiE c16 c8
+		c c r %330
+		r c c
+		c4 c8
+		c4.
+		c4 r8
+		r d d %335
+		d4 d8
+		d4.
+		d4 r8
+		r e e
+		e4 e8 %340
+		e4.
+		e4 r8
+		e4~ e16 e
+		d8 r r
+		d4~ d16 d %345
+		c8 r r
+		d d d
+		h[ e h]
+		c4.~
+		c~ %350
+		c
+		h4 r8
+		h4~ h16 h
+		c4 r8
+		d e f %355
+		e4.
+		e4 r8
+		R4.*5 %362
+		h4~ h16 h
+		c4 r8
+		d e f %365
+		e4.
+		e4 r8
+		R4.*2
+		R4.\fermataMarkup \bar "||" %370 finis
 	}
 }
 
 GloriaTenoreLyrics = \lyricmode {
+	Glo -- ri -- a %35
 	
+	
+	in ex -- %40
+	cel -- sis,
+	in ex --
+	cel -- sis, in ex --
+	cel -- sis
+	De -- o, %45
+	glo -- ri -- a
+	[in ex --
+	cel -- sis
+	De -- o,
+	glo -- ri -- %50
+	a,
+	glo -- ri -- a,
+	glo -- ri -- a]
+	in ex --
+	cel -- %55
+	
+	sis
+	De -- o,
+	[glo -- ri -- a]
+	
+	[in ex -- %62
+	cel -- sis
+	De -- o,
+	glo -- ri -- a] %65
+	
+	[in ex -- %68
+	cel -- sis
+	De -- o, %70
+	glo -- ri -- a,
+	glo -- ri -- a,]
+	
+	[glo -- ri -- a in ex -- %75
+	cel -- sis
+	De -- o, __
+	glo -- ri --
+	a.]
+	
+	[Lau -- %140
+	da -- mus
+	te,]
+
+	[be -- ne -- %147
+	di -- ci -- mus
+	te,]
+	%150
+	[ad -- o --
+	ra -- mus
+	te, ad -- o --
+	ra -- mus,]
+	
+	[ad -- o -- %157
+	ra -- mus
+	te, ad -- o --
+	ra -- mus,] %160
+
+	[glo -- ri -- fi -- %172
+	ca --
+	mus
+	te,] %175
+	
+	[glo -- ri -- fi -- %187
+	ca --
+	
+	mus, %190
+	glo -- ri -- fi --
+	ca -- _
+	_
+	_
+	_ mus %195
+	te.]
+	
+	Gra -- ti -- as %203
+	a -- gi -- mus
+	ti -- bi,
+	
+	gra -- ti -- as %209
+	a -- gi -- mus %210
+	ti -- bi
+	pro -- pter
+	ma -- gnam
+	glo -- ri -- am
+	tu -- am, %215
+	pro -- pter
+	ma -- gnam
+	glo -- ri -- am
+	tu -- am,
+	pro -- pter %220
+	ma -- _
+	_
+	_ _
+	_ gnam
+	glo -- %225
+	ri -- am
+	tu -- am,
+	
+	pro -- pter %230
+	ma -- gnam,
+	ma -- gnam
+	glo -- ri -- am
+	tu --
+	am, %235
+	
+	pro -- pter %238
+	ma -- gnam,
+	ma -- gnam %240
+	glo -- ri -- am
+	tu --
+	am,
+	
+	[Do -- mi -- ne %329
+	De -- us, %330
+	De -- us,
+	A -- gnus
+	De --
+	i,
+	De -- us, %335
+	A -- gnus
+	De --
+	i,
+	De -- us,
+	A -- gnus %340
+	De --
+	i,
+	Fi -- li --
+	us,
+	Fi -- li -- %345
+	us,
+	Fi -- li -- us
+	Pa --
+	_
+	%350
+	
+	tris,
+	Fi -- li --
+	us,
+	Fi -- li -- us %355
+	Pa --
+	tris.]
+	
+	[Fi -- li -- %363
+	us,
+	Fi -- li -- us %365
+	Pa --
+	tris.] %367 finis
 }
 
 % TenoreNotes = {

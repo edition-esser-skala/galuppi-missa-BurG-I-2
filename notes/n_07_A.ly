@@ -234,7 +234,7 @@ GloriaAltoNotes = {
 		f4 g8
 		g4 r8
 		R4.*4 %146
-		r8 \mvTr g\fE^\tuttiE g
+		r8 g g
 		g g fis
 		g r r
 		R4. %150
@@ -396,9 +396,9 @@ GloriaAltoLyrics = \lyricmode {
 	in ex -- %56
 	cel -- sis
 	De -- o,
-	[glo -- ri -- a
+	[glo -- ri -- a]
 	
-	in ex -- %62
+	[in ex -- %62
 	cel -- sis
 	De -- o,
 	glo -- ri -- a] %65
