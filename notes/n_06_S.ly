@@ -186,11 +186,288 @@ GloriaSopranoNotes = {
 	\relative c' {
 		\clef treble
 		\key c \major \time 3/8 \autoBeamOff \tempoGloria
+		R4.*38 %38
+		\mvTr c'8\fE^\tuttiE c16 h a g
+		a8 a r %40
+		r d d
+		h h r
+		r c c
+		a4 a8
+		h4 h8 %45
+		c8. d16 e8
+		r f f
+		e([ d)] f
+		e([ d)] f
+		e4~ e16 e %50
+		d4 r8
+		c8. c16 c8
+		h8. h16 h8
+		R4.*2 %55
+		r8 a a
+		h16([ c d8)] a
+		h16([ c d8)] a
+		h8. a16 g8
+		r h h %60
+		h4.~
+		h~
+		h4 h8
+		h4 h8
+		h8. h16 h8 %65
+		R4.*2
+		r8 d h
+		c([ d)] h
+		c4 h8 %70
+		c8. c16 h8
+		a8. a16 a8
+		R4.*2
+		a8 a16 a a a %75
+		h([ c d8)] c
+		h4 c8~
+		c h a
+		h4 r8
+		R4.*57 %136
+		r8 r \mvTr g\pE^\solo
+		c g e'
+		d \appoggiatura c h4
+		\appoggiatura h8 c4 \mvTr c8\fE^\tutti %140
+		c4 h8
+		c4 r8
+		r \mvTr e\pE^\solo c
+		g'8. g,16 g8
+		a h c %145
+		h8. a16 g8
+		r \mvTr d'\fE^\tutti h
+		a a a
+		h \mvTr d\pE^\solo d
+		d4.~ %150
+		d~
+		d~
+		d4 d8
+		d4 r8
+		r h h %155
+		h4.~
+		h~
+		h~
+		h4 h8
+		h4 r8 %160
+		g e' d
+		c16[ h] a8[ g]
+		fis[ d' c]
+		h16[ a] g8 r
+		d' c16([ h)] a([ g)] %165
+		e'8[ fis g]
+		d[ c h]
+		e[ fis g]
+		d[ c h]
+		c[ a] h %170
+		\appoggiatura h a4 r8
+		\mvTr a\fE^\tutti h h
+		a4( h8
+		c4) h8
+		a4 r8 %175
+		\mvTr a\pE^\solo h c
+		h16[ c h a h g]
+		a8[ h c]
+		h16[ c h a h g]
+		c[ d c h c a] %180
+		d[ e d c d h]
+		e[ d c d e fis]
+		g8 g, r
+		e'4.~
+		e8 d16([ c)] h([ a)] %185
+		h32[( a g16] a8.) a16
+		g8 r \mvTr a\fE^\tutti
+		h16([ c d8)] a
+		h16([ c] d8[ a]
+		h) h r %190
+		c d h
+		c[ d h]
+		c4.~
+		c4 h8
+		c[ h] a %195
+		h4 r8
+		R4.*132 %328
+		\mvTr a8.\fE^\tutti a16 a8
+		a g r %330
+		r c b
+		a16([ b c8)] g
+		a4.\trill
+		g4 r8
+		r d' c %335
+		b16([ c d8)] a
+		b4.
+		a4 r8
+		r e' d
+		c16([ d e8)] h! %340
+		c4.
+		h4 r8
+		cis4~ cis16 cis
+		d8 r r
+		h4~ h16 h %345
+		c8 r r
+		b b a
+		gis[ h gis]
+		a4.~
+		a~ %350
+		a
+		gis4 r8
+		f'4~ f16 f
+		e4 r8
+		d8 c h %355
+		c( h4)\trill
+		a r8
+		\mvTr c\pE^\solo h d
+		c([ h)] d
+		c([ h)] d %360
+		c4.\trill
+		h4 r8
+		\mvTr f'4~\fE^\tutti f16 f
+		e4 r8
+		d8 c h %365
+		c( h4)\trill
+		a r8
+		R4.*2
+		R4.\fermataMarkup \bar "||" %370 finis
 	}
 }
 
 GloriaSopranoLyrics = \lyricmode {
+	Glo -- ri -- a in ex -- %39
+	cel -- sis, %40
+	in ex --
+	cel -- sis,
+	in ex --
+	cel -- sis
+	De -- o, %45
+	[glo -- ri -- a
+	in ex --
+	cel -- sis
+	De -- o,
+	glo -- ri -- %50
+	a,
+	glo -- ri -- a,
+	glo -- ri -- a]
 	
+	[in ex -- %56
+	cel -- sis
+	De -- o,
+	glo -- ri -- a]
+	in ex -- %60
+	cel --
+	
+	sis
+	De -- o,
+	[glo -- ri -- a %65
+	
+	in ex -- %68
+	cel -- sis
+	De -- o, %70
+	glo -- ri -- a,
+	glo -- ri -- a,]
+	
+	[glo -- ri -- a in ex -- %75
+	cel -- sis
+	De -- o, __
+	glo -- ri --
+	a.]
+	
+	Lau -- %137
+	da -- mus, lau --
+	da -- mus
+	te, [lau -- %140
+	da -- mus
+	te,]
+	be -- ne --
+	di -- ci -- mus
+	te, be -- ne %145
+	di -- ci -- mus,
+	[be -- ne --
+	di -- ci -- mus
+	te,] ad -- o --
+	ra -- %150
+	
+	mus %153
+	te,
+	ad -- o -- %155
+	ra --
+	
+	mus %159
+	te, %160
+	glo -- ri -- fi --
+	ca -- _
+	_
+	_ mus,
+	glo -- ri -- fi -- %165
+	ca --
+	_
+	_
+	_
+	_ [mus] %170
+	te,
+	[glo -- ri -- fi --
+	ca --
+	mus
+	te,] %175
+	glo -- ri -- fi --
+	ca --
+	_
+	_
+	_ %180
+	_
+	_
+	_ mus,
+	glo --
+	ri -- fi -- %185
+	ca -- mus
+	te, glo --
+	ri -- fi --
+	ca --
+	mus, %190
+	[glo -- ri -- fi --
+	ca --
+	_
+	_
+	_ mus %195
+	te.]
+	
+	[Do -- mi -- ne %329
+	De -- us, %330
+	De -- us,
+	A -- gnus
+	De --
+	i,
+	De -- us, %335
+	A -- gnus
+	De --
+	i,
+	De -- us,
+	A -- gnus %340
+	De --
+	i,
+	Fi -- li --
+	us,
+	Fi -- li -- %345
+	us,
+	Fi -- li -- us
+	Pa --
+	_
+	
+	tris, %352
+	Fi -- li --
+	us,
+	Fi -- li -- us %355
+	Pa --
+	tris.
+	Do -- mi -- ne
+	De -- us,
+	A -- gnus %360
+	De --
+	i,
+	[Fi -- li --
+	us,
+	Fi -- li -- us
+	Pa --
+	tris.]
 }
 
 % SopranoNotes = {
