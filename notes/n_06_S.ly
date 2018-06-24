@@ -457,17 +457,17 @@ GloriaSopranoLyrics = \lyricmode {
 	us,
 	Fi -- li -- us %355
 	Pa --
-	tris.
-	Do -- mi -- ne
+	tris.]
+	[Do -- mi -- ne
 	De -- us,
 	A -- gnus %360
 	De --
-	i,
+	i,]
 	[Fi -- li --
 	us,
-	Fi -- li -- us
+	Fi -- li -- us %365
 	Pa --
-	tris.]
+	tris.] %367 finis
 }
 
 % SopranoNotes = {

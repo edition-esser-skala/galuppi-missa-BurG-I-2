@@ -346,7 +346,7 @@ GloriaOrgano = {
 		c,4 r8
 		c4 r8
 		R4.*3 %146
-		r8 h' g
+		r8 \mvTr h'\fE-\tuttiE g
 		c a d
 		g, r r
 		R4. %150

@@ -188,12 +188,373 @@ GloriaAltoNotes = {
 	\relative c' {
 		\clef treble
 		\key c \major \time 3/8 \autoBeamOff \tempoGloria
-		
+		R4.*36 %36
+		\mvTr g'8.\pE^\solo c,16 c8
+		R4.
+		r8 \mvTr e\fE^\tutti e
+		f f r %40
+		r f f
+		g g r
+		r e g
+		f4 f8
+		f4 f8 %45
+		e8. f16 g8
+		r a a
+		g4 g8
+		g4 g8
+		g4~ g16 g %50
+		g4 r8
+		g8. g16 g8
+		g8. g16 g8
+		R4.*2 %55
+		r8 a fis
+		g([ a)] fis
+		g([ a)] fis
+		g8. d16 d8
+		R4.*2 %61
+		r8 fis fis
+		g16([ a h8)] fis
+		g16([ a h8)] fis
+		g8. g16 g8 %65
+		r g g
+		g4.~
+		\once \tieDashed g~
+		g4 g8
+		g([ a)] g %70
+		a8. a16 g8
+		fis8. fis16 fis8
+		R4.*2
+		fis8 fis16 fis fis fis %75
+		g4 a8
+		g4 g8~
+		g g fis
+		g4 r8
+		R4.*60 %139
+		r8 r \mvTr g\fE^\tuttiE %140
+		f4 g8
+		g4 r8
+		R4.*4 %146
+		r8 \mvTr g\fE^\tuttiE g
+		g g fis
+		g r r
+		R4. %150
+		r8 \mvTr a\pE^\soloE fis
+		g([ a)] fis
+		g a fis
+		g g r
+		R4.*2 %156
+		r8 fis fis
+		g16([ a h8)] fis
+		g a fis
+		g g r %160
+		R4.*11 %171
+		\mvTr fis8\fE^\tuttiE g g
+		a([ fis g]
+		fis16[ g a8]) g
+		fis4 r8 %175
+		R4.*11 %186
+		\mvTr h8\fE^\tuttiE a fis
+		g([ a fis]
+		g[ a fis]
+		g) g r %190
+		g g g
+		g4.~
+		g8 a4~
+		a g8
+		a[ g] fis %195
+		g4 r8
+		R4.*55 %251
+		\mvTr f4.~\pE^\solo
+		f8[ c'16 a b g]
+		f4.~
+		f8[ a16 f g e] %255
+		d8 e f
+		c([ e)] f
+		\appoggiatura { g16[ a] } b8([ a)] g
+		a16([ g)] f8 r
+		d([ e)] f %260
+		c([ e)] f
+		b a g
+		a4~ a16 a
+		g4 r8
+		R4.*3 %267
+		r8 g b
+		a16[ b a g a f]
+		c'4. %270
+		g16[ a g f g e]
+		c'4.
+		f,16[ g f e f d]
+		d'[ c h! a g f]
+		e8[ f g] %275
+		a[ h c]
+		h16[ a] g8 r
+		f4.\trill
+		e4 r8
+		a4. %280
+		g4 r8
+		c c4
+		c8 h16([ a)] g([ f)]
+		e32([ d c16] d8.)\trill c16
+		c4 r8 %285
+		R4.*6 %291
+		c4.~
+		c8[ g'16 e f d]
+		c4.~
+		c8[ c'16 a b g] %295
+		fis8 g a
+		es d c'
+		b16([ a)] g8 r
+		r b g
+		e([ f)] g %300
+		c, b'4
+		a32[ g f16] c'4~
+		c8[ b a]
+		g32[ f e16] b'4~
+		b8[ a g] %305
+		f32[ e d16] a'4~
+		a8 g16([ f)] e([ d)]
+		cis8([ d)] e
+		f4.\trill
+		e4 r8 %310
+		b'8 b4
+		a8 g16([ f)] e([ d)]
+		g8([ f)] e
+		f32([ e d16] e4\trill)
+		d4 r8 %315
+		R4.
+		d8. e16 d8
+		\appoggiatura e16 d8 cis r
+		b'8 b4
+		a8 g16([ f)] e([ d)] %320
+		g8([ f)] e
+		f32([ e d16] e4\trill)
+		d4 r8
+		R4.*5 %328
+		\mvTr f8.\fE^\tuttiE f16 f8
+		f e r %330
+		r g e
+		f([ g)] e
+		f4.\trill
+		e4 r8
+		r8 a fis %335
+		g([ a)] fis
+		g4.
+		fis4 r8
+		r h! h
+		a([ h)] gis %340
+		a4.
+		gis4 r8
+		a4~ a16 a
+		a8 r r
+		g4~ g16 g %345
+		g8 r r
+		f f f
+		e4.~
+		e
+		f %350
+		fis
+		e4 r8
+		gis4~ gis16 gis
+		a4 r8
+		a a a %355
+		a4( gis8)
+		a4 r8
+		\mvTr a\pE^\solo gis h
+		a([ gis)] h
+		a([ gis)] h %360
+		a4.
+		gis4 r8
+		\mvTr gis4~\fE^\tutti gis16 gis
+		a4 r8
+		a a a %365
+		a4( gis8)
+		a4 r8
+		R4.*2
+		R4.\fermataMarkup \bar "||" %370 finis
 	}
 }
 
 GloriaAltoLyrics = \lyricmode {
+	Glo -- ri -- a %37
 	
+	in ex -- %39
+	cel -- sis, %40
+	in ex --
+	cel -- sis,
+	in ex --
+	cel -- sis
+	De -- o, %45
+	[glo -- ri -- a
+	in ex --
+	cel -- sis
+	De -- o,
+	glo -- ri -- %50
+	a,
+	glo -- ri -- a,
+	glo -- ri -- a]
+	
+	in ex -- %56
+	cel -- sis
+	De -- o,
+	[glo -- ri -- a
+	
+	in ex -- %62
+	cel -- sis
+	De -- o,
+	glo -- ri -- a] %65
+	in ex --
+	cel --
+	
+	sis
+	De -- o, %70
+	[glo -- ri -- a,
+	glo -- ri -- a,]
+	
+	[glo -- ri -- a in ex -- %75
+	cel -- sis
+	De -- o, __
+	glo -- ri --
+	a.]
+	
+	[Lau -- %140
+	da -- mus
+	te,]
+
+	[be -- ne -- %147
+	di -- ci -- mus
+	te,]
+	%150
+	[ad -- o --
+	ra -- mus
+	te, ad -- o --
+	ra -- mus,]
+	
+	[ad -- o -- %157
+	ra -- mus
+	te, ad -- o --
+	ra -- mus,] %160
+
+	[glo -- ri -- fi -- %172
+	ca --
+	mus
+	te,] %175
+	
+	[glo -- ri -- fi -- %187
+	ca --
+	
+	mus, %190
+	glo -- ri -- fi --
+	ca --
+	_
+	_
+	_ mus %195
+	te.]
+	
+	Do -- %252
+	
+	_
+	%255
+	_ mi -- ne
+	De -- us,
+	Rex coe --
+	le -- stis,
+	De -- us %260
+	Pa -- ter
+	Pa -- ter o --
+	mni -- po --
+	tens,
+	
+	De -- us %268
+	Pa --
+	_ %270
+	_
+	_
+	_
+	_
+	_ %275
+	_
+	_ ter,
+	De --
+	us
+	Pa -- %280
+	ter,
+	De -- us
+	Pa -- ter o --
+	mni -- po --
+	tens. %285
+	
+	Do -- %292
+	
+	_
+	%295
+	_ mi -- ne,
+	Do -- mi -- ne
+	Fi -- li,
+	Fi -- li,
+	Fi -- li %300
+	u -- ni --
+	ge -- _
+	
+	_ _
+	%305
+	_ _
+	ni -- te
+	Je -- su
+	Chri --
+	ste, %310
+	u -- ni --
+	ge -- ni -- te
+	Je -- su
+	Chri --
+	ste, %315
+	
+	Do -- mi -- ne
+	Fi -- li
+	u -- ni --
+	ge -- ni -- te %320
+	Je -- su
+	Chri --
+	ste.
+	
+	[Do -- mi -- ne %329
+	De -- us, %330
+	De -- us,
+	A -- gnus
+	De --
+	i,
+	De -- us, %335
+	A -- gnus
+	De --
+	i,
+	De -- us,
+	A -- gnus %340
+	De --
+	i,
+	Fi -- li --
+	us,
+	Fi -- li -- %345
+	us,
+	Fi -- li -- us
+	Pa --
+	
+	_ %350
+	_
+	tris,
+	Fi -- li --
+	us,
+	Fi -- li -- us %355
+	Pa --
+	tris.]
+	Do -- mi -- ne
+	De -- us,
+	A -- gnus %360
+	De --
+	i,
+	[Fi -- li --
+	us,
+	Fi -- li -- us %365
+	Pa --
+	tris.] %367 finis
 }
 
 % AltoNotes = {
