@@ -11,9 +11,9 @@ KyrieClarinoI = {
 		\partial 8 r8 e'4\fE d e r
 		R1
 		g4 f e r
-		a2 r4 d,
-		g2 r4 c, %5
-		f2 r
+		a2 r4 \pao d,
+		g2 r4 \pa c, %5
+		f2 \pd r
 		R1*2
 		e4 f g r
 		e8 a g8. f16 e8 r r4 %10
@@ -22,8 +22,8 @@ KyrieClarinoI = {
 		e r r2
 		r g4 f
 		e r a2 %15
-		r4 d, g2
-		r4 c, f2~
+		r4 \pao d, g2
+		r4 \pao c, f2~
 		f4. f8 e4 r
 		r2 g4. f8
 		e4 r d r %20
@@ -32,23 +32,23 @@ KyrieClarinoI = {
 		e2 d4 fis
 		g2 fis4 r
 		R1 %25
-		d2 e4 r
-		d e8 fis g4 r
+		\pao d2 e4 r
+		\pa d e8 fis \pd g4 r
 		r2 g4. fis8
 		g4 r g2
 		a r4 d, %30
 		e2 r4 c
-		d2 r8 e d d
-		d r r4 r8 e d d
-		d4 r r2
+		d2 r8 \pa e d d
+		d \pd r r4 r8 \pa e d d
+		d4 \pd r r2
 		R1*20 %54
-		r2 e4 d %55
+		r2 e4 \pao d %55
 		e r r2
-		r e4 d
+		r e4 \pao d
 		e r f2
 		r4 f e2
-		r4 e d2 %60
-		r4 d e2
+		r4 e \pao d2 %60
+		r4 \pao d e2
 		R1*5 %66
 		r2 r8 e e e
 		d4 r r8 e e e
@@ -59,8 +59,8 @@ KyrieClarinoI = {
 		R1 %75
 		g4 f e f
 		e r a2
-		r4 d, g2
-		r4 c, f2~
+		r4 \pao d, g2
+		r4 \pao c, f2~
 		f4. f8 e4 r %80
 		R1*3
 		g4 g g r
@@ -70,7 +70,7 @@ KyrieClarinoI = {
 		d4 r r2
 		r e8 a g8. f16
 		e8 r r4 e8 a g8. f16 %90
-		e2 f4 d
+		e2 f4 \pao d
 		e f e f
 		e r r2\fermata \bar "|." %93 finis
 	}
