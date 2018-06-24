@@ -99,6 +99,14 @@ KyrieViola = {
 	}
 }
 
+GloriaViola = {
+	\relative c' {
+		\clef treble
+		\key c \major \time 3/8 \tempoGloria
+		
+	}
+}
+
 % Viola = {
 % 	\relative c' {
 % 		\clef treble

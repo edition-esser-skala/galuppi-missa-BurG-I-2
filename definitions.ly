@@ -163,6 +163,7 @@ tempoMarkup =
 %
 
 tempoKyrie = \tempoMarkup "Allegro mà non troppo"
+tempoGloria = \tempoMarkup "Allegro"
 
 
 % modify the Scheme function 'format-bass-figure'

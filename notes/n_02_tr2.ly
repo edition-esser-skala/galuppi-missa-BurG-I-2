@@ -76,6 +76,14 @@ KyrieClarinoII = {
 	}
 }
 
+GloriaClarinoII = {
+	\relative c' {
+		\clef treble
+		\key c \major \time 3/8 \tempoGloria
+		
+	}
+}
+
 % ClarinoII = {
 % 	\relative c' {
 % 		\clef treble

@@ -126,6 +126,18 @@ KyrieBassoLyrics = \lyricmode {
 	son. %93 finis
 }
 
+GloriaBassoNotes = {
+	\relative c' {
+		\clef treble
+		\key c \major \time 3/8 \autoBeamOff \tempoGloria
+		
+	}
+}
+
+GloriaBassoLyrics = \lyricmode {
+	
+}
+
 % BassoNotes = {
 % 	\relative c' {
 % 		\clef treble
