@@ -204,12 +204,357 @@ GloriaOrgano = {
 	\relative c {
 		\clef bass
 		\key c \major \time 3/8 \tempoGloria
-		\mvTr c4\fE-\tutti r8
+		\mvTr c4\fE-\solo r8
+		c4 r8
+		c4 r8
+		c c e
+		f f f %5
+		d d d
+		e e e
+		c c c
+		d d d
+		g, g g %10
+		c r r
+		r16 e f g a h
+		c8 h g
+		c h g
+		c h g %15
+		c e, c
+		g' g, r
+		c' r r
+		b r r
+		as as as %20
+		g r r
+		as as as
+		g r r
+		f f f
+		e! e e %25
+		f f f
+		e e e
+		f g g,
+		c r r
+		f f f %30
+		e e e
+		f g g,
+		c4 r8
+		c4\pE r8
+		c4 r8 %35
+		c4 r8
+		c4 r8
+		c4 r8
+		\mvTr c\fE-\tuttiE c c
+		f f f %40
+		d d d
+		e e e
+		c c c
+		d d d
+		g g g %45
+		c c, r
+		r f16 g a h
+		c8 h g
+		c h g
+		c c, c' %50
+		g4 r8
+		c c, c
+		g' g, g
+		g r r
+		R4. %55
+		g'8 fis d
+		g fis d
+		g fis d
+		g g, g
+		g r r %60
+		R4.
+		e'8 dis h
+		e dis h
+		e dis h
+		e e, e %65
+		e r r
+		R4.
+		c''8 h g
+		c h g
+		c a g %70
+		fis fis g
+		d' d, r
+		R4.*2
+		c8 c c %75
+		h h' fis
+		g4 c,8~
+		c d d,
+		g' g, r
+		g' g h %80
+		c c c
+		a a a
+		h h h
+		g g g
+		a a a %85
+		d, d d
+		g r r
+		es es es
+		d r r
+		c c c %90
+		h r r
+		c c c
+		h h h
+		c d d,
+		g r r %95
+		\mvTr g'\p-\soloE r r
+		fis r r
+		f f f
+		e e e
+		dis dis dis %100
+		e4 r8
+		e r r
+		a g! f
+		r16 g g f e d
+		cis8 cis cis %105
+		d4 r8
+		d r r
+		g f e
+		r16 f f e d c
+		h8 h h %110
+		c4 r8
+		a a a
+		h4 r8
+		h4 r8
+		h4 r8 %115
+		h4 ais8
+		h h r
+		a! a a
+		g4 r8
+		c c c %120
+		h r r
+		r16 a' a g fis? e
+		dis8 dis dis
+		e fis g
+		a h c %125
+		h g e
+		a h h,
+		e, e'16 f! e d
+		c4 c'8
+		f,!4 g8 %130
+		c,4 c'8
+		f,4 g8
+		a4 a8
+		g r h
+		c r r %135
+		e, d c
+		g' g, r
+		R4.*2
+		r8 r e' %140
+		f d g
+		c,4 r8
+		c4 r8
+		R4.*3 %146
+		r8 h' g
+		c a d
+		g, r r
+		R4. %150
+		g8 fis d
+		g fis d
+		g fis d
+		g g, r
+		g r r %155
+		R4.
+		e'8 dis h
+		e dis h
+		e dis h
+		e e, r %160
+		e r r
+		R4.*10 %171
+		d''8 h g
+		fis d h'
+		h fis g
+		d4 r8 %175
+		R4.*11 %186
+		g8 fis d
+		g fis d
+		g fis d
+		g g, r %190
+		c' h g
+		c h g
+		c a g
+		fis fis g
+		c, d d, %195
+		g4 r8
+		c8 c c
+		h h h
+		c d d,
+		r r fis' %200
+		g d' d,
+		g, g'16 a g f!
+		e4 r8
+		a8 h h,
+		e e d! %205
+		c gis' e
+		a gis e
+		a gis e
+		a4 r8
+		d,8 e e, %210
+		a4 r8
+		a' a g!
+		f e d
+		cis cis cis
+		d4 r8 %215
+		g,8 g' f
+		e d c
+		h h h
+		c4 r8
+		r c c %220
+		g' g g
+		gis gis gis
+		a a a
+		a d, dis
+		e r r %225
+		r gis, a
+		e' e, r
+		a' gis e
+		a r r
+		f f f %230
+		e r r
+		d d d
+		c c d
+		e4 e,8
+		a4 r8 %235
+		a' gis e
+		a r r
+		f f f
+		e r r
+		d d d %240
+		c c d
+		e4 e,8
+		a4 r8
+		a' e c
+		f e c %245
+		f f f
+		g g g
+		e e e
+		f f f
+		f a f %250
+		c c'16 b a g
+		f8\p r r
+		f r r
+		f r r
+		f r r %255
+		b, r r
+		a r r
+		g c c,
+		f4 r8
+		b r r %260
+		a r r
+		g c c,
+		f' h,! h
+		c c, r
+		e' e e %265
+		f f f
+		f a f
+		c e c
+		f r r
+		f f f %270
+		e r r
+		e e e
+		d r r
+		g, g g
+		c d e %275
+		f4 fis8
+		g g, r
+		g a h
+		c4 r8
+		f a h %280
+		c r r
+		a g f
+		e e f
+		g g, g
+		c4 r8 %285
+		f f f
+		e e e
+		f g g,
+		a4 h8
+		c f g %290
+		c, e g
+		c, r r
+		c r r
+		c r r
+		c c cis %295
+		d r r
+		fis fis fis
+		g4 r8
+		g4 b8
+		c4 r8 %300
+		e, e c
+		f f f
+		f f f
+		c c c
+		cis cis cis %305
+		d d d
+		d g g
+		a f cis
+		d gis, gis
+		a4 r8 %310
+		g' g g
+		f4 r8
+		b a g
+		a a, a
+		d cis a %315
+		d r r
+		b b b
+		a4 r8
+		g' g g
+		f r r %320
+		b a g
+		a a, a
+		d4 r8
+		a' e c
+		f e c %325
+		f a f
+		g g f
+		e c e
+		f f, f'
+		c' c, r %330
+		f e c
+		f e c
+		f a f
+		c c' c
+		b fis d %335
+		g fis d
+		g b g
+		d d' d
+		c gis e
+		a gis e %340
+		a a a
+		e e, r
+		g'! g g
+		fis r r
+		f f f %345
+		e r r
+		d d d
+		e gis e
+		a c a
+		f a f %350
+		dis dis dis
+		e4 r8
+		d d d
+		c4 r8
+		f e d %355
+		e e, e
+		a4 a8
+		e' e, r
+		R4.*4 %362
+		d'8 d d
+		c4 r8
+		f e d %365
+		e e, e
+		a4 r8
+		a r r
+		r c e
+		a,4 r8\fermata \bar "||" %370 finis
 	}
 }
 
 GloriaBassFigures = \figuremode {
-	
+	%20 1st eighth: <6+>
+	%98 1st eighth: <6>
+	%206 1st eighth: <6>
 }
 
 % Organo = {
