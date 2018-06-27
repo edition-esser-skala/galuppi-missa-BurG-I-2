@@ -213,7 +213,7 @@ GloriaBassoNotes = {
 		c a d
 		g, r r
 		R4. %150
-		r8 \mvTr fis\pE^\soloE d
+		r8 fis d
 		g([ fis)] d
 		g fis d
 		g g, r
@@ -223,12 +223,12 @@ GloriaBassoNotes = {
 		e dis h
 		e e r %160
 		R4.*11 %171
-		\mvDll d'8\fE^\tuttiE h g
+		d'8 h g
 		fis([ d h']
 		a[ fis)] g
 		d4 r8 %175
 		R4.*11 %186
-		\mvTr g8\fE^\tuttiE fis d
+		g8 fis d
 		g([ fis d]
 		g[ fis d]
 		g) g, r %190

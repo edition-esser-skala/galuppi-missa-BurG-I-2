@@ -190,7 +190,7 @@ GloriaTenoreNotes = {
 		e e d
 		d r r
 		R4. %150
-		r8 \mvTr a\pE^\soloE a
+		r8 a a
 		h16([ c d8)] a
 		h d a
 		h h r
@@ -200,12 +200,12 @@ GloriaTenoreNotes = {
 		e fis dis
 		e e r %160
 		R4.*11 %171
-		\mvDll d8\fE^\tuttiE d d
+		d8 d d
 		d4.(
 		c8) d4
 		d r8 %175
 		R4.*11 %186
-		\mvTr d8\fE^\tuttiE d d
+		d8 d d
 		d4.~
 		d
 		d4 r8 %190

@@ -238,7 +238,7 @@ GloriaAltoNotes = {
 		g g fis
 		g r r
 		R4. %150
-		r8 \mvTr a\pE^\soloE fis
+		r8 a fis
 		g([ a)] fis
 		g a fis
 		g g r
@@ -248,12 +248,12 @@ GloriaAltoNotes = {
 		g a fis
 		g g r %160
 		R4.*11 %171
-		\mvDll fis8\fE^\tuttiE g g
+		fis8 g g
 		a([ fis g]
 		fis16[ g a8]) g
 		fis4 r8 %175
 		R4.*11 %186
-		\mvTr h8\fE^\tuttiE a fis
+		h8 a fis
 		g([ a fis]
 		g[ a fis]
 		g) g r %190

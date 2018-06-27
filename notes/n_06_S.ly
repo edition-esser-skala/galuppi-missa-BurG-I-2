@@ -238,7 +238,7 @@ GloriaSopranoNotes = {
 		h8. a16 g8
 		r \mvTr d'\fE^\tutti h
 		a a a
-		h \mvTr d\pE^\solo d
+		h d d
 		d4.~ %150
 		d~
 		d~
@@ -250,7 +250,7 @@ GloriaSopranoNotes = {
 		h~
 		h4 h8
 		h4 r8 %160
-		g e' d
+		\mvTr g\pE^\soloE e' d
 		c16[ h] a8[ g]
 		fis[ d' c]
 		h16[ a] g8 r
