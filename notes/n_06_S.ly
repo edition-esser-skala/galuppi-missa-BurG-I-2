@@ -261,7 +261,7 @@ GloriaSopranoNotes = {
 		d[ c h]
 		c[ a] h %170
 		\appoggiatura h a4 r8
-		\mvTr a\fE^\tutti h h
+		\mvDll a\fE^\tutti h h
 		a4( h8
 		c4) h8
 		a4 r8 %175

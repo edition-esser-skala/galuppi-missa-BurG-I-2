@@ -200,12 +200,12 @@ GloriaTenoreNotes = {
 		e fis dis
 		e e r %160
 		R4.*11 %171
-		\mvTr d8\fE^\tuttiE d d
+		\mvDll d8\fE^\tuttiE d d
 		d4.(
 		c8) d4
 		d r8 %175
 		R4.*11 %186
-		d8 d d
+		\mvTr d8\fE^\tuttiE d d
 		d4.~
 		d
 		d4 r8 %190
@@ -296,7 +296,6 @@ GloriaTenoreNotes = {
 
 GloriaTenoreLyrics = \lyricmode {
 	Glo -- ri -- a %35
-	
 	
 	in ex -- %40
 	cel -- sis,
