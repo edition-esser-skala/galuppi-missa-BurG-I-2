@@ -452,6 +452,15 @@ GloriaViola = {
 	}
 }
 
+QuiTollisViola = {
+	\relative c' {
+		\clef treble
+		\key c \major \time 4/4 \tempoQuiTollis
+			\set Score.currentBarNumber = #371
+		
+	}
+}
+
 % Viola = {
 % 	\relative c' {
 % 		\clef treble

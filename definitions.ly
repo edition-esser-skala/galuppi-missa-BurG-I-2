@@ -163,7 +163,9 @@ tempoMarkup =
 %
 
 tempoKyrie = \tempoMarkup "Allegro mà non troppo"
+
 tempoGloria = \tempoMarkup "Allegro"
+tempoQuiTollis = \tempoMarkup "Adagio"
 
 
 % modify the Scheme function 'format-bass-figure'
@@ -286,6 +288,7 @@ tempoGloria = \tempoMarkup "Allegro"
 	}
 	\context {
 		\GrandStaff
+		\override InstrumentName.font-shape = #'italic
 		\override StaffGrouper.staffgroup-staff-spacing =
 		  #'((basic-distance . 12)
          (minimum-distance . 12)

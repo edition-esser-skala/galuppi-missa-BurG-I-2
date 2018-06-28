@@ -474,6 +474,24 @@ GloriaViolinoI = {
 	}
 }
 
+QuiTollisViolinoISolo = {
+	\relative c' {
+		\clef treble
+		\key c \major \time 4/4 \tempoQuiTollis
+			\set Score.currentBarNumber = #371
+		
+	}
+}
+
+QuiTollisViolinoI = {
+	\relative c' {
+		\clef treble
+		\key c \major \time 4/4 \tempoQuiTollis
+			\set Score.currentBarNumber = #371
+		
+	}
+}
+
 % ViolinoI = {
 % 	\relative c' {
 % 		\clef treble

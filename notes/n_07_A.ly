@@ -557,6 +557,18 @@ GloriaAltoLyrics = \lyricmode {
 	tris.] %367 finis
 }
 
+QuiTollisAltoNotes = {
+	\relative c' {
+		\clef treble
+		\key c \major \time 4/4 \autoBeamOff \tempoQuiTollis
+			\set Score.currentBarNumber = #371
+	}
+}
+
+QuiTollisAltoLyrics = \lyricmode {
+	
+}
+
 % AltoNotes = {
 % 	\relative c' {
 % 		\clef treble

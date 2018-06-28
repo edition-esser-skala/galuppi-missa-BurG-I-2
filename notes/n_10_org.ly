@@ -898,6 +898,19 @@ GloriaBassFigures = \figuremode {
 	r4. %370 finis
 }
 
+QuiTollisOrgano = {
+	\relative c {
+		\clef bass
+		\key c \major \time 4/4 \tempoQuiTollis
+			\set Score.currentBarNumber = #371
+		\partial 8 r8 \mvTr c\fE-\soloE c c c g' g, g r
+	}
+}
+
+QuiTollisBassFigures = \figuremode {
+	
+}
+
 % Organo = {
 % 	\relative c {
 % 		\clef bass
