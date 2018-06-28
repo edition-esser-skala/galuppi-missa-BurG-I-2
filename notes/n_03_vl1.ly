@@ -273,7 +273,7 @@ GloriaViolinoI = {
 		e( fis g)
 		d( c h)
 		c16 a' c,8[ h] %170
-		a fis\f d
+		a fis[\f d]
 		fis'16 d g d h' d,
 		a' d, fis d g d
 		c'8 c h
@@ -297,11 +297,11 @@ GloriaViolinoI = {
 		e' g, d' g, f'! g,
 		e' c fis c g' c,
 		a' c, a' c, h g'
-		e c h8[\trill a] %195
+		e c h8[ a]\trill %195
 		g a16 h c d
 		e g, fis( g) fis( g)
 		d' g, fis( g) fis( g)
-		c32 h a16 h8[\trill a]
+		c32 h a16 h8[ a]\trill
 		fis' g c, %200
 		h32 a g16 a4\trill
 		g8 g, r
@@ -326,7 +326,7 @@ GloriaViolinoI = {
 		f e d
 		r c16 e a8
 		e d c
-		r h c %225
+		r \once \slurDashed h( c) %225
 		e, d'( c)
 		c[ h] h\f
 		c16 e, h' e, d' e,
