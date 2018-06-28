@@ -80,7 +80,156 @@ GloriaClarinoII = {
 	\relative c' {
 		\clef treble
 		\key c \major \time 3/8 \tempoGloria
-		
+		R4.
+		c'4\fE r8
+		e4 r8
+		g4 r8
+		f4 f8 %5
+		d4 d8
+		e4.
+		e
+		d~
+		d4 d8 %10
+		c r r
+		R4.
+		c8 d g,
+		c r r
+		c d g, %15
+		c4 r8
+		R4.*8 %24
+		e4. %25
+		f
+		e
+		f8 e d
+		e r r
+		R4.*2 %31
+		f8 e d
+		c r r
+		R4.*2 %35
+		c8\pE r r
+		R4.
+		e8 r r
+		e4\fE e8
+		f4 f8 %40
+		d4 d8
+		e4 e8
+		e4.
+		d~
+		d %45
+		c4 r8
+		R4.
+		c8 d g,
+		c r r
+		e4 e8 %50
+		d r r
+		e4.
+		d
+		d8 r r
+		R4. %55
+		d
+		d8 r r
+		d d4
+		d4 r8
+		R4.*8 %67
+		c8 d g,
+		c r r
+		c4 g8 %70
+		d'4 d8
+		d4 r8
+		R4.*2
+		c4. %75
+		d4 d8
+		d4 e8~
+		e d d
+		d4 r8
+		d4. %80
+		e
+		c
+		d~
+		d
+		c~ %85
+		c
+		d8 r r
+		R4.*2
+		c4. %90
+		d4 r8
+		e4.
+		d
+		e8 d4
+		d8 r r %95
+		R4.*33 %128
+		e4 e8
+		d4. %130
+		c4 e8
+		f4 d8
+		c4 c8
+		d r r
+		R4. %135
+		e8 d c
+		g4 r8
+		R4.*2
+		c4 r8 %140
+		f d g
+		e4 r8
+		R4.*4 %146
+		d4.
+		e8 c d
+		d r r
+		R4. %150
+		d4.
+		d8 r r
+		d4.
+		d8 r r
+		R4.*16 %170
+		r8 r d
+		d4.~
+		d4 r8
+		c4 d8
+		d4 r8 %175
+		R4.*11 %186
+		d4.
+		d8 r r
+		d d4
+		d4 r8 %190
+		c d g,
+		c r r
+		r r d
+		d4.
+		c16 e d4 %195
+		d r8
+		e4.
+		d
+		e8 d4
+		d c8 %200
+		d4 d8
+		d4 r8
+		R4.*41 %243
+		c4 c8
+		c4 e8 %245
+		f4 r8
+		R4.*3
+		f4 f8 %250
+		e4 r8
+		R4.*72 %323
+		c4 c8
+		c4 e8 %325
+		f4 r8
+		R4.
+		c4 e8
+		f4 r8
+		R4. %330
+		f8 e c
+		f e c
+		f4 r8
+		R4.*29 %362
+		d4.
+		c4 r8
+		d e f %365
+		e4 r8
+		e4 r8
+		c4 r8
+		e4 r8
+		e4 r8\fermata \bar "||" %370 finis
 	}
 }
 

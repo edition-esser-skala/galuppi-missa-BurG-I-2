@@ -80,10 +80,10 @@ GloriaClarinoI = {
 	\relative c' {
 		\clef treble
 		\key c \major \time 3/8 \tempoGloria
-		c'4\fE r8
+		\pa c'4\fE r8 \pd
 		e4 r8
 		g4 r8
-		g4 r8
+		\pao g4 r8
 		a4 a8 %5
 		f4 f8
 		g4.
@@ -92,9 +92,9 @@ GloriaClarinoI = {
 		f4 f8 %10
 		e r r
 		R4.
-		g4 f8
+		\pa g4 f8 \pd
 		e r r
-		g4 f8 %15
+		\pa g4 f8 \pd %15
 		e4 r8
 		R4.*8 %24
 		g4. %25
@@ -103,9 +103,9 @@ GloriaClarinoI = {
 		a8 g4
 		g8 r r
 		R4.*2 %31
-		a8 g8. f16
+		\pa a8 g8. f16 \pd
 		e8 r r
-		c4\pE r8
+		\pa c4\pE r8 \pd
 		R4. %35
 		e8 r r
 		R4.
@@ -119,7 +119,7 @@ GloriaClarinoI = {
 		f %45
 		e4 r8
 		R4.
-		g4 f8
+		\pa g4 f8 \pd
 		e r r
 		g4 g8 %50
 		g r r
@@ -132,7 +132,7 @@ GloriaClarinoI = {
 		g8 a4
 		g4 r8
 		R4.*8 %67
-		g4 f8
+		\pa g4 f8 \pd
 		e r r
 		e4 g8 %70
 		a4 g8
@@ -166,7 +166,7 @@ GloriaClarinoI = {
 		fis4 fis8
 		g r r
 		R4. %135
-		e8 f! g
+		\pa e8 f! g \pd
 		g4 r8
 		R4.*2
 		c,4 r8 %140
@@ -192,7 +192,7 @@ GloriaClarinoI = {
 		g8 r r
 		g a4
 		g4 r8 %190
-		g4 f!8
+		\pa g4 f!8 \pd
 		e r r
 		r r g
 		a4 g8~
@@ -201,31 +201,31 @@ GloriaClarinoI = {
 		g4.~
 		g~
 		g4 fis8
-		a g c, %200
-		d4 fis8
+		a g \pa c, %200
+		d4 \pd fis8
 		g4 r8
 		R4.*41 %243
-		f8 g e
+		\pa f8 g e
 		f g e %245
-		f4 r8
+		f4 \pd r8
 		R4.*3
 		f4 f8 %250
 		e4 r8
 		R4.*72 %323
 		f8 g g
-		a g e %325
-		f4 r8
+		a g \pa e %325
+		f4 \pd r8
 		R4.
-		g4 e8
-		f4 r8
+		g4 \pa e8
+		f4 \pd r8
 		R4. %330
-		a8 g4
-		f8 g4
+		\pa a8 g4
+		f8 g4 \pd
 		a4 r8
 		R4.*29 %362
 		f!4.
 		e4 r8
-		f e f %365
+		\pa f e f \pd %365
 		e4 r8
 		e4 r8
 		e4 r8
