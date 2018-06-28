@@ -103,7 +103,352 @@ GloriaViola = {
 	\relative c' {
 		\clef treble
 		\key c \major \time 3/8 \tempoGloria
-		
+		c4\fE r8
+		c4 r8
+		c4 r8
+		e g g
+		c, c c %5
+		d d d
+		h h h
+		c c c
+		a a a
+		h h h %10
+		c r r
+		r16 e f g a h
+		c8 g g
+		g g g
+		g g g %15
+		g c c
+		c h r
+		R4.*2
+		c,4. %20
+		d8 r r
+		c4.
+		d8 r r
+		g4.
+		g8 r r %25
+		c, f a
+		c, e g
+		a g g
+		g r r
+		r a,\pE a %30
+		r g g
+		a\fE g g
+		g4 r8
+		e\pE r r
+		e r r %35
+		e r r
+		e r r
+		e r r
+		e'\fE g c
+		c c c %40
+		c c c
+		h h h
+		c c c
+		a a a
+		h h h %45
+		c r r
+		r f,16 g a h
+		c8 g g
+		g g g
+		g g g %50
+		g4 r8
+		g e g
+		g d h
+		g r r
+		R4. %55
+		d'8 d d
+		d d d
+		d d d
+		d d h
+		g r r %60
+		R4.
+		h8 h h
+		h h h
+		h h h
+		h h' g %65
+		e r r
+		R4.
+		g8 g g
+		g g g
+		g a g %70
+		d d d
+		d d, d
+		d\pE g h
+		d, fis a
+		d,\fE d' d %75
+		d d d
+		d d e
+		e d d
+		d4 r8
+		h d g %80
+		g g g
+		a c a
+		fis fis fis
+		g h g
+		e e e %85
+		fis a fis
+		g r r
+		g g g
+		fis r r
+		d d d %90
+		d r r
+		r e e
+		r d d
+		e d d
+		d r r %95
+		g,\pE r r
+		R4.*4 %100
+		r8 gis' h
+		e, r r
+		R4.
+		r16 g! g f e d
+		cis8 cis cis %105
+		d4 r8
+		d r r
+		R4.
+		r16 f f e d c
+		h8 h h %110
+		c4 r8
+		R4.
+		r8 r dis
+		dis? dis e
+		h4 r8 %115
+		h4 cis8
+		h h r
+		r fis' fis
+		g4 r8
+		g e c %120
+		h4 r8
+		r16 a a g fis e
+		dis8 dis dis
+		e fis g
+		a h c %125
+		h g e
+		a h h
+		h4 r8
+		r r g'\fE
+		a a g %130
+		c, e g
+		a a g
+		e c c
+		h r d
+		c r r %135
+		e d c
+		g' g, r
+		r r c\pE
+		f g g,
+		c4 e8\fE %140
+		f d g
+		c, r r
+		c4 c8\pE
+		h4 h8
+		c d d, %145
+		g4 r8
+		r h\fE g
+		c a d
+		g, r r
+		R4. %150
+		d'8 d d
+		d d d
+		d d d
+		d4 r8
+		h r r %155
+		R4.
+		h8 h h
+		h h h
+		h h h
+		h4 r8 %160
+		e r r
+		a,\pE r r
+		a r r
+		d d d
+		g,4 r8 %165
+		g4.
+		g
+		g
+		g
+		c8 c cis %170
+		d4 r8
+		d\fE d d
+		d d d
+		c d d
+		d r r %175
+		d\pE d d
+		g, r r
+		d' d d
+		g, r r
+		a r r %180
+		h r r
+		c c c
+		h4 r8
+		r16 c' c h a g
+		fis4. %185
+		g8 d d,
+		g\fE d' d
+		d d d
+		d d d
+		d h g %190
+		c16 e g8[ g]
+		g g g
+		g a a
+		a d, d
+		e d d %195
+		d4 r8
+		r e e
+		r d d
+		e d d
+		r r a' %200
+		g g fis
+		g4 r8
+		R4.*2
+		r8 r e\fE %205
+		e e e
+		e e e
+		e e e
+		e4 r8
+		R4.*16 %225
+		r8 e\pE e
+		e4 r8
+		e\fE e e
+		e r r
+		a,\pE a a %230
+		h r r
+		h h h
+		c e f
+		e4 e8
+		e4 r8 %235
+		e\fE e e
+		e r r
+		a,\pE a a
+		h r r
+		h h h %240
+		c e f
+		e4 e8
+		e4 r8
+		c\fE c c
+		c c c %245
+		c c f
+		d d d
+		e e e
+		c c c
+		c4 r8 %250
+		c c'16 b a g
+		f8\pE r r
+		f r r
+		f r r
+		f r r %255
+		d r r
+		c r r
+		d c c
+		c4 r8
+		d r r %260
+		c r r
+		d c c
+		c d d
+		g,4 r8
+		c\fE c c %265
+		c c c
+		c c f
+		e c r
+		R4.
+		r8 a'\pE f %270
+		c r r
+		r c c
+		d r r
+		h! h h
+		c r r %275
+		R4.*2
+		g8 a h
+		c4 r8
+		f, a h %280
+		c r r
+		R4.*4 %285
+		r8 a'\fE a
+		r g g
+		a g g
+		e4 d8
+		c f g %290
+		c, e g
+		c,\pE r r
+		e r r
+		e r r
+		c c cis %295
+		d r r
+		fis, fis fis
+		g4 r8
+		b r r
+		R4. %300
+		r8 c c
+		c f f
+		f f f
+		c c c
+		cis cis cis %305
+		d d d
+		d g, g
+		a a a
+		a gis gis
+		a r r %310
+		r e' e
+		f r r
+		g a b
+		a a a
+		a\fE a a %315
+		a r r
+		d,\pE d d
+		e4 r8
+		r e e
+		f r r %320
+		g a b
+		a a a
+		a4 r8
+		c,\fE c c
+		c c c %325
+		c c f
+		d d d
+		c c c
+		c4 r8
+		r r c %330
+		c c c
+		c c c
+		c c c
+		c c c
+		d d d %335
+		d d d
+		d d d
+		d d d
+		e e e
+		e e e %340
+		e e e
+		e4 r8
+		e e e
+		fis4 r8
+		d d d %345
+		e4 r8
+		f! d d
+		h e e
+		e e e
+		f f f %350
+		fis fis fis
+		h, r r
+		h' h h
+		a r r
+		d, e f %355
+		e e e
+		e4 e8
+		e\pE e, r
+		r r e
+		a e r %360
+		r dis dis
+		e r r
+		h''\fE h h
+		a r r
+		d, e f %365
+		e4 r8
+		a, r r
+		a r r
+		r c e
+		a,4 r8\fermata \bar "||" %370 finis
 	}
 }
 

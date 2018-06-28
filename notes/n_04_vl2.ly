@@ -220,12 +220,12 @@ GloriaViolinoII = {
 		a fis g %115
 		fis dis e
 		e dis r
-		r c'!\mf c
-		h16 e,\p dis( e) dis( e)
-		e'8\mf e e %120
-		dis16 h\p ais( h) ais( h)
-		dis4.~\mf
-		dis16 e fis a\p g fis
+		r c'! c
+		h16 e, dis( e) dis( e)
+		e'8 e e %120
+		dis16 h ais( h) ais( h)
+		dis4.~\mfE
+		dis16 e fis a\pE g fis
 		g8 fis e
 		c h a %125
 		h g e
