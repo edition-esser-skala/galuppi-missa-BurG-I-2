@@ -397,7 +397,7 @@ GloriaViolinoII = {
 		r g'16 c e8
 		c, a'\pE g %295
 		fis r r
-		c' h a
+		c' b? a
 		g d'16[\f g b8]
 		g, r r
 		R4. %300

@@ -101,7 +101,7 @@ KyrieViola = {
 
 GloriaViola = {
 	\relative c' {
-		\clef treble
+		\clef alto
 		\key c \major \time 3/8 \tempoGloria
 		c4\fE r8
 		c4 r8
