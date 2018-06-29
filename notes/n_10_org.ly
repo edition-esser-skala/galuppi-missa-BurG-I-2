@@ -903,7 +903,7 @@ QuiTollisOrgano = {
 		\clef bass
 		\key c \major \time 4/4 \tempoQuiTollis
 			\set Score.currentBarNumber = #371
-		\partial 8 r8 \mvTr c\fE-\soloE c c c g' g, g r
+		\partial 8 r8 \mvTr c\pE-\soloE c c c g' g, g r
 		h h h h c c, r g'
 		c r r4 r2
 		R1
@@ -911,33 +911,33 @@ QuiTollisOrgano = {
 		g g g g g g g g
 		g g g g as g r h
 		c c, g' g, r4 g'8 g,
-		c4 r c8\pE c c c
+		c4 r c8 c c c
 		g' g, g r h h h h %380
 		c c, r g' c r r g
 		c c' c fis, g g, r4
 		R1
-		r8 g' g g g g g g
+		r8 \mvTr g'\fE-\tuttiE g g g g g g
 		g g g g g g g g %385
 		g g g g a a d, d
-		a' a a a d,4 r8 d
+		a' a a a d,4 r8 \mvTr d\pE-\soloE
 		d d d d a' a, a r
 		r cis cis cis d d, r4
 		d'8 d d d a' a, a r %390
 		cis cis cis cis d d, r a'
 		d r r a d d d gis,
 		a4 r r2
-		r r8 a' a a
+		r r8 \mvTr a'\fE-\tuttiE a a
 		a a a a a a a a %395
 		a a a a a a a a
 		h h e, e h h h h
-		e e, r4 e'8 e e e
+		e e, r4 \mvTr e'8\pE-\soloE e e e
 		h' h, r4 r8 dis dis dis
-		e e, r4 r8 e' e e %400
-		h' h, r4 r8 dis dis dis
-		e e, r h' e r r dis
+		e e, r4 r8 e'[ e] \mvTr e\fE-\tuttiE %400
+		h' h, r4 r8 \mvTr dis[\pE-\soloE dis] \mvTr dis\fE-\tuttiE
+		e e, r \mvTr h'\pE-\soloE e r r dis
 		e c16 h ais8 ais h h r4
 		R1
-		r4 h'8 h h h h h %405
+		r4 \mvTr h'8\fE-\tuttiE h h h h h %405
 		h h h h h h h h
 		h h h h e, e e e
 		e e e e a a a a
