@@ -946,7 +946,7 @@ QuiTollisOrgano = {
 		R1*2
 		r4 as'8 as g f e! d16 c
 		g8 g c c g g g g
-		c4 r\fermata \tempoQuoniam a8\p r d r %415
+		c4 r\fermata \tempoQuoniam \mvTr a8\p-\soloE r d r %415
 		e c' h a d c h a
 		d c h a d c h a
 		e' e, r4 r gis8 a
@@ -992,9 +992,48 @@ QuiTollisOrgano = {
 }
 
 QuiTollisBassFigures = \figuremode {
-	r8
-	r1*42 %412
-	r4 <6+> <_!> <6>
+	r8 r1 %371
+	r
+	r
+	r
+	r %375
+	r
+	r
+	r
+	<6 4>8 <5 3> r4 <7>2
+	<9 4>8 <8 3> r2 r8 <7> %380
+	r4. <7>8 r2
+	r1
+	r2 <6- 5>4 <\t 4>
+	<5 \t> <\t 3> <6- 5> <\t 4>
+	<5 \t> <\t _-> <7 _+>2 %385
+	<4>4 <_+> r2
+	r1
+	r
+	r2 <6 4>8 <5 _+> r4
+	<7->2 <9 4>8 <8 3> r <_+> %390
+	r4. <7 _+>8 r4. <7>8
+	<_+>1
+	r2 r8 <_+>4.
+	<6 5>4 <\t 4> <5 \t> <\t _+>
+	<6 5> <\t 4> <5 \t> <\t _!> %395
+	<7 5+ _+>2 <5+ 4>4 <\l _+>
+	r1
+	r
+	r
+	<6 4>8 <5+ _+> r4 r8 <7 _+>4. %400
+	<9+ 4>8 <8 3> r <5+ _+> r4. <6 5 _+>8
+	<8 3>8. \bassFigureExtendersOn q16 \bassFigureExtendersOff <7 _+>4 <5+ _+> r
+	r1
+	r4 <5+ _+> <6 5+> <\t 4>
+	<5+ \t> <\t _+> <6 5+> <\t 4> %405
+	<5+ \t> <\t _!> <7 _+> <6 4>
+	<5 \t> <\t _!> <7 _+> <6 4>
+	<5 \t> <\t _!> <7 _+> <6 4>
+	<5 \t> <\t _!> <7> <6 4>
+	<5 \t> <\t 3> r2 %410
+	r1*2
+	r4 <6+ [5-]> <_!>4 <6>
 	<_!> <_!> <5 4> <\l 3>
 	r1 %415
 	r8 <6> <6+> <5> <6> q <6+> r

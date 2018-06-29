@@ -449,11 +449,75 @@ QuiTollisTenoreNotes = {
 		\clef "treble_8"
 		\key c \major \time 4/4 \autoBeamOff \tempoQuiTollis
 			\set Score.currentBarNumber = #371
+		\partial 8 r8 R1*7 %377
+		r4 r8 \mvTr c\pE^\solo c16([ d)] e8 r c
+		c h r d d16([ e)] f8 r d
+		d c r h c([ f e)] d %380
+		\appoggiatura d4 c2 h4 r
+		R1
+		r2 \mvTr es\fE^\tutti
+		d2. c4~
+		c b a2~ %385
+		a a4 r
+		R1*7 %393
+		\mvTr f'4.\fE^\tuttiE f8 e4. e8~
+		e4 d d c! %395
+		h h h2
+		h4 r r2
+		R1
+		r2 r4 r8 h
+		h h r4 r r8 h %400
+		h8. h16 h8 r r4 r8 \mvTr h\pE^\soloE
+		h e,16 e cis'4 fis, r
+		R1
+		r2 \mvTr g'\fE^\tuttiE
+		fis2. e4~ %405
+		e d! d( c8.[ d16]
+		e2) e4 a,~
+		a a a( h8.[ c16]
+		d2.) g,4
+		g2 g4 r %410
+		R1*2
+		r4 c8 c d4 e!
+		h( c2 h4)
+		c4 r\fermata \tempoQuoniam r2 %415
+		R1*40 %455
+		R1\fermataMarkup \bar "||" %456 finis
 	}
 }
 
 QuiTollisTenoreLyrics = \lyricmode {
+	Qui tol -- lis pec -- %378
+	ca -- ta, qui tol -- lis pec --
+	ca -- ta, pec -- ca -- ta %380
+	mun -- di:
 	
+	Mi --
+	se -- re -- 
+	re no -- %385
+	bis.
+	
+	Sus -- ci -- pe de -- %394
+	pre -- ca -- ti -- %395
+	o -- nem no --
+	stram.
+	
+	Qui
+	se -- des ad %400
+	dex -- te -- ram, ad
+	dex -- te -- ram Pa -- tris:
+	
+	Mi --
+	se -- re -- %405
+	re no --
+	bis, mi --
+	se -- re -- 
+	re
+	no -- bis, %410
+	
+	mi -- se -- re -- re %413
+	no --
+	bis. %415 finis
 }
 
 % TenoreNotes = {
