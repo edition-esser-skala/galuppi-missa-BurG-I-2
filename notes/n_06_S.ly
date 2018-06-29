@@ -475,133 +475,133 @@ QuiTollisSopranoNotes = {
 		\clef treble
 		\key c \major \time 4/4 \autoBeamOff \tempoQuiTollis
 			\set Score.currentBarNumber = #371
-		\partial 8 r8 R1*13 %383
+		\partial 8 r8 R1*12 %382
 		r4 \mvTr d'2\fE^\tuttiE c4~
-		c h! es2 %385
-		d cis4 d~
+		c h! es2
+		d cis4 d~ %385
 		d cis d r
 		R1
 		r2 r4 r8 \mvTr f,\pE^\solo
-		f16([ g)] a8 r f f e r g %390
-		g16[( a)] b8 r g g f r e
+		f16([ g)] a8 r f f e r g
+		g16[( a)] b8 r g g f r e %390
 		f([ b a)] g \appoggiatura g4 f2
 		e4 r r2
 		r r4 \mvTr e'~\fE^\tuttiE
-		e d2 cis4 %395
-		f4. f8 e4. e8
+		e d2 cis4
+		f4. f8 e4. e8 %395
 		dis4 e e( dis)
 		e r r2
 		R1
-		r4 r8 \mvTr g,\pE^\solo g16([ a)] h8 r \mvTr g\fE^\tutti %400
-		g fis r \mvTr a\pE^\solo a16([ h)] c8 r \mvTr a\fE^\tutti
+		r4 r8 \mvTr g,\pE^\solo g16([ a)] h8 r \mvTr g\fE^\tutti
+		g fis r \mvTr a\pE^\solo a16([ h)] c8 r \mvTr a\fE^\tutti %400
 		a8. g16 g8 \mvTr fis\pE^\solo g([ c)] h a
 		\appoggiatura a4 g2 fis4 r
 		R1
-		\mvTr h\fE^\tuttiE %405
-		h
+		\mvTr h\fE^\tuttiE
+		h %405
 		h2. c4
 		h2 cis4 d~
 		d c2( h4)
-		a2( h4) c %410
-		c( h) c r
+		a2( h4) c
+		c( h) c r %410
 		R1
 		r4 g8 g es'2~
 		es8.([ d16)] c4 h c
-		d e! d2 %415
-		e4 r\fermata \tempoQuoniam r2
-		R1*10 %426
+		d e! d2
+		e4 r\fermata \tempoQuoniam r2 %415
+		R1*10 %425
 		r2\fermata r4 \mvTr e~\pE^\solo
 		e8 d16([ c)] h8 a gis a r4
 		r2 r4 r8 a
-		h16([ gis)] a8 d16([ h)] c8 h16([ gis)] a8 r a %430
-		h16([ gis)] a8 d16([ h)] c8 c8. h16 h8 r
+		h16([ gis)] a8 d16([ h)] c8 h16([ gis)] a8 r a
+		h16([ gis)] a8 d16([ h)] c8 c8. h16 h8 r %430
 		R1
 		r2 r4 r8 e
 		cis([ d16 e])] a,8 e' f8. e16 d8 f
-		h,([ c16 d)] g,8 d' e8. d16 c8 r %435
-		r2 r8 g'([ f\trill e)]
+		h,([ c16 d)] g,8 d' e8. d16 c8 r
+		r2 r8 g'([ f\trill e)] %435
 		r f([ e\trill d)] r e([ d\trill c)]
 		h8.[ c16] c4\trill d8.[ e16] e4\trill
 		f8[ e16 d] e8 f e([ d16 c] d4\trill)
-		c r r r8 cis %440
-		\appoggiatura e32 d16([ cis)] d8 r4 r r8 h
+		c r r r8 cis
+		\appoggiatura e32 d16([ cis)] d8 r4 r r8 h %440
 		\appoggiatura d32 c16([ h)] c8 r4 r2
 		r4 e a,8 h16([ c)] d8 c
 		c8. h16 h8 h c4 h8 a
-		dis8. dis16 e4 a,2~ %445
-		a8[ h16 c] h8[ a] g4 a
+		dis8. dis16 e4 a,2~
+		a8[ h16 c] h8[ a] g4 a %445
 		h8([ c16 h] a8) g16([ fis)] \appoggiatura a4 g2\trill
 		fis4 r r2
 		r8 h([ a\trill g)] r a([ g\trill fis)]
-		r g([ fis\trill e)] dis8.[ e16] e4\trill %450
-		fis8.[ g16] g4\trillE a8[ g16 fis] g8 a
+		r g([ fis\trill e)] dis8.[ e16] e4\trill
+		fis8.[ g16] g4\trillE a8[ g16 fis] g8 a %450
 		g4(\fermata fis) e r
-		R1*4 %456
-		R1\fermataMarkup \bar "||" %457 finis
+		R1*4 %455
+		R1\fermataMarkup \bar "||" %456 finis
 	}
 }
 
 QuiTollisSopranoLyrics = \lyricmode {
-	Mi -- se -- %384
-	_ re -- %385
-	re no -- _
+	Mi -- se -- %383
+	_ re --
+	re no -- _ %385
 	_ bis.
 	
 	Qui
-	tol -- lis pec -- ca -- ta, qui %390
-	tol -- lis pec -- ca -- ta, pec --
+	tol -- lis pec -- ca -- ta, qui
+	tol -- lis pec -- ca -- ta, pec -- %390
 	ca -- ta mun --
 	di:
 	Sus --
-	ci -- pe %395
-	de -- pre -- ca -- ti --
+	ci -- pe
+	de -- pre -- ca -- ti -- %395
 	o -- nem no --
 	stram.
 	
-	Qui se -- des, qui %400
-	se -- des, qui se -- des ad
+	Qui se -- des, qui
+	se -- des, qui se -- des ad %400
 	dex -- te -- ram, ad dex -- te -- ram
 	Pa -- tris:
 	
-	Mi -- %405
-	se --
+	Mi --
+	se -- %405
 	re -- re
 	no -- bis, mi --
 	se --
-	re -- re %410
-	no -- bis,
+	re -- re
+	no -- bis, %410
 	
 	mi -- se -- re --
 	re no -- _
-	_ _ _ %415
-	bis.
+	_ _ _
+	bis. %415
 	
-	Quo -- %427
+	Quo -- %426
 	ni -- am tu so -- lus,
 	tu
-	so -- lus, so -- lus San -- ctus, tu %430
-	so -- lus, so -- lus Do -- mi -- nus,
+	so -- lus, so -- lus San -- ctus, tu
+	so -- lus, so -- lus Do -- mi -- nus, %430
 	
 	tu
 	so -- lus Al -- tis -- si -- mus, tu
-	so -- lus Al -- tis -- si -- mus, %435
-	Je --
+	so -- lus Al -- tis -- si -- mus,
+	Je -- %435
 	_ _
 	_ _ _ _
 	_ _ su Chri --
-	ste, tu %440
-	so -- lus, tu
+	ste, tu
+	so -- lus, tu %440
 	so -- lus,
 	tu so -- lus, so -- lus
 	Do -- mi -- nus, tu so -- lus Al --
-	tis -- si -- mus, Je -- %445
-	_ _ su,
+	tis -- si -- mus, Je --
+	_ _ su, %445
 	Je -- su Chri --
 	ste,
 	Je -- _
-	_ _ _ %450
-	_ _ _ _ su
-	Chri -- ste. %452 finis
+	_ _ _
+	_ _ _ _ su %450
+	Chri -- ste. %451 finis
 }
 
 % SopranoNotes = {
