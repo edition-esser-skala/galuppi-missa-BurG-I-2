@@ -83,7 +83,7 @@
 % 	}
 	\bookpart {
 		\header {
-			movement = "2.2 QUI TOLLIS"
+			movement = "2.2 QUI TOLLIS – QUONIAM"
 		}
 		\score {
 			<<

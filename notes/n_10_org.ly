@@ -904,11 +904,141 @@ QuiTollisOrgano = {
 		\key c \major \time 4/4 \tempoQuiTollis
 			\set Score.currentBarNumber = #371
 		\partial 8 r8 \mvTr c\fE-\soloE c c c g' g, g r
+		h h h h c c, r g'
+		c r r4 r2
+		R1
+		r8 c' c fis, g g g g %375
+		g g g g g g g g
+		g g g g as g r h
+		c c, g' g, r4 g'8 g,
+		c4 r c8\pE c c c
+		g' g, g r h h h h %380
+		c c, r g' c r r g
+		c c' c fis, g g, r4
+		R1
+		r8 g' g g g g g g
+		g g g g g g g g %385
+		g g g g a a d, d
+		a' a a a d,4 r8 d
+		d d d d a' a, a r
+		r cis cis cis d d, r4
+		d'8 d d d a' a, a r %390
+		cis cis cis cis d d, r a'
+		d r r a d d d gis,
+		a4 r r2
+		r r8 a' a a
+		a a a a a a a a %395
+		a a a a a a a a
+		h h e, e h h h h
+		e e, r4 e'8 e e e
+		h' h, r4 r8 dis dis dis
+		e e, r4 r8 e' e e %400
+		h' h, r4 r8 dis dis dis
+		e e, r h' e r r dis
+		e c16 h ais8 ais h h r4
+		R1
+		r4 h'8 h h h h h %405
+		h h h h h h h h
+		h h h h e, e e e
+		e e e e a a a a
+		a a a a d, d d d
+		d d d d g g g g %410
+		g g g g c,4 r
+		R1*2
+		r4 as'8 as g f e! d16 c
+		g8 g c c g g g g %415
+		c4 r\fermata \tempoQuoniam a8\p r d r
+		e c' h a d c h a
+		d c h a d c h a
+		e' e, r4 r gis8 a
+		e' e, r4 r gis8 a %420
+		e' e, r4 a8 a a a
+		d d, r4 g8 g g g
+		c c, r4 c'8 h16 a gis8 a
+		e r r4 e8 r r4
+		e8 r r4 a8 d c d %425
+		e4 e, f8 d c d
+		e4\fermata e, a r
+		a'8 r d, r e c' h a
+		d c h a e' c r c
+		d c h a e c' h a %430
+		e e e e e e, e r
+		r4 gis'8 a e' e, r4
+		r gis8 a e' e, r4
+		a8 a a a d, d d d
+		g g g g c c, c c %435
+		c r r4 c8 r r4
+		g'8 r r4 g8 r r4
+		g8 r r4 g8 r r4
+		r8 g c f, g4 g,
+		c r a'8 a a a %440
+		d d, r4 g8 g g g
+		c c, r4 c'8 h16 a gis8 a
+		e' e, r4 c'8 h16 a gis8 a
+		e' e, e r r a h c
+		h a g e r fis? fis e %445
+		dis4 r8 dis e e, r4
+		r8 e' a h e ais, ais ais
+		h r r4 h,8 r r4
+		h8 r r4 h8 r r4
+		h8 r r4 h8 r r4 %450
+		h8 r r4 r8 h e a
+		h4\fermata h, e r
+		e8 e e e a a, r4
+		d8 d d d g g, r4
+		g'8 fis16 e dis8 e h a' g a %455
+		h4 h, c8 a' g a
+		h4\fermata h, e r\fermata \bar "||" %457 finis
 	}
 }
 
 QuiTollisBassFigures = \figuremode {
-	
+	r8
+	r1*43 %413
+	r4 <6+> <_!> <6>
+	<_!> <_!> <5 4> <\l 3> %415
+	r1
+	r8 <6> <6+> <5> <6> q <6+> r
+	<6> q <6+> r <6> q <6+> r
+	<6 4> <5 _+> r2 <5>4
+	<6 4>8 <5 _+> r2 <5>4 %420
+	<6 4>8 <5 _+> r4 <_+>2
+	r <_!>
+	r <6>4 <5>
+	<_+>2 q
+	q2. <6>8 <6 5> %425
+	<6 4>4 <[5] _+> r <6>8 <6 5>
+	r1
+	r2 r8 <6> <6+> r
+	<6> q <6+> r r2
+	<6>8 q <6+> r r <6> <6+> r %430
+	<5 _+> <6 4> <7 5 _+> <6 4> q4 <5 _+>
+	r <5> <6 4>8 <5 _+> r4
+	r <5> <6 4>8 <5 _+> r4
+	<_+>2 <_!>
+	r1 %435
+	r
+	r2 <6 4>
+	<5 3>1
+	r2 <6 4>4 <5 3>
+	r2 <_+> %440
+	r1
+	r2 <6>4 <5>
+	<6 4>8 <5 _+> r4 <6> <5>
+	<6 4> <5 _+> r2
+	<[5+] _+>4 <6> r8 <6+>4 <6 4>8 %445
+	<7 5 [_+]>1
+	r4 <6+>8 <[5+] _+> r <7 5 [_+]>4.
+	<[5+] _+>1
+	<6 4>2 <5 _+>
+	<6 4> <5 _+> %450
+	r1
+	r
+	<_+>
+	<_+>
+	<6>4 <5 [_+]> <[5+] _+> <6>8 <6+ 5> %455
+	r2. <6>8 <6+ 5>
+	r1 %457 finis
 }
 
 % Organo = {
