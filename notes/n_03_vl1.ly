@@ -479,7 +479,7 @@ QuiTollisViolinoISolo = {
 		\clef treble
 		\key c \major \time 4/4 \tempoQuiTollis
 			\set Score.currentBarNumber = #371
-		\partial 8 \mvTr c'\pE-\soloE e16. f32 g4 f16 e e8\trill d~ d16 f e g
+		\partial 8 c'\pE e16.-\soloE f32 g4 f16 e e8\trill d~ d16 f e g
 		f16. g32 a4 g16 f f8\trill e r d
 		\tuplet 3/2 8 { e16[(-. f-. g]-.) } a8 \tuplet 3/2 8 { g16[(-. a-. g-.]) f(-. e-. d-.) e[(-. f-. g-.)] } a8 \tuplet 3/2 8 { \slurDashed g16[(-. a-. g-.)] f(-. e-. d-.) \slurSolid }
 		\appoggiatura f4 e2 d16(-. d-.-\tuttiE d-. d-. d-. d-. d-. d-.)
@@ -494,7 +494,7 @@ QuiTollisViolinoISolo = {
 		d16 \mvTr d(-.\fE-\tuttiE d-. d-. d-. d-. d-. d-. d-. d-. d-. d-. c-. c-. c-. c-.)
 		c(-. c-. c-. c-. h!-. h-. h-. h-. es-. es-. es-. es-. es-. es-. es-. es-.)
 		d(-. d-. d-. d-. d-. d-. d-. d-. cis-. cis-. cis-. cis-. d-. d-. d-. d-.) %385
-		d(-. d-. d-. d-. cis-. cis-. cis-. cis-.) d8 \tuplet 3/2 8 { \once\slurDashed d'16([-. a-. f-.)] } d8 \noBeam \mvTr f\pE-\solo
+		d(-. d-. d-. d-. cis-. cis-. cis-. cis-.) d8 \tuplet 3/2 8 { d'16([-. a-. f-.)] } d8 \noBeam \mvTr f\pE-\solo
 		f16. g32 a4 g16 f f8 e~ e16 g f a
 		g16. a32 b4 a16 g f e d8 r4
 		r8 \tuplet 3/2 8 { d'16([-.-\tuttiE a-. f-.)] } d8 r r \tuplet 3/2 8 { a'16([-. e-. cis-.)] } a8 r
