@@ -518,8 +518,8 @@ QuiTollisViolinoISolo = {
 		a(-. a-. a-. a-. g-. g-. g-. g-. g-. g-. g-. g-. f!-. f-. f-. f-.)
 		e(-. e-. e-. e-. e-. e-. e-. e-. fis-. fis-. fis-. fis-. g-. g-. g-. g-.)
 		g(-. g-. g-. g-. f-. f-. f-. f-. f-. f-. f-. f-. e-. e-. e-. e-.)
-		d(-. d-. d-. d-. d-. d-. d-. d-.) e8 \tuplet 3/2 8 { c'16([-. g-. e-.)] } c8 \noBeam \mvTr d\pE-\solo %410
-		\tuplet 3/2 8 { e16[(-. f-. g]-.) } a8 \tuplet 3/2 8 { g16[(-. a-. g-.]) f(-. e-. d-.) e[(-. d-. e-.)] f(-. e-. d) } e4\trill
+		d(-. d-. d-. d-. d-. d-. d-. d-.) e8 \tuplet 3/2 8 { c'16([-. g-. e-.)] } c8 \noBeam d\pE %410
+		\tuplet 3/2 8 { e16[(-.-\solo f-. g]-.) } a8 \tuplet 3/2 8 { g16[(-. a-. g-.]) f(-. e-. d-.) e[(-. d-. e-.)] f(-. e-. d) } e4\trill
 		d8 \tuplet 3/2 8 { \mvTr g16([-.\fE-\tuttiE d-. h-.)] } g8 r r \tuplet 3/2 8 { c16([-. g-. es-.)] } c es'(-. es-. es-.)
 		fis(-. fis-. fis-. fis-. fis-. fis-. fis-. fis-. g-. h,-. h-. h-. c-. c-. c-. c-.)
 		d(-. d-. d-. d-. e!-. e-. e-. e-. d-. d-. d-. d-. d-. d-. d-. d-.)
@@ -620,7 +620,6 @@ QuiTollisViolinoI = {
 		e8 \tuplet 3/2 8 { c16([-. g-. e-.)] } c8\fermata \tempoQuoniam r r2 %415
 		R1*40 %455
 		R1\fermataMarkup \bar "||" %456 finis
-
 	}
 }
 
