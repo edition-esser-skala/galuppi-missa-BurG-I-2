@@ -494,8 +494,8 @@ QuiTollisViolinoIISolo = {
 		h8 \mvTr h,\fE-\tuttiE r4 r16 es'(-. es-. es-. es-. es-. es-. es-.)
 		d(-. d-. d-. d-. d-. d-. d-. d-. d-. d-. d-. d-. c-. c-. c-. c-.)
 		c(-. c-. c-. c-. b-. b-. g'-. g-. g-. g-. g-. g-. f-. f-. f-. f-.) %385
-		e(-. e-. e-. e-. e-. e-. e-. e-.) d8 \tuplet 3/2 8 { \once\slurDashed d'16([-. a-. f-.)] } d8 \noBeam \mvTr d\pE-\solo
-		d16. e32 f4 e16 d d8 cis~ cis16 e d f
+		e(-. e-. e-. e-. e-. e-. e-. e-.) d8 \tuplet 3/2 8 { \once\slurDashed d'16([-. a-. f-.)] } d8 \noBeam d\pE
+		d16.-\solo e32 f4 e16 d d8 cis~ cis16 e d f
 		e16. f32 g4 f16 e d8 a16. f32 d8 r
 		r8 \tuplet 3/2 8 { d''16([-.-\tuttiE a-. f-.)] } d8 r r \tuplet 3/2 8 { a'16([-. e-. cis-.)] } a8 r
 		r \tuplet 3/2 8 { g'16([-. e-. cis-.)] } a8 r r \tuplet 3/2 8 { d16([-. a-. f-.)] } d8 r %390
@@ -534,6 +534,7 @@ QuiTollisViolinoII = {
 		\clef treble
 		\key c \major \time 4/4 \tempoQuiTollis
 			\set Score.currentBarNumber = #371
+		
 		
 	}
 }

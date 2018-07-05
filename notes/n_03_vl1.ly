@@ -482,7 +482,7 @@ QuiTollisViolinoISolo = {
 		\partial 8 c'\pE e16.-\soloE f32 g4 f16 e e8\trill d~ d16 f e g
 		f16. g32 a4 g16 f f8\trill e r d
 		\tuplet 3/2 8 { e16[(-. f-. g]-.) } a8 \tuplet 3/2 8 { g16[(-. a-. g-.]) f(-. e-. d-.) e[(-. f-. g-.)] } a8 \tuplet 3/2 8 { \slurDashed g16[(-. a-. g-.)] f(-. e-. d-.) \slurSolid }
-		\appoggiatura f4 e2 d16(-. d-.-\tuttiE d-. d-. d-. d-. d-. d-.)
+		\appoggiatura f4 e2 d16 d(-.-\tuttiE d-. d-. d-. d-. d-. d-.)
 		d(-. d-. d-. d-. c-. c-. c-. c-. c-. c-. c-. c-. h!-. h-. h-. h-.) %375
 		es(-. es-. es-. es-. es-. es-. es-. es-.) fis8-! g-! r f
 		\tuplet 3/2 8 { e16[(-. c-. g-.)] e(-. d-. c-.) } d'4\trill \tuplet 3/2 8 { e16[(-. c-. g-.)] e(-. d-. c-.) } d'4\trill
@@ -494,8 +494,8 @@ QuiTollisViolinoISolo = {
 		d16 \mvTr d(-.\fE-\tuttiE d-. d-. d-. d-. d-. d-. d-. d-. d-. d-. c-. c-. c-. c-.)
 		c(-. c-. c-. c-. h!-. h-. h-. h-. es-. es-. es-. es-. es-. es-. es-. es-.)
 		d(-. d-. d-. d-. d-. d-. d-. d-. cis-. cis-. cis-. cis-. d-. d-. d-. d-.) %385
-		d(-. d-. d-. d-. cis-. cis-. cis-. cis-.) d8 \tuplet 3/2 8 { d'16([-. a-. f-.)] } d8 \noBeam \mvTr f\pE-\solo
-		f16. g32 a4 g16 f f8 e~ e16 g f a
+		d(-. d-. d-. d-. cis-. cis-. cis-. cis-.) d8 \tuplet 3/2 8 { d'16([-. a-. f-.)] } d8 \noBeam f\pE
+		f16.-\solo g32 a4 g16 f f8 e~ e16 g f a
 		g16. a32 b4 a16 g f e d8 r4
 		r8 \tuplet 3/2 8 { d'16([-.-\tuttiE a-. f-.)] } d8 r r \tuplet 3/2 8 { a'16([-. e-. cis-.)] } a8 r
 		r \tuplet 3/2 8 { g'16([-. e-. cis-.)] } a8 r r \tuplet 3/2 8 { d16([-. a-. f-.)] } d8 r %390
@@ -573,7 +573,54 @@ QuiTollisViolinoI = {
 		\clef treble
 		\key c \major \time 4/4 \tempoQuiTollis
 			\set Score.currentBarNumber = #371
-		
+		\partial 8 r8 r2 r8 \tuplet 3/2 8 { \once \slurDashed g''16([-.\pE d-. h-.)] } g8 r
+		r2 r8 \tuplet 3/2 8 { c'16([-. g-. e-.)] } c8 r
+		r4 r8 g, c4 r8 g
+		c \tuplet 3/2 8 { \once \slurDashed c''16([-. g-. e-.)] } c8 fis, g16 d'(-. d-. d-. d-. d-. d-. d-.)
+		d(-. d-. d-. d-. c-. c-. c-. c-. c-. c-. c-. c-. h!-. h-. h-. h-.) %375
+		es(-. es-. es-. es-. es-. es-. es-. es-.) fis8-! g-! r f
+		\tuplet 3/2 8 { e16[(-. c-. g-.)] e(-. d-. c-.) } d'4\trill \tuplet 3/2 8 { e16[(-. c-. g-.)] e(-. d-. c-.) } d'4\trill
+		c8 g16. e32 c8 r r \tuplet 3/2 8 { c''16[(-. g-. e-.)] } c8 r
+		r \tuplet 3/2 8 { g'16[(-. d-. h-.)] } g8 r r \tuplet 3/2 8 { f'16[(-. d-. h-.)] } g8 r
+		r \tuplet 3/2 8 { \once\slurDashed c16(-. g-. e-.) } c8 r r2 %380
+		r8 \tuplet 3/2 8 { \once\slurDashed c''16[(-. g-. e-.)] } c8 fis, g \tuplet 3/2 8 { g'16[(-. d-. h-.)] } g8 g,
+		c r r g c r c' fis,
+		g16 d'(-.\fE d-. d-. d-. d-. d-. d-. d-. d-. d-. d-. c-. c-. c-. c-.)
+		c(-. c-. c-. c-. h!-. h-. h-. h-. es-. es-. es-. es-. es-. es-. es-. es-.)
+		d(-. d-. d-. d-. d-. d-. d-. d-. cis-. cis-. cis-. cis-. d-. d-. d-. d-.) %385
+		d(-. d-. d-. d-. cis-. cis-. cis-. cis-.) d8 \tuplet 3/2 8 { d'16([-. a-. f-.)] } d8 \noBeam \mvTr r
+		r2 r8 \tuplet 3/2 8 { a'16([-.\pE e-. cis-.)] } a8 r
+		r2 r8 \tuplet 3/2 8 { d16([-. a-. f-.)] } d8 r
+		r8 \tuplet 3/2 8 { d''16([-. a-. f-.)] } d8 r r \tuplet 3/2 8 { a'16([-. e-. cis-.)] } a8 r
+		r \tuplet 3/2 8 { g'16([-. e-. cis-.)] } a8 r r \tuplet 3/2 8 { d16([-. a-. f-.)] } d8 r %390
+		r2 r8 \tuplet 3/2 8 { d'16([-. a-. f-.)] } d8 gis,
+		a \tuplet 3/2 8 { a''16([-. e-. cis-.)] } a8 a, d r r a
+		d r d gis, a \tuplet 3/2 8 { \once \slurDashed a''16([-.\fE e-. cis-.)] } a8 r
+		f'16(-. f-. f-. f-. f-. f-. f-. f-. e-. e-. e-. e-. e-. e-. e-. e-.)
+		e(-. e-. e-. e-. d-. d-. d-. d-. d-. d-. d-. d-. c!-. c-. a'-. a-.) %395
+		a(-. a-. a-. a-. g-. g-. g-. g-. fis-. fis-. fis-. fis-. fis-. fis-. fis-. fis-.)
+		e8 \tuplet 3/2 8 { e16([-. h-. g-.)] } e8 r r2
+		r8 \tuplet 3/2 8 { h''16([-.\pE fis-. dis-.)] } h8 r r2
+		r8 \tuplet 3/2 8 { e16([-. h-. g-.)] } e8 r r \tuplet 3/2 8 { e'16([-. h-. g-.)] } e8 r
+		r \tuplet 3/2 8 { h''16([-.\fE fis-. dis-.)] } h8 r r \tuplet 3/2 8 { a'16([-.\pE fis-. dis-.)] } h8 r %400
+		r \tuplet 3/2 8 { e16([-.\fE h-. g-.)] } e8 r r4 r8 a'\pE
+		g16(-. g,-. g-. g-.) g(-. g-. g-. g-.) fis8 \tuplet 3/2 8 { h'16([-. fis-. dis-.)] } h8 h,
+		e r r h e r e ais,
+		h8 \tuplet 3/2 8 { h''16([-.\fE fis-. dis-.)] } h8 r r16 g'(-. g-. g-. g-. g-. g-. g-.)
+		fis(-. fis-. fis-. fis-. fis-. fis-. fis-. fis-. fis-. fis-. fis-. fis-. e-. e-. e-. e-.) %405
+		e(-. e-. e-. e-. d!-. d-. h'-. h-. gis-. gis-. gis-. gis-. a-. a-. a-. a-.)
+		a(-. a-. a-. a-. g-. g-. g-. g-. g-. g-. g-. g-. f!-. f-. f-. f-.)
+		e(-. e-. e-. e-. e-. e-. e-. e-. fis-. fis-. fis-. fis-. g-. g-. g-. g-.)
+		g(-. g-. g-. g-. f-. f-. f-. f-. f-. f-. f-. f-. e-. e-. e-. e-.)
+		d(-. d-. d-. d-. d-. d-. d-. d-.) e8 \tuplet 3/2 8 { c'16([-. g-. e-.)] } c8 g,\pE %410
+		c r r g c r c' fis,
+		g8 \tuplet 3/2 8 { g'16([-.\fE d-. h-.)] } g8 r r \tuplet 3/2 8 { c16([-. g-. es-.)] } c es'(-. es-. es-.)
+		fis(-. fis-. fis-. fis-. fis-. fis-. fis-. fis-. g-. h,-. h-. h-. c-. c-. c-. c-.)
+		d(-. d-. d-. d-. e!-. e-. e-. e-. d-. d-. d-. d-. d-. d-. d-. d-.)
+		e8 \tuplet 3/2 8 { c16([-. g-. e-.)] } c8\fermata \tempoQuoniam r r2 %415
+		R1*40 %455
+		R1\fermataMarkup \bar "||" %456 finis
+
 	}
 }
 
