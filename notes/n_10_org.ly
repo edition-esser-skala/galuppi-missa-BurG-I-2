@@ -946,7 +946,7 @@ QuiTollisOrgano = {
 		R1*2
 		r4 as'8 as g f e! d16 c
 		g8 g c c g g g g
-		c4 r\fermata \tempoQuoniam \mvTr a8\p-\soloE r d r %415
+		c4 << { \oneVoice r\fermata } \\ { s8 \tempoQuoniam s } >> \mvTr a8\p-\soloE r d r %415
 		e c' h a d c h a
 		d c h a d c h a
 		e' e, r4 r gis8 a

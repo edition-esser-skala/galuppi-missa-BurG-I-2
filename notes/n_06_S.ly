@@ -508,7 +508,7 @@ QuiTollisSopranoNotes = {
 		r4 g8 g es'2~
 		es8.([ d16)] c4 h c
 		d e! d2
-		e4 r\fermata \tempoQuoniam r2 %415
+		e4 << { \oneVoice r\fermata } \\ { s8 \tempoQuoniam s } >> r2 %415
 		R1*10 %425
 		r2\fermata r4 \mvTr e~\pE^\solo
 		e8 d16([ c)] h8 a gis a r4

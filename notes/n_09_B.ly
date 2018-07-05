@@ -462,7 +462,7 @@ QuiTollisBassoNotes = {
 		R1*2
 		r4 as'8 as g([ f e!)] d16([ c)]
 		g4( c g2)
-		c4 r\fermata \tempoQuoniam r2 %415
+		c4 << { \oneVoice r\fermata } \\ { s8 \tempoQuoniam s } >> r2 %415
 		R1*40 %455
 		R1\fermataMarkup \bar "||" %456 finis
 	}

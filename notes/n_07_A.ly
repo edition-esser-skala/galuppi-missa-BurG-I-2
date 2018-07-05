@@ -595,10 +595,9 @@ QuiTollisAltoNotes = {
 		r2 r4 c8 c
 		fis2 g4 g8 g
 		g4 g g2
-		g4 r\fermata \tempoQuoniam r2 %415
+		g4 << { \oneVoice r\fermata } \\ { s8 \tempoQuoniam s } >> r2 %415
 		R1*40 %455
 		R1\fermataMarkup \bar "||" %456 finis
-		
 	}
 }
 

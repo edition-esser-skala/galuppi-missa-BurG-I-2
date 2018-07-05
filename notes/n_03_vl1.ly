@@ -479,7 +479,92 @@ QuiTollisViolinoISolo = {
 		\clef treble
 		\key c \major \time 4/4 \tempoQuiTollis
 			\set Score.currentBarNumber = #371
-		
+		\partial 8 \mvTr c'\pE-\soloE e16. f32 g4 f16 e e8\trill d~ d16 f e g
+		f16. g32 a4 g16 f f8\trill e r d
+		\tuplet 3/2 8 { e16[(-. f-. g]-.) } a8 \tuplet 3/2 8 { g16[(-. a-. g-.]) f(-. e-. d-.) e[(-. f-. g-.)] } a8 \tuplet 3/2 8 { \slurDashed g16[(-. a-. g-.)] f(-. e-. d-.) \slurSolid }
+		\appoggiatura f4 e2 d16(-. d-.-\tuttiE d-. d-. d-. d-. d-. d-.)
+		d(-. d-. d-. d-. c-. c-. c-. c-. c-. c-. c-. c-. h!-. h-. h-. h-.) %375
+		es(-. es-. es-. es-. es-. es-. es-. es-.) fis8-! g-! r f
+		\tuplet 3/2 8 { e16[(-. c-. g-.)] e(-. d-. c-.) } d'4\trill \tuplet 3/2 8 { e16[(-. c-. g-.)] e(-. d-. c-.) } d'4\trill
+		c8 g16. e32 c8 r r \tuplet 3/2 8 { c''16[(-. g-. e-.)] } c8 r
+		r \tuplet 3/2 8 { g'16[(-. d-. h-.)] } g8 r r \tuplet 3/2 8 { f'16[(-. d-. h-.)] } g8 r
+		r \tuplet 3/2 8 { \once\slurDashed c16(-. g-. e-.) } c8 r r2 %380
+		r8 \tuplet 3/2 8 { \once\slurDashed c''16[(-. g-. e-.)] } c8 fis, g \tuplet 3/2 8 { g'16[(-. d-. h-.)] } g8 \noBeam d'-\solo
+		\tuplet 3/2 8 { e16[(-. f-. g]-.) } a8 \tuplet 3/2 8 { g16[(-. a-. g-.)] f(-. e-. d-.) e[(-. d-. e-.)] f(-. e-. d-.) } e4\trill
+		d16 \mvTr d(-.\fE-\tuttiE d-. d-. d-. d-. d-. d-. d-. d-. d-. d-. c-. c-. c-. c-.)
+		c(-. c-. c-. c-. h!-. h-. h-. h-. es-. es-. es-. es-. es-. es-. es-. es-.)
+		d(-. d-. d-. d-. d-. d-. d-. d-. cis-. cis-. cis-. cis-. d-. d-. d-. d-.) %385
+		d(-. d-. d-. d-. cis-. cis-. cis-. cis-.) d8 \tuplet 3/2 8 { \once\slurDashed d'16([-. a-. f-.)] } d8 \noBeam \mvTr f\pE-\solo
+		f16. g32 a4 g16 f f8 e~ e16 g f a
+		g16. a32 b4 a16 g f e d8 r4
+		r8 \tuplet 3/2 8 { d'16([-.-\tuttiE a-. f-.)] } d8 r r \tuplet 3/2 8 { a'16([-. e-. cis-.)] } a8 r
+		r \tuplet 3/2 8 { g'16([-. e-. cis-.)] } a8 r r \tuplet 3/2 8 { d16([-. a-. f-.)] } d8 r %390
+		r2 r8 \tuplet 3/2 8 { d'16([-. a-. f-.)] } d8 gis,
+		a \tuplet 3/2 8 { a''16([-. e-. cis-.)] } a8 \noBeam e'-\solo \tuplet 3/2 8 { f16([-. g-. a-.)] } b8 \tuplet 3/2 8 { a16([-. b-. a-.)] g(-. f-. e-.) }
+		\tuplet 3/2 8 { f([-. e-. f-.)] g(-. f-. e-.) } f4\trill e8 \tuplet 3/2 8 { \mvTr a16([-.\fE-\tuttiE e-. cis-.)] } a8 r
+		f'16(-. f-. f-. f-. f-. f-. f-. f-. e-. e-. e-. e-. e-. e-. e-. e-.)
+		e(-. e-. e-. e-. d-. d-. d-. d-. d-. d-. d-. d-. c!-. c-. a'-. a-.) %395
+		a(-. a-. a-. a-. g-. g-. g-. g-. fis-. fis-. fis-. fis-. fis-. fis-. fis-. fis-.)
+		e8 \tuplet 3/2 8 { e16([-. h-. g-.)] } e8 \noBeam \mvTr g'\pE-\solo g16. a32 h4 a16 g
+		g8 fis~ fis16 a g h a16. h32 c4 h16 a
+		g fis e8 r4 r8 \tuplet 3/2 8 { e16([-.-\tuttiE h-. g-.)] } e8 r
+		r \tuplet 3/2 8 { h''16([-.\fE fis-. dis-.)] } h8 r r \tuplet 3/2 8 { a'16([-.\pE fis-. dis-.)] } h8 r %400
+		r \tuplet 3/2 8 { e16([-.\fE h-. g-.)] } e8 r r4 r8 a'\pE
+		g16(-. g,-. g-. g-.) g(-. g-. g-. g-.) fis8 \tuplet 3/2 8 { h'16([-. fis-. dis-.)] } h8 \noBeam fis'-\solo
+		\tuplet 3/2 8 { g16([-. a-. h-.)] } c8 \tuplet 3/2 8 { h16([-. c-. h-.)] a(-. g-. fis-.) g([-. fis-. g-.)] a(-. g-. fis-.) } g4\trill
+		fis8 \tuplet 3/2 8 { \mvTr h16([-.\fE-\tuttiE fis-. dis-.)] } h8 r r16 g'(-. g-. g-. g-. g-. g-. g-.)
+		fis(-. fis-. fis-. fis-. fis-. fis-. fis-. fis-. fis-. fis-. fis-. fis-. e-. e-. e-. e-.) %405
+		e(-. e-. e-. e-. d!-. d-. h'-. h-. gis-. gis-. gis-. gis-. a-. a-. a-. a-.)
+		a(-. a-. a-. a-. g-. g-. g-. g-. g-. g-. g-. g-. f!-. f-. f-. f-.)
+		e(-. e-. e-. e-. e-. e-. e-. e-. fis-. fis-. fis-. fis-. g-. g-. g-. g-.)
+		g(-. g-. g-. g-. f-. f-. f-. f-. f-. f-. f-. f-. e-. e-. e-. e-.)
+		d(-. d-. d-. d-. d-. d-. d-. d-.) e8 \tuplet 3/2 8 { c'16([-. g-. e-.)] } c8 \noBeam \mvTr d\pE-\solo %410
+		\tuplet 3/2 8 { e16[(-. f-. g]-.) } a8 \tuplet 3/2 8 { g16[(-. a-. g-.]) f(-. e-. d-.) e[(-. d-. e-.)] f(-. e-. d) } e4\trill
+		d8 \tuplet 3/2 8 { \mvTr g16([-.\fE-\tuttiE d-. h-.)] } g8 r r \tuplet 3/2 8 { c16([-. g-. es-.)] } c es'(-. es-. es-.)
+		fis(-. fis-. fis-. fis-. fis-. fis-. fis-. fis-. g-. h,-. h-. h-. c-. c-. c-. c-.)
+		d(-. d-. d-. d-. e!-. e-. e-. e-. d-. d-. d-. d-. d-. d-. d-. d-.)
+		e8 \tuplet 3/2 8 { c16([-. g-. e-.)] } c8\fermata \noBeam \tempoQuoniam \mvTr e'\pE-\markup { \remark "Oboe solo" } e d16 c h8 a %415
+		gis a r c h16 gis a8 d16 h c8
+		h16 gis a8 r c h16 gis a8 d16 h c8
+		\appoggiatura d16 c8 h f'4 e16 fis gis a d,8 c
+		\appoggiatura d16 c8 h f'4 e16 fis gis a d,8 c
+		\appoggiatura d16 c8 h cis4~ cis8 d16 e a,8 e' %420
+		\appoggiatura e f4 h,~ h8 c16 d g,8 d'
+		\appoggiatura d e4 a,~ a8 h16 c d8 c
+		h f'( e\trill dis) r e( d\trill cis)
+		r d( c\trill h) c f e16 a, d h
+		c4 h\trill a8 f' e16 a, d h %425
+		c4\fermata h\trill a r
+		r2 r4 r8 a
+		h16 gis a8 d16 h c8 h16 gis a8 r4
+		r2 r4 r8 c
+		d16 h c8 h16 gis a8 a4 gis8 f' %430
+		e16 fis gis a d,8 c \appoggiatura d16 c8 h f'4
+		e16 fis gis a d,8 c c\trill h r4
+		r8 a'4 cis,8 \appoggiatura e32 d16 cis d e \appoggiatura e8 f4
+		r8 g4 h,8 \appoggiatura d32 c16 h c d e8 c
+		c, g''( f\trill e) r e( d\trill c) %435
+		r d( c\trill h) r c( h\trill a)
+		g8. a16 a4\trill h8. c16 c4\trill
+		d8 c16 h c8 a c4 h\trill
+		c cis~ cis8 d16 e a,8 e'
+		\appoggiatura e f4 h,~ h8 c16 d g,8 d' %440
+		\appoggiatura d e4 a,4~ a8 h16 c d8 c
+		\appoggiatura d16 c8 h r4 r2
+		R1
+		r2 r8 dis dis e
+		fis g16 a g8 fis e4 fis %445
+		g8 a16 g fis8 e16 dis \appoggiatura fis4 e2-\critnote
+		dis8 h'( a\trill g) r a( g\trill fis)
+		r g( fis\trill e) r fis( e\trill dis)
+		r e( dis\trill cis) h8. cis16 cis4\trill
+		dis8. e16 e4\trill fis?8 e16 dis e8 fis %450
+		e4\fermata dis\trill e gis~
+		gis8 a16 h e,8 h' \appoggiatura h c4 fis,~
+		fis8 g16 a d,8 a' \appoggiatura a h4 e,~
+		e8 fis16 g a8 g fis c' h16 e, a fis
+		g4 fis\trill e8 c h16 e, a fis %455
+		g4\fermata fis\trill e r\fermata \bar "||" %456 finis
 	}
 }
 
