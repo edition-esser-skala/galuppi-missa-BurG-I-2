@@ -512,7 +512,7 @@ QuiTollisViolinoIISolo = {
 		r \tuplet 3/2 8 { e16([-.\fE h-. g-.)] } e8 r r4 r8 fis'\pE
 		e16(-. e,-. e-. e-.) e(-. e-. e-. e-.) dis8 \tuplet 3/2 8 { h''16([-. fis-. dis-.)] } h8 \noBeam dis-\solo
 		\tuplet 3/2 8 { e16([-. fis-. g-.)] } a8 \tuplet 3/2 8 { g16([-. a-. g-.)] fis(-. e-. dis-.) e([-. dis-. e-.)] fis(-. e-. dis-.) } e4\trill
-		fis8 \tuplet 3/2 8 { \mvTr h16([-.\fE-\tuttiE fis-. dis-.)] } h fis'(-. fis-. fis-. fis-. fis-. fis-. fis-. e-. e-. e-. e-.)
+		dis8 \tuplet 3/2 8 { \mvTr h'16([-.\fE-\tuttiE fis-. dis-.)] } h fis'(-. fis-. fis-. fis-. fis-. fis-. fis-. e-. e-. e-. e-.)
 		e(-. e-. e-. e-. dis-. dis-. dis-. dis-. g-. g-. g-. g-. g-. g-. g-. g-.)  %405
 		fis(-. fis-. fis-. fis-. fis-. fis-. d!-. d-. h-. h-. h-. h-. c!-. c-. c-. c-.)
 		h(-. h-. h-. h-. h-. h-. h-. h-. cis-. cis-. cis-. cis-. d-. d-. d-. d-.)
