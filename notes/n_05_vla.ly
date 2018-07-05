@@ -457,7 +457,42 @@ QuiTollisViola = {
 		\clef treble
 		\key c \major \time 4/4 \tempoQuiTollis
 			\set Score.currentBarNumber = #371
-		
+		\partial 8 r8 R1*3 %373
+		r2 r8 g'\pE g g
+		g g g g g g g g %375
+		g g g g c, d r d
+		c c c h r c c h
+		c4 r r2
+		R1*4 %382
+		r8 g'\fE g g g g g g
+		g g g g g g g g
+		g g g b a a a a %385
+		a a a a a4 r
+		R1*6 %392
+		r2 r8 a\fE a a
+		a a a a a a a a
+		a a a a a a a c! %395
+		h h h h h h h h
+		h4 r r2
+		R1
+		r2 r4 r8 h,\fE
+		h4 r r r8 h %400
+		h4 r r r8 h\pE
+		h c16 h ais8 ais h4 r
+		R1
+		r4 h'8\fE h h h h h
+		h h h h h h h h %405
+		h h, h h h h c8. d16
+		e8 e e e e e a, a
+		a a a a a a h8. c16
+		d8 d d d d d g, g
+		g g g g g4 r %410
+		R1*2
+		r8 c\fE c c d g g g
+		g g g g g g g g
+		g4 << { \oneVoice r\fermata } \\ { s8 \tempoQuoniam s } >> r2 %415
+		R1*40 %455
+		R1\fermataMarkup \bar "||" %456 finis
 	}
 }
 
