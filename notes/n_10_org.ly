@@ -1085,12 +1085,129 @@ CumSanctoOrgano = {
 		\key c \major \time 4/4 \tempoCumSancto
 			\set Score.currentBarNumber = #457
 		\partial 8 r8 r \mvTr c'\fE-\tuttiE h g c c, e\pE f
-		
+		e c d g, c c, e'[\fE f]
+		e c d g, c c, c r
+		r2 r8 \mvTr c'\pE-\soloE e f %460
+		e c d g, c c e f
+		e c d g c c, e c
+		f f f f h, h h h
+		e e e e a, a a a
+		d d d d g, g g g %465
+		c c, r4 r8 c' f c
+		g' g, g g g g g g
+		g g g g g g g g
+		r g' g g c, c' a h16 c
+		fis,8 fis g g c, c cis cis %470
+		d d d d d d d d
+		d d d d d d d d
+		d d d d g g h a16 g
+		c8 c a g fis g c, d
+		g, r a r h r r fis' %475
+		g c d d, g g, h g
+		c c' c c fis, fis fis fis
+		h h h h e, e e e
+		a a a a d, d d d
+		g c, d d, g c d d, %480
+		g' c, d d, g g' g, r
+		r2 r8 \mvTr g\pE-\soloE h d
+		h g a d g g, \mvTr h'[\fE-\tuttiE c]
+		h g a d, g g, g r
+		r e'\pE fis h e e, g[\fE a] %485
+		g e fis h, e e, e gis'
+		a d e e, a a, a h'
+		c f, g g, c' c, c a'
+		d g, a a d d, d a'
+		d d16 c h8 a gis a f f %490
+		e e'16 d c8 a d d, d d
+		g g g g c, c c c
+		f f f f h, h h h
+		e e e e a a, r4
+		r8 a d dis e gis a d,? %495
+		e4 e, a8 a' a, r
+		R1
+		r8 \mvTr c\pE-\soloE e f e c d g
+		r4 r8 \mvTr f\fE-\tuttiE e c d g
+		c c, e c f f f f %500
+		h, h h h e e e e
+		a, a a a d d d d
+		g, g g g c c, r4
+		r8 c' f c g' g, r4
+		R1 %505
+		r2 r8 g' g g
+		c, c c c g g'16 f e8 d
+		c4 r r2
+		r8 c c c f f f f
+		c c, c' c f f d c %510
+		g' g, r4 c8 r d r
+		e e e d c f g g,
+		c f g g, c f g g,
+		c4 a'-! f-! g-!
+		c,8 c' f, g c, c' f, g %515
+		c,4 r r2\fermata \bar "|." %516 FINIS
 	}
 }
 
 CumSanctoBassFigures = \figuremode {
-	
+	r8 r1 %457
+	r
+	r
+	r %460
+	r
+	r
+	r2 <7>
+	q q
+	q q %465
+	r1
+	r2 <6 4>
+	<5 3> <6 4>
+	r1
+	r %470
+	<_+>2 <6 4>
+	<_+> <6 4>
+	<[_+]>1
+	r2 <6 5>4 <6 5>8 <_+>
+	r1 %475
+	r
+	r2 <7>
+	q q
+	q <7 _+>
+	r4 <6 4>8 <5 _+> r4 <6 4>8 <5 _+> %480
+	r1
+	r
+	r
+	r
+	r4. <[5+] _+>8 r2 %485
+	r1
+	r
+	r
+	r
+	r %490
+	r
+	<7>2 q
+	q q
+	<7 5 _+>1
+	r %495
+	r
+	r
+	r
+	r
+	r %500
+	r
+	r
+	r
+	r
+	r %505
+	r
+	r
+	r
+	r
+	r %510
+	r
+	r
+	r
+	r
+	r %515
+	r %516 FINIS
 }
 
 % Organo = {
