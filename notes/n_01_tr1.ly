@@ -234,6 +234,15 @@ GloriaClarinoI = {
 	}
 }
 
+CumSanctoClarinoI = {
+	\relative c' {
+		\clef treble
+		\key c \major \time 4/4 \tempoCumSancto
+			\set Score.currentBarNumber = #457
+		
+	}
+}
+
 % ClarinoI = {
 % 	\relative c' {
 % 		\clef treble

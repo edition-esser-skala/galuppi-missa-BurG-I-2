@@ -1079,6 +1079,20 @@ QuiTollisBassFigures = \figuremode {
 	<[6] [4]>4 <[5+] [_+]> r2 %456 finis
 }
 
+CumSanctoOrgano = {
+	\relative c {
+		\clef bass
+		\key c \major \time 4/4 \tempoCumSancto
+			\set Score.currentBarNumber = #457
+		\partial 8 r8 r \mvTr c'\fE-\tuttiE h g c c, e\pE f
+		
+	}
+}
+
+CumSanctoBassFigures = \figuremode {
+	
+}
+
 % Organo = {
 % 	\relative c {
 % 		\clef bass

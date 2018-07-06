@@ -604,6 +604,18 @@ QuiTollisSopranoLyrics = \lyricmode {
 	Chri -- ste. %451 finis
 }
 
+CumSanctoSopranoNotes = {
+	\relative c' {
+		\clef treble
+		\key c \major \time 4/4 \autoBeamOff \tempoCumSancto
+			\set Score.currentBarNumber = #457
+	}
+}
+
+CumSanctoSopranoLyrics = \lyricmode {
+	
+}
+
 % SopranoNotes = {
 % 	\relative c' {
 % 		\clef treble

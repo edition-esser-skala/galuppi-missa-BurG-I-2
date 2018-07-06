@@ -520,6 +520,18 @@ QuiTollisTenoreLyrics = \lyricmode {
 	bis. %415 finis
 }
 
+CumSanctoTenoreNotes = {
+	\relative c' {
+		\clef "treble_8"
+		\key c \major \time 4/4 \autoBeamOff \tempoCumSancto
+			\set Score.currentBarNumber = #457
+	}
+}
+
+CumSanctoTenoreLyrics = \lyricmode {
+	
+}
+
 % TenoreNotes = {
 % 	\relative c' {
 % 		\clef "treble_8"
