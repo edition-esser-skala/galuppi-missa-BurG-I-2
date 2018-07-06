@@ -525,11 +525,111 @@ CumSanctoTenoreNotes = {
 		\clef "treble_8"
 		\key c \major \time 4/4 \autoBeamOff \tempoCumSancto
 			\set Score.currentBarNumber = #457
+		\partial 8 r8 R1*4 %460
+		r2 r4 r8 \mvTr c\fE^\tuttiE
+		c e d d e8. e16 e8 e
+		f2~ f8[ f16 e] \appoggiatura e d8[ e16 f]
+		e2~ e8[ e16 d] \appoggiatura d c8[ d16 e]
+		d2~ d8 d16 c h8 c16([ d)] %465
+		c8 c r4 r8 c([ a g)]
+		g4 r r2
+		R1
+		r8 d' h a16 g e'8 e r4
+		r8 d h c16 d e8 e e e %470
+		a, a r4 r2
+		r8 \mvTr a\pE^\solo a a h4. h8
+		a4 r r2
+		r8 \mvTr e'\fE^\tuttiE c d16 e d8 d e d
+		d d r4 r r8 \once \tieDashed d~ %465
+		d e d4 d r
+		R1*6 %482
+		r2 r4 r8 \mvTr e\fE^\tuttiE
+		d d c d d8. c16 h8 r
+		r2 r4 r8 c %485
+		h h a h h8. h16 h8 r
+		r4 r8 h c8. c16 c8 r
+		r4 r8 d e8. e16 e8 r
+		r4 r8 e f8. f16 f8 e
+		f f16 f f8 d h c a4 %490
+		h r8 c d2~
+		d8[ d16 c] \appoggiatura c h8[ c16 d] c2~
+		c8[ c16 h] \appoggiatura h a8[^\critnote h16 c] h2~
+		h8 h16 h gis8 e' e e r4
+		r2 r8 e4 f8 %495
+		e2 e4 r
+		R1*2
+		r4 r8 \mvTr f\fE^\tuttiE g e f d
+		e8. e16 e8 e f2~ %500
+		f8[ f16 e] \appoggiatura e d8[ e16 f] e2~
+		e8[ e16 d] \appoggiatura d c8[ d16 e] d2~
+		d8 d16 c h8 g' g g r4
+		r8 c,([ a g)] g4 r
+		r2 r8 \mvTr h\pE^\solo h h %505
+		c4. c8 h4 r8 \mvTr h\fE^\tutti
+		c c16 d e8 d16([ c)] h8 h r4
+		R1
+		r8 c c c16 c c4. c8
+		c c c d16([ e)] f8 f f([ e)] %510
+		d4 r r2
+		r4 c8 d e f e([ d)]
+		e r r4 r8 f([ e d)]
+		e4 e f d
+		e8 e([ f d)] e c([ f, g)] %515
+		c4 r r2\fermata \bar "|." %516 FINIS
 	}
 }
 
 CumSanctoTenoreLyrics = \lyricmode {
+	[Cum %461
+	San -- cto, San -- cto Spi -- ri -- tu] in
+	glo -- _
+	_ _
+	_ ri -- a De -- i __ %465
+	Pa -- tris, a --
+	men.
 	
+	In glo -- ri -- a De -- i,
+	in glo -- ri -- a De -- i Pa -- tris, %470
+	a -- men.
+	Cum San -- cto Spi -- ri --
+	tu
+	in glo -- ri -- a De -- i Pa -- tris,
+	a -- men, a -- %475
+	men, a -- men.
+	
+	[Cum %483
+	San -- cto, San -- cto Spi -- ri -- tu,
+	cum %485
+	San -- cto, San -- cto Spi -- ri -- tu
+	in glo -- ri -- a,
+	in glo -- ri -- a,
+	in glo -- ri -- a, in
+	glo -- ri -- a De -- i Pa -- tris, a -- %490
+	men,] in glo --
+	_ _
+	_ _
+	ri -- a De -- i Pa -- tris,
+	a -- men, %495
+	a -- men.
+
+	[Cum San -- cto, San -- cto %499
+	Spi -- ri -- tu] in glo -- %500
+	_ _
+	_ _
+	ri -- a De -- i Pa -- tris,
+	a -- men.
+	Cum San -- cto %505
+	Spi -- ri -- tu in
+	glo -- ri -- a De -- i __ Pa -- tris,
+	
+	in glo -- ri -- a De -- i
+	Pa -- tris, De -- i __ Pa -- tris, a -- %510
+	men,
+	[De -- i Pa -- tris, a --
+	men, a --
+	men, a -- men, a --
+	men, a -- men, a -- %515
+	men.] %516 FINIS
 }
 
 % TenoreNotes = {

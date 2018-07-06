@@ -704,7 +704,7 @@ CumSanctoAltoLyrics = \lyricmode {
 	glo -- _
 	_ _
 	_ ri -- a De -- i __ %465
-	Pa -- tris, A --
+	Pa -- tris, a --
 	men.
 	Cum San -- cto Spi -- ri --
 	tu in glo -- ri -- a
