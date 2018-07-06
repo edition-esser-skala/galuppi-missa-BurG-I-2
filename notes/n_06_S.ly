@@ -609,11 +609,117 @@ CumSanctoSopranoNotes = {
 		\clef treble
 		\key c \major \time 4/4 \autoBeamOff \tempoCumSancto
 			\set Score.currentBarNumber = #457
+			\partial 8 r8 R1*2 %458
+		r2 r4 r8 \mvTr g'\pE^\solo
+		c g d' g, e'8. d16 c8 r %460
+		r2 r4 r8 \mvTr c\fE^\tutti
+		c c c h c8. c16 c8 r
+		r4 r8 c d2~
+		d8[ d16 c] \appoggiatura c h8[ a16 g] c2~
+		c8[ c16 h] \appoggiatura h a8[ g16 f] h8 h16 h h8 h %465
+		c c d4( e8[ f16 e] d8[ c])
+		h4 r r2
+		r8 \mvTr d\pE^\solo d d e4. e8
+		d4 r r8 \mvTr e\fE^\tutti c c16 c
+		d8 d d d c4( h) %470
+		a r r2
+		R1
+		r2 r8 g' d c16 h
+		c8 c c c c h a4
+		h r r r8 c( %475
+		h) c h([ a)] h4 r
+		R1*6 %482
+		r2 r4 r8 \mvTr c\fE^\tuttiE
+		d h c c h8. a16 g8 r
+		r2 r4 r8 a %485
+		h g a fis g8. g16 g8 r
+		r4 r8 gis a8. a16 a8 r
+		r4 r8 h c8. c16 c8 r
+		r4 r8 cis d8. d16 d8 cis
+		d d16 d d8 f e e e([ d)] %490
+		e4 r8 e f2~
+		f8[ f16 e] \appoggiatura e d8[ c16 h] e2~
+		e8[ e16 d] \appoggiatura d c8[ h16 a] d2~
+		d8 d16 c h8 a16([ gis)] c8 c \mvTr d\pE^\solo d
+		e([ f16 e] d8) c \mvTr h8([\fE^\tuttiE e c)] d %495
+		c4( h) a r
+		r r8 \mvTr g\pE^\solo c g d' g,
+		e'8. d16 c8 r r2
+		r4 r8 \mvTr c\fE^\tuttiE c c c h
+		c8. c16 c8 r r4 r8 c %500
+		d2~ d8[ d16 c] \appoggiatura c h8[ a16 g]
+		c2~ c8[ c16 h] \appoggiatura h a8[ g16 f]
+		h8 h16 h h8 h c c d4(
+		e8[ f16 e] d8[ c)] h4 r
+		r2 r8 \mvTr d\pE^\solo d d %505
+		es4. es8 d \mvTr d\fE^\tutti h a16 g
+		e'8([ e16 f] g8) f16([ e)] d8 d r4
+		R1
+		r4 c c8 c16 c c8 c
+		c c c c c c h([ c)] %510
+		d4 r r2
+		r4 c8 h c c c([ h)]
+		c r r4 r8 c( c[ h)]
+		c4 c c h
+		c8 c([ d h)] c c([ f, g)] %515
+		c,4 r r2\fermata \bar "|." %516 FINIS
 	}
 }
 
 CumSanctoSopranoLyrics = \lyricmode {
+	Cum %459
+	San -- cto, San -- cto Spi -- ri -- tu, %460
+	[cum
+	San -- cto, San -- cto Spi -- ri -- tu]
+	in glo --
+	_ _
+	_ _ ri -- a De -- i %465
+	Pa -- tris, A --
+	men.
+	Cum San -- cto Spi -- ri --
+	tu in glo -- ri -- a
+	De -- i Pa -- tris, a -- %470
+	men.
 	
+	In glo -- ri -- a
+	De -- i Pa -- tris, a -- men, a --
+	men, a -- %457
+	men, a -- men.
+	
+	[Cum %483
+	San -- cto, San -- cto Spi -- ri -- tu,
+	cum %485
+	San -- cto, San -- cto Spi -- ri -- tu
+	in glo -- ri -- a,
+	in glo -- ri -- a,
+	in glo -- ri -- a, in
+	glo -- ri -- a De -- i Pa -- tris, a -- %490
+	men,] in glo --
+	_ _
+	_ _
+	ri -- a De -- i __ Pa -- tris, De -- i
+	Pa -- tris, a -- men, %495
+	a -- men.
+	Cum San -- cto, San -- cto
+	Spi -- ri -- tu,
+	[cum San -- cto, San -- cto
+	Spi -- ri -- tu] in %500
+	glo -- _
+	_ _
+	_ ri -- a De -- i Pa -- tris, a --
+	men.
+	Cum San -- cto %505
+	Spi -- ri -- tu in glo -- ri -- a
+	De -- i __ Pa -- tris,
+	
+	in glo -- ri -- a De -- i
+	Pa -- tris, De -- i Pa -- tris, a -- %510
+	men,
+	[De -- i Pa -- tris, a --
+	men, a --
+	men, a -- men, a --
+	men, a -- men, a --
+	men.]
 }
 
 % SopranoNotes = {

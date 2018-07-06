@@ -1088,19 +1088,19 @@ CumSanctoOrgano = {
 		e c d g, c c, e'[\fE f]
 		e c d g, c c, c r
 		r2 r8 \mvTr c'\pE-\soloE e f %460
-		e c d g, c c e f
+		e c d g, c c \mvTr e[\fE-\tuttiE f]
 		e c d g c c, e c
 		f f f f h, h h h
 		e e e e a, a a a
 		d d d d g, g g g %465
 		c c, r4 r8 c' f c
 		g' g, g g g g g g
-		g g g g g g g g
-		r g' g g c, c' a h16 c
+		\mvTr g\pE-\soloE g g g g g g g
+		r \mvTr g'\fE-\tuttiE g g c, c' a h16 c
 		fis,8 fis g g c, c cis cis %470
 		d d d d d d d d
-		d d d d d d d d
-		d d d d g g h a16 g
+		\mvTr d\pE-\soloE d d d d d d d
+		d \mvTr d\fE-\tuttiE d d g g h a16 g
 		c8 c a g fis g c, d
 		g, r a r h r r fis' %475
 		g c d d, g g, h g
@@ -1122,7 +1122,7 @@ CumSanctoOrgano = {
 		g g g g c, c c c
 		f f f f h, h h h
 		e e e e a a, r4
-		r8 a d dis e gis a d,? %495
+		r8 \mvTr a\pE-\soloE d dis \mvTr e\fE-\tuttiE gis a d,? %495
 		e4 e, a8 a' a, r
 		R1
 		r8 \mvTr c\pE-\soloE e f e c d g
