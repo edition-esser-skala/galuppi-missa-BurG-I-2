@@ -629,7 +629,7 @@ CumSanctoSopranoNotes = {
 		h r r r8 c( %475
 		h) c h([ a)] h4 r
 		R1*6 %482
-		r2 r4 r8 \mvTr c\fE^\tuttiE
+		r2 r4 r8 \mvDll c\fE^\tuttiE
 		d h c c h8. a16 g8 r
 		r2 r4 r8 a %485
 		h g a fis g8. g16 g8 r
@@ -645,7 +645,7 @@ CumSanctoSopranoNotes = {
 		c4( h) a r
 		r r8 \mvTr g\pE^\solo c g d' g,
 		e'8. d16 c8 r r2
-		r4 r8 \mvTr c\fE^\tuttiE c c c h
+		r4 r8 \mvDll c\fE^\tuttiE c c c h
 		c8. c16 c8 r r4 r8 c %500
 		d2~ d8[ d16 c] \appoggiatura c h8[ a16 g]
 		c2~ c8[ c16 h] \appoggiatura h a8[ g16 f]

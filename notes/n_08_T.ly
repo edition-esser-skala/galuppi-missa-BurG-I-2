@@ -543,7 +543,7 @@ CumSanctoTenoreNotes = {
 		d d r4 r r8 \once \tieDashed d~ %465
 		d e d4 d r
 		R1*6 %482
-		r2 r4 r8 \mvTr e\fE^\tuttiE
+		r2 r4 r8 \mvDll e\fE^\tuttiE
 		d d c d d8. c16 h8 r
 		r2 r4 r8 c %485
 		h h a h h8. h16 h8 r
@@ -558,7 +558,7 @@ CumSanctoTenoreNotes = {
 		r2 r8 e4 f8 %495
 		e2 e4 r
 		R1*2
-		r4 r8 \mvTr f\fE^\tuttiE g e f d
+		r4 r8 \mvDll f\fE^\tuttiE g e f d
 		e8. e16 e8 e f2~ %500
 		f8[ f16 e] \appoggiatura e d8[ e16 f] e2~
 		e8[ e16 d] \appoggiatura d c8[ d16 e] d2~

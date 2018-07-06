@@ -662,7 +662,7 @@ CumSanctoAltoNotes = {
 		R1*4 %480
 		r2 r4 r8 \mvTr d\pE^\solo
 		g d a' d, h'8. a16 g8 r
-		r2 r4 r8 \mvTr g\fE^\tutti
+		r2 r4 r8 \mvDll g\fE^\tutti
 		g g g fis g8. d16 d8 r
 		r2 r4 r8 e %485
 		e e e dis e8. e16 e8 r
@@ -677,7 +677,7 @@ CumSanctoAltoNotes = {
 		c([ d16 c] h8) a \mvTr gis([\fE^\tuttiE h a)] h %495
 		a4( gis) a r
 		R1*2
-		r4 r8 \mvTr a\fE^\tuttiE g g f g
+		r4 r8 \mvDll a\fE^\tuttiE g g f g
 		g8. g16 g8 g a2~ %500
 		a8[ a16 g] \appoggiatura g f8[ e16 d] g2~
 		g8[ g16 f] \appoggiatura f e8[ d16 c] f2~

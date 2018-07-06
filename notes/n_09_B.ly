@@ -508,11 +508,111 @@ CumSanctoBassoNotes = {
 		\clef bass
 		\key c \major \time 4/4 \autoBeamOff \tempoCumSancto
 			\set Score.currentBarNumber = #457
+		\partial 8 r8 R1*4 %460
+		r2 r4 r8 \mvTr f\fE^\tuttiE
+		e c d g c8. c,16 c8 r
+		r c' a[ g16 f] h2~
+		h8[ h16 a] \appoggiatura a g8[ f16 e] a2~
+		a8[ a16 g] \appoggiatura g f8[ e16 d] g8 g16 g g8 g %465
+		c, c r4 r8 c([ f c)]
+		g'4 r r2
+		R1
+		r2 r8 c a h16 c
+		fis,8 fis g g c,4( cis) %470
+		d r r2
+		r8 \mvTr fis\pE^\solo fis fis g4. g8
+		fis4 r r8 \mvTr d'\fE^\tuttiE h a16 g
+		e'8 c a g fis g c,([ d)]
+		g4 r r r8 fis( %475
+		g) c d([ d,)] g4 r
+		R1*6 %482
+		r2 r4 r8 \mvDll c\fE^\tuttiE
+		h g a d, g8. g,16 g8 r
+		r2 r4 r8 a' %485
+		g e fis h, e8. e16 e8 r
+		r4 r8 e a8. a,16 a8 r
+		r4 r8 g' c8. c,16 c8 r
+		r4 r8 a' d8. d,16 d8 a'
+		d d16 c h8 a gis a f4 %490
+		e r r8 a f[ e16 d]
+		g2~ g8[ g16 f] \appoggiatura f e8[ d16 c]
+		f2~ f8[ f16 e] \appoggiatura e d8[ c16 h]
+		e8 e16 e e8 e a a, r4
+		r2 r8 gis'([ a)] d, %495
+		e2 a,4 r
+		R1*2
+		r4 r8 \mvDll f'\fE^\tuttiE e c d g
+		c8. c,16 c8 r r c' a[ g16 f] %500
+		h2~ h8[ h16 a] \appoggiatura a g8[ f16 e]
+		a2~ a8[ a16 g] \appoggiatura g f8[ e16 d]
+		g8 g16 g g8 g c c, r4
+		r8 c([ f c)] g'4 r
+		R1 %505
+		r2 r8 g g g16 g
+		g4. g8 g g r4
+		r8 \mvTr e\pE^\solo e e f4. f8
+		e4 r r8 \mvTr c'\fE^\tutti a g16 f
+		e8([ g16 f] e8) d16([ c)] a'8 f d([ c)] %510
+		g'4 r r2
+		r4 e8 d c f g4
+		c,8 r r4 r8 f([ g g,)]
+		c4 a' f g
+		c,8 c'([ f, g)] c, c'([ f, g)] %515
+		c,4 r r2\fermata \bar "|." %516 FINIS
 	}
 }
 
 CumSanctoBassoLyrics = \lyricmode {
+	Cum %461
+	San -- cto, San -- cto Spi -- ri -- tu
+	in glo -- _
+	_ _
+	_ _ ri -- a De -- i %465
+	Pa -- tris, a --
+	men.
 	
+	in glo -- ri -- a
+	De -- i Pa -- tris, a -- %470
+	men.
+	Cum San -- cto Spi -- ri --
+	tu in glo -- ri -- a
+	De -- i Pa -- tris, a -- men, a --
+	men, a -- %475
+	men, a -- men.
+	
+	Cum %483
+	San -- cto, San -- cto Spi -- ri -- tu,
+	cum %485
+	San -- cto, San -- cto Spi -- ri -- tu
+	in glo -- ri -- a,
+	in glo -- ri -- a,
+	in glo -- ri -- a, in
+	glo -- ri -- a De -- i Pa -- tris, a -- %490
+	men, in glo --
+	_ _
+	_ _
+	_ ri -- a De -- i Pa -- tris,
+	a -- men, %495
+	a -- men.
+	
+	Cum San -- cto, San -- cto %499
+	Spi -- ri -- tu in glo -- %500
+	_ _
+	_ _
+	_ ri -- a De -- i Pa -- tris,
+	a -- men.
+	%505
+	in glo -- ri -- a
+	De -- i Pa -- tris,
+	cum San -- cto Spi -- ri --
+	ti in glo -- ri -- a
+	De -- i __ Pa -- tris, a -- %510
+	men,
+	De -- i Pa -- tris, a --
+	men, a --
+	men, a -- men, a --
+	men, a -- men, a -- %515
+	men. %516 FINIS
 }
 
 % BassoNotes = {
