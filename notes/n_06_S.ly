@@ -683,7 +683,7 @@ CumSanctoSopranoLyrics = \lyricmode {
 	
 	In glo -- ri -- a
 	De -- i Pa -- tris, a -- men, a --
-	men, a -- %457
+	men, a -- %475
 	men, a -- men.
 	
 	[Cum %483
@@ -718,8 +718,8 @@ CumSanctoSopranoLyrics = \lyricmode {
 	[De -- i Pa -- tris, a --
 	men, a --
 	men, a -- men, a --
-	men, a -- men, a --
-	men.]
+	men, a -- men, a -- %515
+	men.] %516 FINIS
 }
 
 % SopranoNotes = {

@@ -642,11 +642,115 @@ CumSanctoAltoNotes = {
 		\clef treble
 		\key c \major \time 4/4 \autoBeamOff \tempoCumSancto
 			\set Score.currentBarNumber = #457
+		\partial 8 r8 R1*4 %460
+		r2 r4 r8 \mvTr a'\fE^\tuttiE
+		g g f g g8. g16 g8 g
+		a2~ a8[ a16 g] \appoggiatura g f8[ e16 d]
+		g2~ g8[ g16 f] \appoggiatura f e8[ d16 c]
+		f2~ f8 f16 e d8 c16([ h)] %465
+		e8 e f4( g8[ a16 g] f8[ e])
+		d4 r r2
+		r8 \mvTr h'\pE^\solo h h c4. c8
+		h4 r r8 \mvTr g\fE^\tuttiE a a16 a
+		a8a h h a4( g) %470
+		fis r r2
+		R1
+		r8 a fis e16 d h'8 h r g
+		g g16 g a8 a a g g([ fis)]
+		g4 r r r8 a( %475
+		g) g g([ fis)] g4 r
+		R1*4 %480
+		r2 r4 r8 \mvTr d\pE^\solo
+		g d a' d, h'8. a16 g8 r
+		r2 r4 r8 \mvTr g\fE^\tutti
+		g g g fis g8. d16 d8 r
+		r2 r4 r8 e %485
+		e e e dis e8. e16 e8 r
+		r4 r8 e e8. e16 e8 r
+		r4 r8 g g8. g16 g8 r
+		r4 r8 a a8. a16 a8 a
+		a a16 a h8 h h a a4 %490
+		gis r r r8 a
+		h2~ h8[ h16 a] \appoggiatura a g8[ f16 e]
+		a2~ a8[ a16 g] \appoggiatura g f8[ e16 d]
+		gis8 gis16 gis gis8 gis a a \mvTr h\pE^\solo h
+		c([ d16 c] h8) a \mvTr gis([\fE^\tuttiE h a)] h %495
+		a4( gis) a r
+		R1*2
+		r4 r8 \mvTr a\fE^\tuttiE g g f g
+		g8. g16 g8 g a2~ %500
+		a8[ a16 g] \appoggiatura g f8[ e16 d] g2~
+		g8[ g16 f] \appoggiatura f e8[ d16 c] f2~
+		f8 f16 e d8 c16([ h)] e8 e f4(
+		g8[ a16 g] f8[ e)] d4 r
+		R1 %505
+		r2 r4 g
+		g8 g16 g g8 g g g r4
+		r8 \mvTr g\pE^\solo g g as4. as8
+		g8 \mvTr g\fE^\tutti e d16 c a'8([ a16 b] c8) b16([ a)]
+		g8 g g g a a f([ g)] %510
+		g4 r r2
+		r4 g8 f g a g4
+		g8 r r4 r8 a( g4)
+		g a a g
+		g8 g([ a g)] g c([ f, g)] %515
+		c,4 r r2\fermata \bar "|." %516 FINIS
 	}
 }
 
 CumSanctoAltoLyrics = \lyricmode {
+	[Cum %461
+	San -- cto, San -- cto Spi -- ri -- tu] in
+	glo -- _
+	_ _
+	_ ri -- a De -- i __ %465
+	Pa -- tris, A --
+	men.
+	Cum San -- cto Spi -- ri --
+	tu in glo -- ri -- a
+	De -- i Pa -- tris, a -- %470
+	men.
 	
+	In glo -- ri -- a De -- i, in
+	glo -- ri -- a De -- i Pa -- tris, a --
+	men, a -- %475
+	men, a -- men.
+	
+	Cum %481
+	San -- cto, San -- cto Spi -- ri -- tu,
+	[cum
+	San -- cto, San -- cto Spi -- ri -- tu,
+	cum %485
+	San -- cto, San -- cto Spi -- ri -- tu
+	in glo -- ri -- a,
+	in glo -- ri -- a,
+	in glo -- ri -- a, in
+	glo -- ri -- a De -- i Pa -- tris, a -- %490
+	men,] in
+	glo -- _
+	_ _
+	_ ri -- a De -- i Pa -- tris, De -- i
+	Pa -- tris, a -- men, %495
+	a -- men.
+
+	[Cum San -- cto, San -- cto %499
+	Spi -- ri -- tu] in glo -- %500
+	_ _
+	_ _
+	ri -- a De -- i __ Pa -- tris, a --
+	men.
+	%505
+	In
+	glo -- ri -- a De -- i Pa -- tris,
+	cum San -- cto Spi -- ri --
+	tu in glo -- ri -- a De -- i __
+	Pa -- tris, De -- i Pa -- tris, a -- %510
+	men,
+	[De -- i Pa -- tris, a --
+	men, a --
+	men, a -- men, a --
+	men, a -- men, a -- %515
+	men.] %516 FINIS
 }
 
 % AltoNotes = {
