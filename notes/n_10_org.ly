@@ -1084,7 +1084,7 @@ CumSanctoOrgano = {
 		\clef bass
 		\key c \major \time 4/4 \tempoCumSancto
 			\set Score.currentBarNumber = #457
-		\partial 8 r8 r \mvTr c'\fE-\tuttiE h g c c, e\pE f
+		\partial 8 r8 r \mvTr c'\fE-\tuttiE h g c c, e[\pE f]
 		e c d g, c c, e'[\fE f]
 		e c d g, c c, c r
 		r2 r8 \mvTr c'\pE-\soloE e f %460
@@ -1107,9 +1107,9 @@ CumSanctoOrgano = {
 		c c' c c fis, fis fis fis
 		h h h h e, e e e
 		a a a a d, d d d
-		g c, d d, g c d d, %480
-		g' c, d d, g g' g, r
-		r2 r8 \mvTr g\pE-\soloE h d
+		g c, d d, g\pE c d d, %480
+		g'\fE c, d d, g g' g, r
+		r2 r8 \mvTr g\pE-\soloE h c-\critnote
 		h g a d g g, \mvTr h'[\fE-\tuttiE c]
 		h g a d, g g, g r
 		r e'\pE fis h e e, g[\fE a] %485
@@ -1140,7 +1140,7 @@ CumSanctoOrgano = {
 		c c, c' c f f d c %510
 		g' g, r4 c8 r d r
 		e e e d c f g g,
-		c f g g, c f g g,
+		c\pE f g g, c\fE f g g,
 		c4 a'-! f-! g-!
 		c,8 c' f, g c, c' f, g %515
 		c,4 r r2\fermata \bar "|." %516 FINIS
