@@ -1235,8 +1235,8 @@ CredoOrgano = {
 		c c c c c c c c
 		f f f f d d d d %20
 		e e a a e e e, e
-		a16 a' e c a4 \clef treble a''4. g8
-		<< { d'4. c8 } \\ { f,4. e8 } >> \clef "treble_8" d4. c8
+		a16 a' e c a4 \clef treble e''4. d8
+		<< { a'4. g8 } \\ { c,4 a } >> \clef "treble_8" d4. c8
 		\clef bass g4. f8 e4 c
 		d2 c8 e16 d c8 h %25
 		c4. h8 a4 a8 a
@@ -1247,8 +1247,8 @@ CredoOrgano = {
 		e16 d c h a g fis e h'8 g16 a h8 h,
 		e e e e h h h h
 		e e d! d c c c c
-		h16 h' fis dis h4 \clef treble << { h''4. a8 } \\ { r4 h } >>
-		\clef bass e,,4. d8 c h a4 %35
+		h16 h' fis dis h4 \clef treble << { r4 h'' } \\ { h4. a8 } >>
+		\clef bass e,4. d8 c h a4 %35
 		d4. c8 h a g4
 		e'4. e8 fis2
 		g4 c, d g
