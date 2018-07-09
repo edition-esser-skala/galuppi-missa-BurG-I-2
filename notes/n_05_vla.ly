@@ -498,7 +498,7 @@ QuiTollisViola = {
 
 CumSanctoViola = {
 	\relative c' {
-		\clef treble
+		\clef alto
 		\key c \major \time 4/4 \tempoCumSancto
 			\set Score.currentBarNumber = #457
 		\partial 8 r8 r g'\fE g g g e c[\pE c]
