@@ -238,7 +238,50 @@ CumSanctoClarinoII = {
 		\clef treble
 		\key c \major \time 4/4 \tempoCumSancto
 			\set Score.currentBarNumber = #457
-		
+		\partial 8 r8 c'4\fE g c r
+		R1
+		e4 d c r
+		R1*2 %461
+		e4 d c r
+		f2 d4 r
+		e2 c4 r
+		d2. d4 %465
+		c r r2
+		d4 r c r
+		d r r2
+		R1
+		d4 d c( e) %470
+		d r r2
+		R1
+		r2 d
+		c4 r d r8 d
+		d r r4 r2 %475
+		d4. d8 d4 r
+		r c c2
+		d4 r e2
+		c d
+		d8 e d4 d8 r r4 %480
+		d8 e d4 d r
+		R1*2
+		d4 c8 d d4 r
+		R1*7 %291
+		d2 c
+		f d
+		e4 r r2
+		R1*4 %498
+		r2 c4 d
+		c r f2 %500
+		d e
+		c d
+		d4. d8 c4 r
+		R1*6 %509
+		e2 f4 r %510
+		R1
+		r2 e8 f e d
+		c r r4 e8 f e d
+		c2. g4
+		c r c4. g8 %515
+		c4 r r2\fermata \bar "|." %516 FINIS
 	}
 }
 

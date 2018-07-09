@@ -244,27 +244,27 @@ CumSanctoClarinoI = {
 		g4 f e r
 		R1*2 %461
 		g4 f e r
-		a2 d,4 r
-		g2 c,4 r
+		a2 \pao d,4 r
+		g2 \pao c,4 r
 		f2. f4 %465
 		e r r2
 		g4 r e r
-		d r r2
+		\pao d r r2
 		R1
 		a'4 g e2 %470
-		d4 r r2
+		\pao d4 r r2
 		R1
 		r2 g4. g8
-		e4 r d r8 fis
+		e4 r \pao d r8 fis
 		g r r4 r2 %475
 		g4. fis8 g4 r
 		r e a2
-		d,4 r g2
-		c, a'
+		\pao d,4 r g2
+		\pao c, a'
 		g4. fis8 g r r4 %480
 		g4. fis8 g4 r
 		R1*2
-		g4. fis8 g4 r
+		\pa g4. fis8 \pd g4 r
 		R1*7 %491
 		f2 e
 		f d
@@ -272,8 +272,8 @@ CumSanctoClarinoI = {
 		R1*4 %498
 		r2 g4 f
 		e r a2 %500
-		d, g
-		c, f
+		\pao d, g
+		\pao c, f
 		f4. f8 e4 r
 		R1*6 %509
 		g2 a4 r %510
@@ -281,7 +281,7 @@ CumSanctoClarinoI = {
 		r2 g8 a g8. f16
 		e8 r r4 g8 a g8. f16
 		e4 e f d
-		e r e f8 d %515
+		e r \pa e f8 d \pd %515
 		e4 r r2\fermata \bar "|." %516 finis
 	}
 }
