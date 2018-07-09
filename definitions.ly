@@ -169,6 +169,8 @@ tempoQuiTollis = \tempoMarkup "Adagio"
 	tempoQuoniam = \tempoMarkup "Allegro"
 tempoCumSancto = \tempoMarkup "Allegro"
 
+tempoCredo = \tempoMarkup "Allegro"
+
 
 % modify the Scheme function 'format-bass-figure'
 % in usr/share/lilypond/current/scm/translation-functions.scm

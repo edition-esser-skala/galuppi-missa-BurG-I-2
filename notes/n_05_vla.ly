@@ -564,6 +564,14 @@ CumSanctoViola = {
 	}
 }
 
+CredoViola = {
+	\relative c' {
+		\clef treble
+		\key c \major \time 4/4 \tempoCredo
+		
+	}
+}
+
 % Viola = {
 % 	\relative c' {
 % 		\clef treble
