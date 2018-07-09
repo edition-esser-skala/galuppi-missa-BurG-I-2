@@ -501,7 +501,66 @@ CumSanctoViola = {
 		\clef treble
 		\key c \major \time 4/4 \tempoCumSancto
 			\set Score.currentBarNumber = #457
-		
+		\partial 8 r8 r g'\fE g g g e c[\pE c]
+		c c c h c e g[\fE e]
+		c c c h c c, c r
+		c'\pE r h r c e g e %460
+		c c c h c e g[\fE c]
+		c c c h c e, g e
+		f f f f f f f f
+		e e e e e e e e
+		d d d d d d d d %465
+		g 4r r8 c, a g
+		g g g g g g g g
+		g\pE g g g g g g g
+		g4 r8 g'\fE g g a a
+		a d, d d e e e e %470
+		a, fis d d' d d d d
+		d\pE d d d d d d d
+		d4 r8 d\fE d d d g
+		g e c d d d e d
+		d4 r g r8 a %475
+		g g16 e d8 d d h d h
+		c c c c c c c c
+		h h h h h h h h
+		a a a a a a a d
+		d e d d r e,\pE d d %480
+		r e'\fE d d d4 r
+		g,8\pE r fis r g h d g,
+		g g g fis g h d[\fE g]
+		g g g fis g d h r
+		r e\pE e dis e g h[\fE e,] %485
+		e e e dis e h e, e'
+		e f e e e4 r8 g
+		g a g g g4 r8 a
+		a b a a a4 r8 a
+		a a h h h a a a %490
+		h e,16 d c8 a d d d d
+		d d d d c c c c
+		c c c c h h h h
+		h h h e e4 r
+		r8 a,\pE d dis e\fE e e f %495
+		e4 e e r
+		R1
+		r8 e\pE g c, c c c h
+		c e g[\fE c] c c c h
+		c e, g e f f f f %500
+		f f f f e e e e
+		e e e e d d d d
+		d d d g g4 r
+		r8 c a g g d h g'
+		g es c g' g\pE d h g' %505
+		g g g g g g\fE g g
+		g g g g g g16 f e8 d
+		c\pE g e c' c as f c'
+		c c\fE c c c c c c
+		c4 r16 g' f e f8 a! f g %510
+		g h, d h c r d r
+		e r g h c c c h
+		c\pE c, c h r c\fE c h
+		c4 a' f g
+		c,8 g' a g g c f, g %515
+		c,4 r r2\fermata \bar "|." %516 FINIS
 	}
 }
 
