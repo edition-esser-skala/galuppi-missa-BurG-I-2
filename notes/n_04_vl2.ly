@@ -589,7 +589,66 @@ CumSanctoViolinoII = {
 		\clef treble
 		\key c \major \time 4/4 \tempoCumSancto
 			\set Score.currentBarNumber = #457
-		
+		\partial 8 g'8\fE c8.( d32 e) d8 f e c' r16 c,\p h a
+		g g f\trill e f f e\trill d e8 c' r16 c'\f h a
+		g g f\trill e f f e\trill d e d c8 r4
+		c,8\p r h r c c' r16 c h a %460
+		g g f\trill e f f e\trill d e8 c' r16 c'\f h a
+		g g f\trill e f f e\trill d e d c8 r4
+		r4 r8 f, d' d d d
+		d e, \tuplet 3/2 8 { r16 e[ f] g a h } c8 c c c
+		c d, \tuplet 3/2 8 { r16 d[ e] f g a } h8 h h h %465
+		c8 e r d e16 e f e d8 c
+		h g' \tuplet 3/2 8 { r16 g,[ a] h c d } e8 c' \tuplet 3/2 8 { r16 g[ f] e d c }
+		h8\p g' \tuplet 3/2 8 { r16 g,[ a] h c d } e8 c' \tuplet 3/2 8 { r16 g[ f] e d c }
+		g4 r8 h\fE c c c c
+		c c h h a a g g %470
+		fis d' \tuplet 3/2 8 { r16 d,[ e] fis g a } h8 g' \tuplet 3/2 8 { r16 d[ c] h a g }
+		fis8\p d' \tuplet 3/2 8 { r16 d,[ e] fis g a } h8 g' \tuplet 3/2 8 { r16 d[ c] h a g }
+		d4 r8 fis\fE g g g g
+		e8 c \tuplet 3/2 8 { r16 e[ fis] g a h } a8 g g fis
+		\tuplet 3/2 8 { h16([ a g)] } fis-! g-! \tuplet 3/2 8 { c16([ h a)] } gis-! a-! d8 e16 fis g?8 c, %475
+		\tuplet 3/2 8 { h16[ a g] } g4 fis8 g g, r4
+		r r8 g' a a a a
+		a h, \tuplet 3/2 8 { r16 h[ c] d e fis? } g8 g g g
+		g a, \tuplet 3/2 8 { r16 a[ h] c d e } fis8 fis fis fis
+		g g g fis \tuplet 3/2 8 { h,16[\p a g] e' d c } h8 a %480
+		r g'\fE g fis g d g, r
+		g'\p r fis r g g' r16 g, fis e
+		d d c\trill h c c h\trill a h8 g' r16 g'\fE fis e\trill
+		d d c\trill h c c h\trill a h a g8 r16 e'\p d c
+		h h a\trill g a a g\trill fis g8 e' r16 e\f d c %485
+		h h a\trill g a a g\trill fis g fis e8 r h'
+		a a a gis a a, r d'
+		c c c h c g16 e c8 cis'
+		d d d cis d a16 f d8 cis'
+		d d d d16 c h8 c a a %490
+		gis e r4 r r8 a
+		h h h h h c, \tuplet 3/2 8 { r16 c[ d] e f g }
+		a8 a a a a h, \tuplet 3/2 8 { r16 h[ c] d e fis }
+		gis8 gis gis gis a c r h\pE
+		c16 c( d c) h8 a gis\fE h a a %495
+		a4 gis\trill a8 a, r g'?
+		c8.( d32 e) d8 h c c,\p h h
+		c c' r16 c h a g g f\trill e f f e\trill d
+		e8 c' r16 c'\fE h a g g\trill f e f f e\trill d
+		e d c8 r4 r r8 c %500
+		d d d d d e, \tuplet 3/2 8 { r16 e[ f] g a h }
+		c8 c c c c d, \tuplet 3/2 8 { r16 d[ e] f g a }
+		h8 h h h c e r d
+		e16 e f e d8 c h g' \tuplet 3/2 8 { r16 g,[ a] h c d }
+		es8 c' \tuplet 3/2 8 { r16 g[ f] es d c } h8 g' \tuplet 3/2 8 { r16 g,[\p a] h c d } %505
+		es8 c' \tuplet 3/2 8 { r16 g[ f] es d c } h8 h16\fE c d8 c16 h
+		c8 c16 d e!8 d16 c h8 g16 f e8 d
+		c c' \tuplet 3/2 8 { r16 c,[\p d] e f g } as8 f' \tuplet 3/2 8 { r16 c[ b] as g f }
+		e8 e16\fE f g8 f16 e f8 f'16 g a!8 g16 f
+		e8 c r c c c h c %510
+		h g r d' \tuplet 3/2 8 { e16([ d c)] } h-! c-! \tuplet 3/2 8 { f([ e d)] } cis-! d-!
+		g8 a16 h c8 f, \tuplet 3/2 8 { e16[ d c] a' g f } e8 d\trill
+		\tuplet 3/2 8 { e,16[\p d c] a' g f } e8 d\trill \tuplet 3/2 8 { e'16[\f d c] a' g f } e8 d\trill
+		c c, a'4-! f-! g-!
+		c,8 c' d h c4 f,8 g %515
+		c,4 r r2\fermata \bar "|." %516 FINIS
 	}
 }
 

@@ -688,7 +688,6 @@ CumSanctoViolinoI = {
 		c c, a'4-! f-! g-!
 		c,8 e' f d e c f, g %515
 		c,4 r r2\fermata \bar "|." %516 FINIS
-		
 	}
 }
 
