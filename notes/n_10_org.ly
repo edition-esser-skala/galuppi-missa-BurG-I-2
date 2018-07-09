@@ -1215,11 +1215,131 @@ CredoOrgano = {
 		\clef bass
 		\key c \major \time 4/4 \tempoCredo
 		\mvTr c'8\fE-\tuttiE c c16 h a g a8 a a16 g f e
+		f8 f f16 e d c g'8 g, r g'
+		c16 h a g f e d c g'8 e16 f g8 g,
+		c c' g16 g e e c4 r
+		c8 c c c g' g g e %5
+		f f e e d d c c
+		g' g g g a a h h
+		c c g g c c g g
+		a a fis d g g g g
+		d d d d g g d d %10
+		e e fis fis g g c, c
+		d d g g d d d, d
+		g g' g16 fis e d e8 e e16 d c h
+		c8 c c16 h a g d'8 d, r d'
+		g16 fis e d c h a g d'8 h16 c d8 d, %15
+		g g' g g d d d d
+		g g g g c, c c c
+		f! f e e d d d d
+		c c c c c c c c
+		f f f f d d d d %20
+		e e a a e e e, e
+		a16 a' e c a4 \clef treble a''4. g8
+		<< { d'4. c8 } \\ { f,4. e8 } >> \clef "treble_8" d4. c8
+		\clef bass g4. f8 e4 c
+		d2 c8 e16 d c8 h %25
+		c4. h8 a4 a8 a
+		h4 h8 h e4 a,8 a
+		h h e e h h h h
+		e \noBeam \clef "treble_8" e' e16 d! c h c8 c c16 h a g
+		a8 \clef bass a a16 g fis e h'8 h, r h' %30
+		e16 d c h a g fis e h'8 g16 a h8 h,
+		e e e e h h h h
+		e e d! d c c c c
+		h16 h' fis dis h4 \clef treble << { h''4. a8 } \\ { r4 h } >>
+		\clef bass e,,4. d8 c h a4 %35
+		d4. c8 h a g4
+		e'4. e8 fis2
+		g4 c, d g
+		d d g,8 g g4
+		\clef treble << { d'''4. d8 h4 g } \\ { r2 g4. g8 } >> %40
+		\clef "treble_8" d4. d8 \clef bass g,4. g8
+		fis4 d g4. f8
+		e4 c d g
+		c, c8 c f f d d
+		e e e e f f f f %45
+		e e c c d d a' a
+		e e a a e e e, e
+		a a' a16 g! f e f8 f f16 e d c
+		d8 d d16 c h a e'8 e, r e'
+		a16 g f e d c h a e'8 c16 d e8 e, %50
+		a a' a a e e e e
+		a a g g c c c, c
+		a' a a a g g e e
+		f f e e d d c c
+		g' g g g a a h h %55
+		c c f, f g g g, g
+		c c' c16 h a g a8 a a16 g f e
+		f8 f f16 e d c g'8 g, r g'
+		c16 h a g f e d c g'8 e16 f g8 g,
+		c4 c c8 c c c %60
+		c c c c c4 r\fermata \bar "||" %61 finis
 	}
 }
 
 CredoBassFigures = \figuremode {
-	
+	r2 <5>
+	r1
+	r
+	r
+	r2 <6 4>4 <5 3>8 <6> %5
+	r4 <6> <6 4 3>2
+	<6 4>4 <5 3> <6> <6 5>
+	r1
+	<5>
+	<_+>2. q4 %10
+	<6> <6 5> r <6 5>
+	<_+>2 <6 4>4 <5 _+>
+	r1
+	r
+	r %15
+	r2 <6 4>4 <5 _+>
+	r1
+	r4 <6> <7> <6 4 3>
+	r1
+	r %20
+	r
+	r
+	r
+	r
+	r %25
+	r
+	r
+	r
+	r
+	r %30
+	r
+	r2 <6 4>4 <5 _+>
+	r <6 _+> <7> <6>
+	r1
+	r2 <6> %35
+	<_+> <[6]>
+	<6> <6 5>
+	r4 <6> <_+>2
+	<5 4>4 <\l _+> r2
+	r1 %40
+	r
+	<6>
+	<6>2 <7>4 q
+	r2. <6>4
+	<_+>2 <7>4 <6> %45
+	<_+> <6> <5>8 <6> r4
+	<5 _+>2 <6 4>4 <5 [_+]>
+	r1
+	r
+	r2 <_+>8 <[6]> <_+>4 %50
+	r2 <_+>
+	r4 <5>8 <7> r2
+	<7>4 <6+> r <6>
+	r <[6]> <6 4 3>2
+	r <6>4 <6 5> %55
+	r2 <6 4>4 <5 3>
+	r1
+	r
+	r
+	r %60
+	r %61 finis
 }
 
 % Organo = {
