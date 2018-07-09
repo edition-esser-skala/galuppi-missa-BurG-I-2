@@ -726,12 +726,120 @@ CredoSopranoNotes = {
 	\relative c' {
 		\clef treble
 		\key c \major \time 4/4 \autoBeamOff \tempoCredo
-		
+		R1*4
+		\mvTr g'4\fE^\tuttiE g g g8 c %5
+		a4 g g g
+		g g8 h a4 g
+		g g8 g g4 g8([ h)]
+		a4 a8 a h2
+		a4 a8 a h4 a8 fis %10
+		g4 a g g8 c
+		a4 h h a
+		h r r2
+		R1*2 %15
+		h4 h h a
+		h4. h8 c2
+		a4 g a( g)
+		g2 g4 g8 g
+		a4 a h h %20
+		gis( a2) gis4
+		a2 r
+		a4. g8 f4 d
+		g1(
+		f4 g) g2 %25
+		g4 g a a8 a
+		a4 fis8 fis g4 a~
+		a g2 fis4
+		g2 r
+		R1*2 %31
+		g4 g8 g g4 fis
+		g h8 h h4 a
+		h2 r4 h~
+		h8 a g([ fis)] e4 a~ %35
+		a8 g fis([ e)] d4 r
+		r g a2
+		g4 a2( h4
+		a2) h
+		d4. d8 h4 g %40
+		a2 h
+		r4 a g2~
+		g f4 g
+		g g8 g a4 h
+		gis gis a2 %45
+		gis4 a8 a a4 a8 a
+		gis4( a2) gis4
+		a2 r
+		R1
+		r2 r4 gis %50
+		a a8 a gis8. gis16 gis8 gis
+		a4 h c g8 g
+		g4( fis) g c
+		a( g2.)
+		g4 r8 h a4( g~) %55
+		g a8 a g2
+		g r
+		r r4 r8 g
+		c16([ h a g] f[ e d c]) g'8 g g4
+		g2 r %60
+		R1\fermataMarkup \bar "||" %61 finis
 	}
 }
 
 CredoSopranoLyrics = \lyricmode {
+	[Cre -- do, cre -- do in %5
+	u -- num De -- um,
+	Pa -- trem o -- mni -- po --
+	ten -- tem, fa -- cto -- rem
+	coe -- li et ter --
+	rae, vi -- si -- bi -- li -- um %10
+	o -- mni -- um, et in --
+	vi -- si -- bi -- li --
+	um.]
 	
+	[Et in u -- num %16
+	Do -- mi -- num
+	Je -- sum Chri --
+	stum, Fi -- li -- um
+	De -- i u -- ni -- %20
+	ge -- ni --
+	tum.]
+	Et ex Pa -- tre
+	na --
+	tum %25
+	an -- te [o -- mni -- a,
+	o -- mni -- a sae -- _
+	_ cu --
+	la.]
+	
+	[De -- um de De -- o, %32
+	lu -- men de lu -- mi --
+	ne,] De --
+	um ve -- rum, De -- %35
+	um ve -- rum
+	de De --
+	o ve --
+	[ro.]
+	Ge -- ni -- tum, non %40
+	fa -- ctum,
+	non fa --
+	_ _
+	ctum, [con -- sub -- stan -- ti --
+	a -- lem Pa -- %45
+	tri: Per quem o -- mni -- a
+	fa -- cta
+	sunt.]
+	
+	[Qui %50
+	pro -- pter nos ho -- mi -- nes et
+	pro -- pter no -- stram sa --
+	lu -- tem de --
+	scen --
+	dit, de -- scen -- %55
+	dit de coe --
+	lis,]
+	[de --
+	scen -- dit de coe --
+	lis.] %60 finis
 }
 
 % SopranoNotes = {
