@@ -695,7 +695,67 @@ CredoViolinoI = {
 	\relative c' {
 		\clef treble
 		\key c \major \time 4/4 \tempoCredo
-		
+		c'16\fE h c h c h a g a g a g a g f e
+		f e f e f e d c g'8 g, r g'
+		c16 h a g f e d c g'8 e16 f g8 g,
+		c c' g16 g e e <c g' c e>4 r
+		e'16 d e d e g f e e8 c16 e d8 g %5
+		a16 g a f g f g e f e f d e g f e
+		e8 c16 e d8 g f c d e16 f
+		e8 c d16 g f g e8 c d16 g f g
+		e8 fis16 g a g a fis g a h4 h8
+		a fis16 g a g a fis h8 g fis g16 a %10
+		g8 c c16 h c a h8 g e16 fis g a
+		fis8 a g4 g fis
+		g16 fis g fis g fis e d e d e d e d c h
+		c h c h c h a g d'8 d, r d'
+		g16 fis e d c h a g d'8 h16 c d8 d, %15
+		g'16 fis g fis g h a g g8 g fis16 a g fis
+		g fis g fis g f e d e8 e16 f g f g e
+		a g a f g f g e f8 d'4 f,8
+		e16 d e d e d e d e g f e g b a g
+		a8 f16 g a g a c h a h a h8 a %20
+		gis h a4 a gis
+		a8 e16 c <a e a,>4 r2
+		a'4. g8 f4 d
+		g4. d8 e4. f16 g
+		f4 d e8 e16 f g8 f %25
+		e c'4 g16 e fis8 g fis e
+		dis4 h'8 a g4 a~
+		a g g fis
+		e16 dis e dis e d c h c h c h c h a g
+		a g a g a g fis e h'8 h, r h' %30
+		e16 d c h a g fis e h'8 g16 a h8 h,
+		g''16 fis g fis g h a g g8 g fis16 a g fis
+		g8 a h4 h a
+		h8 fis16 dis h4 h h'~
+		h8 a g fis e4 a~ %35
+		a8 g fis e d!4 d
+		e8 fis g e a4. a8
+		g h a g fis a g4
+		g fis g8 d g,4
+		r2 g'4. g8 %40
+		fis4 d g8 a h g
+		a4 fis g8 g d h
+		e4. f16 g f2
+		e4 g8 c a16 f g a h8 a
+		gis gis16 a h a h a a4. a8 %45
+		gis16 a h gis a8 g f16 a g f e8 a
+		gis h a4 a gis
+		a16 gis a gis a g f e f e f e f e d c
+		d c d c d c h a e'8 e, r e'
+		a16 g f e d c h a e'8 c16 d e8 e, %50
+		a'16 gis a gis a c h a gis8 gis16 a h a h gis
+		a8 c, d16 e f d e d e f g8 g
+		g4 fis g8 d e16 f g e
+		a g a f g f g e f e f d e g f e
+		d e d c h8 g' f16 e f a f e f g %55
+		e g f e d f e d e4 d\trill
+		c16 h c h c h a g a g a g a g f e
+		f e f e f e d c g'8 g, r g'
+		c16 h a g f e d c g'8 e16 f g d' f d
+		<e c g c,>4 q q8 e <e c g c,> e %60
+		<e c g c,> q q q q4 r\fermata \bar "||" %61 finis
 	}
 }
 
