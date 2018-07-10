@@ -290,7 +290,64 @@ CredoClarinoI = {
 	\relative c' {
 		\clef treble
 		\key c \major \time 4/4 \tempoCredo
-		
+		\pao c'4.\fE e8 e4. a8
+		a2 g4 r8 d
+		e4 f8. e16 d8 e d4
+		c8 c g e c4 r
+		\pa c'8 c c e e4 d8 g \pd %5
+		a4 g f e
+		e d8 g f2
+		e4 d e g8 f
+		e4 fis \pao g2
+		fis4 r r fis %10
+		g a g a8 g
+		fis4 g2 fis4
+		g r r2
+		R1*2 %15
+		g8 g g g g4 fis
+		g d e g
+		a g f2
+		e4 r r g8 g
+		a4 r8 a f4 f8 f %20
+		e2. d4
+		c2 r
+		R1
+		g'4. g8 g4 g
+		f2 e %25
+		r4 e fis4. fis8
+		fis?4 fis g a8 g
+		fis4 g g fis
+		g2 r
+		R1*2 %31
+		g4. g8 \pa g4 fis \pd
+		g fis e4. \pa e8
+		fis2 \pd r
+		R1*2 %36
+		g4. g8 a4 a8 a
+		\pao g4 a8 g fis4 g~
+		g fis g2
+		R1 %40
+		r2 \pa g4. g8 \pd
+		a4 a8 a \pao g4 r
+		r g f2
+		e4 g8 g a4 f
+		\pao e r r2 %45
+		r4 e d c8. d16
+		e4 e8 e e4 d
+		c2 r
+		R1
+		r2 r4 e %50
+		e e8 e e4 e
+		e g8 f e4 g
+		g fis g g
+		a g f e
+		d8. g16 g4 r g8 f %55
+		e4 f e d
+		\pao c4. e8 e4. a8
+		a2 g4 r8 g
+		c16 h a g f e d c g8 e g g16 g
+		e4 g8 e c4 e8 g %60
+		c c, e g c,4 r\fermata \bar "||" %61 finis
 	}
 }
 
