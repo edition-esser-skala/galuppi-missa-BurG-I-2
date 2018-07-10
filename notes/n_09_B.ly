@@ -619,12 +619,120 @@ CredoBassoNotes = {
 	\relative c {
 		\clef bass
 		\key c \major \time 4/4 \autoBeamOff \tempoCredo
-		
+		R1*4
+		\mvTr c4\fE^\tuttiE c g' g8 e %5
+		f4 e d c
+		g' g8 g a4 h
+		c g8 g c4 g
+		a fis8 d g2
+		d4 d8 d g4 d8 d %10
+		e4 fis g c,8 c
+		d4 g d4. d8
+		g,4 r r2
+		R1*2 %15
+		g'4 g d d
+		g4. g8 c,2
+		f!4 e d2
+		c c4 c8 c
+		f4 f d d %20
+		e( a e4.) e8
+		a,2 r
+		R1
+		g'4. f8 e4 c
+		d2 c %25
+		c4. h8 a4 a8 a
+		h4 h8 h e4( a,
+		h e h4.) h8
+		e2 r
+		R1*2 %31
+		e4 e8 e h4 h
+		e4 d!8 d c4. c8
+		h2 r
+		e4. d8 c([ h)] a4 %35
+		d4. c8 h([ a)] g4
+		e'4. e8 fis2
+		g4 c, d g
+		d2 g,
+		R1 %40
+		r2 g'4. g8
+		fis4 d g4.( f8
+		e4 c d g)
+		c, c8 c f4 d
+		e e f2 %45
+		e4 c8 c d4 a'8 a
+		e4( a e4.) e8
+		a,2 r
+		R1
+		r2 r4 e' %50
+		a a8 a e8. e16 e8 e
+		a4 g! c c,8 c
+		a'2 g4 e
+		f( e d c)
+		g' r8 g a4( h %55
+		c) f,8 f g4( g,)
+		c2 r
+		r r4 r8 g'
+		c16([ h a g] f[ e d c)] g'8 e16([ f)] g8([ g,)]
+		c2 r %60
+		R1\fermataMarkup \bar "||" %61 finis
 	}
 }
 
 CredoBassoLyrics = \lyricmode {
+	Cre -- do, cre -- do in %5
+	u -- num De -- um,
+	Pa -- trem o -- mni -- po --
+	ten -- tem, fa -- cto -- rem
+	coe -- li et ter --
+	rae, vi -- si -- bi -- li -- um %10
+	o -- mni -- um, et in --
+	vi -- si -- bi -- li --
+	um.
 	
+	Et in u -- num %16
+	Do -- mi -- num
+	Je -- sum Chri --
+	stum, Fi -- li -- um
+	De -- i u -- ni -- %20
+	ge -- ni --
+	tum.
+	
+	Et ex Pa -- tre
+	na -- tum %25
+	an -- te o -- mni -- a,
+	o -- mni -- a sae --
+	cu --
+	la.
+	
+	De -- um de De -- o, %32
+	lu -- men de lu -- mi --
+	ne,
+	De -- um ve -- rum, %35
+	De -- um ve -- rum,
+	De -- um ve --
+	rum de De -- o
+	ve -- ro.
+	%40
+	Ge -- ni --
+	tum, non fa --
+	
+	ctum, con -- sub -- stan -- ti --
+	a -- lem Pa -- %45
+	tri: Per quem o -- mni -- a
+	fa -- cta
+	sunt.
+	
+	Qui %50
+	pro -- pter nos ho -- mi -- nes et
+	pro -- pter no -- stram sa --
+	lu -- tem de --
+	scen --
+	dit, de -- scen -- %55
+	dit de coe --
+	lis,
+	de --
+	scen -- dit de coe --
+	lis. %60 finis
 }
 
 % BassoNotes = {
