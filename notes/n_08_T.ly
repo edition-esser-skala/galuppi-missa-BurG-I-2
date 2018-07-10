@@ -636,12 +636,120 @@ CredoTenoreNotes = {
 	\relative c' {
 		\clef "treble_8"
 		\key c \major \time 4/4 \autoBeamOff \tempoCredo
-		
+		R1*4
+		\mvTr c4\fE^\tuttiE c c h8 c %5
+		c4 c h c
+		c h8 h c4 d
+		c h8 h c4 h
+		c d8 d d2
+		d4 d8 d d4 d8 d %10
+		c4. c8 h4 c8 e
+		d4 d d4. d8
+		d4 r r2
+		R1*2 %15
+		d4 d d d
+		d4. d8 e2
+		c4 c c( h)
+		c2 c4 c8 c
+		c4 c d d %20
+		h( c2) h4
+		c2 r
+		r d4. c8
+		h4 g c2~
+		c4( h) c2 %25
+		c4 c c c8 c
+		h4 h8 h h4( c
+		h2.) h4
+		h2 r
+		R1*2 %31
+		h4 h8 h h4 h
+		h h8 h e4. e8
+		dis2 r
+		r4 e4. d8 c([ h)] %35
+		a4 d4. c8 h([ a)]
+		g4 c c2(
+		h4) c8([ e)] d2~
+		d d
+		R1 %40
+		d4. d8 h4 g
+		a2 h4 h
+		c2.( h4)
+		c c8 c c4 d
+		h h a2 %45
+		h4 c8 e d4 c8 c
+		h4( c2) h4
+		c2 r
+		R1
+		r2 r4 h %50
+		c c8 c h8. h16 h8 h
+		c4 d e c8 c
+		c2 h4 c
+		c2( h4 c)
+		h r8 h c4( d %55
+		c) c8 c c4( h)
+		c2 r
+		r r4 r8 g
+		c16([ h a g] f[ e d c)] g'8 c h4
+		c2 r %60
+		R1\fermataMarkup \bar "||" %61 finis
 	}
 }
 
 CredoTenoreLyrics = \lyricmode {
+	[Cre -- do, cre -- do in %5
+	u -- num De -- um,
+	Pa -- trem o -- mni -- po --
+	ten -- tem, fa -- cto -- rem
+	coe -- li et ter --
+	rae, vi -- si -- bi -- li -- um %10
+	o -- mni -- um, et in --
+	vi -- si -- bi -- li --
+	um.]
 	
+	[Et in u -- num %16
+	Do -- mi -- num
+	Je -- sum Chri --
+	stum, Fi -- li -- um
+	De -- i u -- ni -- %20
+	ge -- ni --
+	tum.] 
+	Et ex
+	Pa -- tre na --
+	tum %25
+	an -- te [o -- mni -- a,
+	o -- mni -- a sae --
+	cu --
+	la.]
+	
+	[De -- um de De -- o, %32
+	lu -- men de lu -- mi --
+	ne,] 
+	De -- um ve -- %35
+	rum, De -- um ve --
+	rum de De --
+	o __ ve --
+	[ro.]
+	%40
+	Ge -- ni -- tum, non
+	fa -- ctum, non
+	fa --
+	ctum, [con -- sub -- stan -- ti --
+	a -- lem Pa -- %45
+	tri: Per quem o -- mni -- a
+	fa -- cta
+	sunt.]
+	
+	[Qui %50
+	pro -- pter nos ho -- mi -- nes et
+	pro -- pter no -- stram sa --
+	lu -- tem de --
+	scen --
+	dit, de -- scen -- %55
+	dit de coe --
+	lis,]
+	[de --
+	scen -- dit de coe --
+	lis.] %60 finis
 }
 
 % TenoreNotes = {
