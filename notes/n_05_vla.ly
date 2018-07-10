@@ -568,7 +568,67 @@ CredoViola = {
 	\relative c' {
 		\clef treble
 		\key c \major \time 4/4 \tempoCredo
-		
+		c'16\fE h c h c h a g a g a g a g f e
+		f e f e f e d c g'8 g, r g'
+		c16 h a g f e d c g'8 e16 f g8 g,
+		c c' g16 g e e <c g' c e>4 r
+		g'8 g g g g g g g %5
+		f c c c d g g g
+		g g g h a a g g
+		g g g g g g g d
+		c c d d d d d d
+		d d d d d d fis fis %10
+		e e d d d d c e
+		d d d d d d d d
+		g16 fis g fis g fis e d e d e d e d c h
+		c h c h c h a g d'8 d, r d'
+		g16 fis e d c h a g d'8 h16 c d8 d, %15
+		g d' d d d d d d
+		d d d g g g g c,
+		c c c c c c g' g
+		g g g g g g c, c
+		c c c c d d f f %20
+		h, e e e e e e e
+		e e e4 r2
+		r d4. c8
+		h4 g g g'
+		d d g8 e16 d c8 h %25
+		c4 g' a c8 a
+		h4 h8 h h4 c8 c
+		h4 h h h
+		e,16 dis e dis e d c h c h c h c h a g
+		a g a g a g fis e h'8 h r h %30
+		e16 d c h a g fis e h'8 g16 a h8 h
+		e h' h h h h h h
+		h a d, d g g e e
+		h16 h' fis dis h4 h'4. a8
+		g fis e4 a4. g8 %35
+		fis e d4 r g
+		g2 fis4 d
+		d a' a g8 d
+		d2 d8 d d4
+		R1 %40
+		d4. d8 h4 g
+		d'2 d4 g
+		g g d d
+		c c8 c c c f f
+		h, h' gis gis c c a a %45
+		h e, e e f f a e
+		e e e e e4 e
+		a16 gis a gis a g f e f e f e f e d c
+		d c d c d c h a e'8 e, r e'
+		a16 g f e d c h a e'8 c16 d e8 e, %50
+		a e' e e e e e e
+		e e h g' g g g g
+		a a d, d d d c c
+		c c c g' g g g g
+		g g g g c a g g %55
+		g g a a g g g g
+		g c c16 h a g a8 a a16 g f e
+		f8 f f16 e d c g'8 g, r g'
+		c16 h a g f e d c g'8g g g
+		g4 g g8 g g g %60
+		g g g g g4 r\fermata \bar "||" %61 finis
 	}
 }
 
