@@ -847,11 +847,40 @@ EtIncarnatusSopranoNotes = {
 		\clef treble
 		\key a \minor \time 3/2 \autoBeamOff \tempoEtIncarnatus
 			\set Score.currentBarNumber = #62
+		\mvTr a'2\pE^\tuttiE a a
+		h1 h2
+		a1 gis2
+		a2. a4 h2 %65
+		a1.
+		gis1 r2
+		a1 a2
+		a1 a2
+		g!1 g2 %70
+		g1 g2
+		a1 h2
+		gis1 a2
+		h1 a2~
+		a1 gis2 %75
+		a1 r2\fermata \bar "||" %76 finis
 	}
 }
 
 EtIncarnatusSopranoLyrics = \lyricmode {
-	
+	[Et in -- car -- %62
+	na -- tus
+	est de
+	Spi -- ri -- tu %65
+	San --
+	cto
+	ex Ma --
+	ri -- a
+	Vir -- gi -- %70
+	ne, et
+	ho -- mo
+	fa -- _
+	_ _
+	ctus %75
+	est.] %76 finis
 }
 
 % SopranoNotes = {
