@@ -814,16 +814,16 @@ CrucifixusViolinoI = {
 		a8\p a f f e e
 		e4 d8.[ d16\f g8. fis16]
 		<g d' g>8 d'([-.\p d-. d-. d-. d-.)]
-		c(-. c-. c-. c-. b-. b-.)
+		c(-. c-. c-. c-. b!-. b-.)
 		a(-. a-. a-. a-. c-. c-.) %105
 		d(-. d-. d-. d-. c-. c-.)
 		b(-. b-. b-. b-. b-. b-.)
-		c c c c b b
+		c^\markup { \remarkE "simile" } c c c b b
 		a b c c b b
-		b4 a8 a d d %110
+		b4 a8 d d d %110
 		d c c c c c
 		b es es es es es
-		es es d d d d
+		es? es d d d d
 		d d c c c c
 		c c b b b b %115
 		es,4-! d-! r
@@ -837,10 +837,10 @@ CrucifixusViolinoI = {
 		b4 a8.[ cis16\f-! d8. e16]-!
 		<d d,>8 a([-.\p a-. a-. b-. b-.)] %125
 		b4 a8.[ f16\f a8. d16]
-		b8\p b g g f f
+		\once \slurDashed b8(\p-. b-. g-. g-. f-. f-.)
 		f4 e8.[ e16\f a8. gis16]
 		<a e a,>8 e'([\p-. e-. e-. e-. e-.)]
-		d d d d c c %130
+		d^\markup { \remarkE "simile" } d d d c c %130
 		b b b b h h
 		c c c c b b
 		a a a a a a

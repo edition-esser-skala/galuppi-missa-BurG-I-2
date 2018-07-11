@@ -748,7 +748,82 @@ CrucifixusViolinoII = {
 		\clef treble
 		\key f \major \time 3/4 \tempoCrucifixus
 			\set Score.currentBarNumber = #77
-		
+		a'8.\fE g16 a4 b
+		b\trill a8.[ f16 a8. c16]
+		b8. a16 g4 f
+		f\trill e a %80
+		a4.\trill a8 g fis
+		\appoggiatura a16 g8 fis g4 g
+		g4.\trill g8 f e
+		\appoggiatura g16 f8-\critnote e f8.[ a16 c8. a16]
+		\appoggiatura c16 b8 a b4 d %85
+		d c8.[ e16 g8. e16]
+		\appoggiatura g16 f8 e f4 f
+		f\trill e8.[ e,16\pE g8. e16]
+		\appoggiatura g f8 e f4 f
+		f\trill e r %90
+		r r g~\fE
+		g8 c, f2~
+		f e4
+		f8.[ f'16-! c8. a16-!] f4
+		r8 a(-.\p a-. a-. b-. b-.) %95
+		b4 a8.[ f16\f a8. c16]
+		b8\p b g(-. g-. f-. f-.)
+		f4 e8.[ g16\f c8. h16]
+		<e c g c,>8 e,[\p e e f f]
+		f4 e8.[ c16\f e8. g16] %100
+		f8\p a, h h c c
+		c4 h8.[ d16\f g8. fis16]
+		<g d' g>8 g([-.\p g-. g-. f-. f-.)]
+		e(-. e-. e-. e-. e-. e-.)
+		f(-. f-. f-. f-. a-. a-.) %105
+		b(-. b-. b-. b-. a-. a-.)
+		g(-. g-. g-. g-. g-. g-.)
+		as-\markup { \remarkE "simile" } as as as g g
+		fis g a a g g
+		g4 fis8 a a a %110
+		a e! e e d d
+		d b' b b b b
+		a a a a a a
+		g g g g g g
+		fis fis g g g g %115
+		es4-! d-! r
+		b'8.\f a16 b4 c
+		c\trill b8.[ g16 b8. d16]
+		c8. b16 a4 g
+		g\trill fis r %120
+		r8 b(-.\p b-. b-. c-. c-.)
+		c4 b8.[ g16\f b8. d16]
+		\once \slurDashed c8(-.\p c-. a-. a-. g-. g-.)
+		g4 fis8.[ a16\f-! d8. e!16]-!
+		<d d,>8 f,([-.\p f-. f-. g-. g-.)] %125
+		g4 f8.[ d16\f f8. a16]
+		g8(\p-. g-. e-. e-. d-. d-.)
+		d4 cis8.[ e16\f a8. gis16]
+		<a e a,>8 a([\p-. a-. a-. g-. g-.)]
+		f-\markup { \remarkE "simile" } f f f fis fis %130
+		g g g g f f
+		e e e e e e
+		f f f f f f
+		e e e e e e
+		d d d d g g %135
+		c, a' a a a a
+		g g g g g g
+		f f f f f f
+		e e f f f f
+		d4-!\f c-! r\fermata %140
+		\appoggiatura g'16 f8.[ e16 f8. a16-! c8. a16]-!
+		\appoggiatura c b8( a) b4 d
+		d\trill c8.[ e16 g8. e16]
+		\appoggiatura g f8( e) f4 f
+		f\trill e8.[ e,16\p g8. e16] %145
+		\appoggiatura g f8 e f4 f
+		f\trill e r
+		r r g~\fE
+		g8 c, f2~
+		f e4 %150
+		f8.[ f'16 c8. a16] f8.[ c'16]
+		f,2 r4\fermata \bar "||" %152 finis
 	}
 }
 

@@ -948,7 +948,7 @@ CrucifixusAltoNotes = {
 		b a2
 		R2.*3 %127
 		r4 r e'
-		a2 g4
+		a2 g!4
 		f2 fis4 %130
 		g2.~
 		g
