@@ -657,7 +657,7 @@ EtIncarnatusViola = {
 
 CrucifixusViola = {
 	\relative c' {
-		\clef treble
+		\clef alto
 		\key f \major \time 3/4 \tempoCrucifixus
 			\set Score.currentBarNumber = #77
 		f4\fE f f

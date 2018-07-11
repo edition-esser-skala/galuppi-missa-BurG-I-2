@@ -144,7 +144,7 @@
 % 	}
 	\bookpart {
 		\header {
-			movement = "3.2 ET INCARNATUS EST"
+			movement = "3.3 CRUCIFIXUS"
 		}
 		\score {
 			<<
