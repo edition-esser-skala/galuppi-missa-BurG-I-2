@@ -787,7 +787,82 @@ CrucifixusViolinoI = {
 		\clef treble
 		\key f \major \time 3/4 \tempoCrucifixus
 			\set Score.currentBarNumber = #77
-		
+		c'8.\fE b16 c4 d
+		d\trill c8.[ a16 c8. f16]
+		d8. c16 b4 a
+		a\trill g c %80
+		c4.\trill c8 b a
+		\appoggiatura c16 b8 a b4 b
+		b4.\trill b8 a g
+		\appoggiatura b16 a8 g a8.[ c16 es8. c16]
+		\appoggiatura es16 d8 c d4 f %85
+		f e8.[ g16 b8. g16]
+		\appoggiatura b16 a8 g a4 a
+		a\trill g8.[ g,16\p b8. g16]
+		\appoggiatura b a8 g a4 a
+		a\trill g c~\f %90
+		c8 f, b2~
+		b4 a2
+		g2.\trill
+		f8.[ f'16-! c8. a16-!] f4
+		r8 c'(-.\p c-. c-. d-. d-.) %95
+		d4 c8.[ a16\f c8. f16]
+		d8\p d b(-. b-. a-. a-.)
+		a4 g8.[ g16\f c8. h16]
+		<e c g c,>8 g,[\p g g a a]
+		a4 g8.[ e16\f g8. c16] %100
+		a8\p a f f e e
+		e4 d8.[ d16\f g8. fis16]
+		<g d' g>8 d'([-.\p d-. d-. d-. d-.)]
+		c(-. c-. c-. c-. b-. b-.)
+		a(-. a-. a-. a-. c-. c-.) %105
+		d(-. d-. d-. d-. c-. c-.)
+		b(-. b-. b-. b-. b-. b-.)
+		c c c c b b
+		a b c c b b
+		b4 a8 a d d %110
+		d c c c c c
+		b es es es es es
+		es es d d d d
+		d d c c c c
+		c c b b b b %115
+		es,4-! d-! r
+		d'8.\f c16 d4 es
+		es?\trill d8.[ b16 d8. g16]
+		es8. d16 c4 b
+		b\trill a r %120
+		r8 d(-.\p d-. d-. es-. es-.)
+		es4 d8.[ b16\f-! d8. g16]-!
+		es8(-.\p es-. c-. c-. b-. b-.)
+		b4 a8.[ cis16\f-! d8. e16]-!
+		<d d,>8 a([-.\p a-. a-. b-. b-.)] %125
+		b4 a8.[ f16\f a8. d16]
+		b8\p b g g f f
+		f4 e8.[ e16\f a8. gis16]
+		<a e a,>8 e'([\p-. e-. e-. e-. e-.)]
+		d d d d c c %130
+		b b b b h h
+		c c c c b b
+		a a a a a a
+		g c c c c c
+		c c b b b b %135
+		a d d d d d
+		d d c c c c
+		c c b b b b
+		b b a a a a
+		d,4-!\f c-! r\fermata %140
+		\appoggiatura b'16 a8.[ g16 a8. c16-! es8. c16]-!
+		\appoggiatura es d8( c) d4 f
+		f\trill e8.[ g16-! b8. g16-!]
+		\appoggiatura b a8( g) a4 a
+		a\trill g8.[ g,16\p b8. g16] %145
+		\appoggiatura b a8 g a4 a
+		a\trill g c~\f
+		c8 f, b2~
+		b4 a2
+		g2.\trill %150
+		f8.[ f'16 c8. a16] f8.[ c'16]
+		f,2 r4\fermata \bar "||" %152 finis
 	}
 }
 

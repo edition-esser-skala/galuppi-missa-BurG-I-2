@@ -1399,9 +1399,9 @@ CrucifixusOrgano = {
 		b, b h %85
 		c c c
 		f f h,
-		c c c
+		c c c\pE
 		f f h,
-		c c c %90
+		c c c\fE %90
 		d d e
 		f f a,
 		b c c,
@@ -1409,11 +1409,11 @@ CrucifixusOrgano = {
 		f'\pE f b, %95
 		f' f f
 		b, b h
-		c c8. g'16 e8. d16
+		c c8.[ g'16 e8. d16]
 		c4 c h
 		c c c %100
 		f d c
-		g g8. g'16 d8. c16
+		g g8.[ g'16 d8. c16]
 		h4 h h
 		c c c
 		f f es %105
@@ -1431,15 +1431,15 @@ CrucifixusOrgano = {
 		g\fE g c
 		g' g g
 		c, c cis
-		d d8. c16 b8. a16 %120
+		d d8.[ c16 b8. a16] %120
 		g4\pE g c
 		g g g
 		c c cis
-		d d8. e16 d8. cis16
+		d d8.[ e16 d8. cis16]
 		d4 d cis %125
 		d d d
 		g g gis
-		a a8. a16 e8. d16
+		a a8.[ a16 e8. d16]
 		cis4 cis cis
 		d d d %130
 		g g g,
@@ -1456,9 +1456,9 @@ CrucifixusOrgano = {
 		b, b h
 		c c c
 		f f h,
-		c c c %145
+		c c c\pE %145
 		f f h,
-		c c c
+		c c c\fE
 		d d e
 		f f a,
 		b c c %150
@@ -1472,7 +1472,7 @@ CrucifixusBassFigures = \figuremode {
 	<6 4>4 <5 3>2
 	<5>4 <6> <7 5>
 	<6 4> <5 3> <6 _-> %80
-	<6 5 _+>2.
+	<7 5 _+>2.
 	r
 	<7>
 	r2 <7->4
