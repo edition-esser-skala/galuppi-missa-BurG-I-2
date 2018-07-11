@@ -740,12 +740,40 @@ EtIncarnatusBassoNotes = {
 		\clef bass
 		\key a \minor \time 3/2 \autoBeamOff \tempoEtIncarnatus
 			\set Score.currentBarNumber = #62
-		
+		\mvTr a'2\pE^\tuttiE a a
+		a1 gis2
+		a1 e2
+		a2. a4 g!2 %65
+		f1.
+		e1 r2
+		cis1 cis2
+		d1 d2
+		h1 h2 %70
+		c1 c2
+		f1 d2
+		e1 a2
+		d,1 dis2
+		e1 e2 %75
+		a,1 r2\fermata \bar "||" %76 finis
 	}
 }
 
 EtIncarnatusBassoLyrics = \lyricmode {
-	
+	Et in -- car -- %62
+	na -- tus
+	est de
+	Spi -- ri -- tu %65
+	San --
+	cto
+	ex Ma --
+	ri -- a
+	Vir -- gi -- %70
+	ne, et
+	ho -- mo
+	fa -- _
+	_ _
+	_ ctus %75
+	est. %76 finis
 }
 
 % BassoNotes = {
