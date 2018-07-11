@@ -1552,11 +1552,233 @@ EtResurrexitOrgano = {
 		\key c \major \time 4/4 \tempoEtResurrexit
 			\set Score.currentBarNumber = #153
 		\mvTr c'8\fE-\tuttiE c c16 h a g a8 a a16 g f e
+		f8 f f16 e d c g'8 g, r g'
+		c16 h a g f e d c g'8 e16 f g8 g, %155
+		c c' g e c4 r
+		c8 c c c g' g g g
+		e e c c a' a a a
+		g g e e f f c c
+		g' g g, g c4 \clef treble c''8 c %160
+		<< { g4 a8 h c4 } \\ { r4 g8 g c,4 } >> \clef "treble_8" c8 c
+		g g \clef bass g,[ g] c d e fis
+		g4 g e2
+		f8 g f e d4 d
+		e a8 a e4 e, %165
+		a8 a' a16 g! f e f8 f f16 e d c
+		d8 d d16 c h a e'8 e, r e'
+		a16 g f e d c h a e'8 c16 d e8 e,
+		a a' a a e e e e
+		a a e e a a g! g %170
+		f f f f e e16 fis gis8 fis
+		e e e e fis fis gis gis
+		a a a, a h h cis cis
+		d d d d e e fis fis
+		g g g g f f f f %175
+		e e e e fis fis d d
+		g g dis dis e e d d
+		c c c c h h' fis dis
+		h h h h e e a, a
+		h h e e h h h h %180
+		e16 fis g fis e4 \clef treble << { e'4. e8 h'4. a8 } \\ { r2 h,4. h8 } >>
+		\clef "treble_8" e,4. e8
+		\clef bass h4. h8 e4. e8
+		dis2 e4 d
+		g4. g8 d4 d8 d %185
+		g4 d e fis
+		g g8 g c, c c c
+		d d g g d d d, d
+		g g' g16 fis e d e8 e e16 d c h
+		c8 c c16 h a g d'8 d, r d' %190
+		g16 fis e d c h a g d'8 h16 c d8 d,
+		g' g g g d d d d
+		e e fis fis g g g g
+		e e e e f f e e
+		d d d d c c c c %195
+		d d e c f f f f
+		e e fis d g g g g
+		e e e e f f c c
+		g' g e e f f c c
+		g' g g, g c4 \clef treble c'' %200
+		<< { h g g } \\ { r g e } >> \clef "treble_8" c
+		h \clef bass g e c
+		f2 e4 c
+		a'4. a8 g4 e
+		f! e d4. d8 %205
+		c4 c f d
+		e a e4. e8
+		a,4 \clef treble << { a''4 e'4. d8 c4 } \\ { r4 r e, a-\critnote } >>
+		\clef "treble_8" a, d \clef bass d,
+		g4. f!8 e4 c %210
+		f e a2
+		g dis4. dis8
+		e4 h c2
+		h e4 a,
+		h e h h %215
+		e8 e' e16 d! c h c8 c c16 h a g
+		a8 a a16 g fis e h'8 h, r h'
+		e16 d c h a g fis e h'8 g16 a h8 h,
+		e8 e e e h h h h
+		e e e e d! d d d %220
+		g g d d e e fis fis
+		g g g g f f f f
+		e e h h c c f f
+		g g c, c g g g g
+		c c c c c4 r\fermata %225
+		\clef treble c'2 g'4. f8
+		e4 c d4. e16 f
+		<< {
+			r2 g
+			d'4. c8 h4 g
+			a4. h16 c h8 a16 g a8 h %230
+		} \\ {
+			e,8 d16 c e8 fis g8 d g4~
+			g fis g r8 g
+			fis4. g16 a g4 f %230
+		} >>
+		\clef bass c,2 g'4. f8
+		e4 c d4. e16 f
+		e8 d16 c e8 fis g d g4~
+		g fis g4. g8
+		fis4. g16 a g4 f %235
+		e2 d
+		c4. e8 d4 g
+		c, a' g2
+		\clef "treble_8" a g4. h8
+		a4 d g, fis %240
+		\clef bass e2 h'4. a8
+		g4 e fis4. g16 a
+		g8 fis16 e fis8 gis a e a4~
+		a gis a4. a8
+		gis4. a16 h a2 %245
+		g fis
+		e4. g8 fis4 h
+		e, h' a2
+		\clef "treble_8" h a4. c8
+		h4 e a, d %250
+		\clef bass c,2 g'4. f8
+		e4 c d4. e16 f
+		e8 d16 c e8 fis g d \once \tieDashed g4~
+		g fis g4. g8
+		fis4. g16 a g4 f %255
+		e2 d
+		c4 f g c,
+		f g c, g'8 g,
+		c4 g'8 g, c4 c
+		c8 c c c c c c c %260
+		c4 r r2\fermata \bar "|." %261 FINIS
 	}
 }
 
 EtResurrexitBassFigures = \figuremode {
-	
+	r1 %153
+	r
+	r2 r8 <6> r4 %155
+	r1
+	r2 <6 4>4 <5 3>
+	<[6]>2 <7>4 <6+ 4 3>
+	r <[6]> r2
+	<6 4>4 <5 3> r2 %160
+	r1
+	r4 <7!> r2
+	r <6>
+	r2. <6>4
+	<_+>2 <6 4>4 <5 _+> %165
+	r1
+	r2 <_+>
+	r2 <[_+]>8 <[6]> <_+>4
+	r2 <6 4>4 <5 _+>
+	r <_+> r <6> %170
+	<7> <6> <_+>2
+	<_+> <6>4 <6 5>
+	<_!>2 <6>4 <6 5>
+	<_!>2 <6 _!>4 <6 5>
+	r2 <6 4 2> %175
+	<[6]> <6 5>4 <7 [_+]>
+	r <6 5 [_+]> r <6 _+>
+	<7> <6> <[5+] _+>2
+	<[5+] [_+]>2. <6+>4
+	<7 [5+] _+>2 <6 4>4 <[5+] _+> %180
+	r1
+	r2 <5>
+	<[5+] _+> <5>
+	<6 5 [_+]> <5>4 <5 _+>
+	r2 <_+> %185
+	r4 <_+> <6> <6 5>
+	r2 <5>4 <6>
+	<_+>2 <6 4>4 <5 _+>
+	r1
+	r2 <_+> %190
+	r <_+>8 <[6]> <[_+]>4
+	r2 <6 4>4 <5 _+>
+	<6> <6 5> r2
+	<6>4. <6 5->8 r4 <6>
+	<7> <6 4 3> r2 %195
+	<6->4 <6 5->8 <7-> <5 4->4 <\l 3>
+	<6> <6 5>8 <7 [_+]> <5 4>4 <\l _!>
+	<[6]>4. <[5-]>8 r2
+	<[_!]>4 <6> r2
+	<6 4>4 <5 3> r2 %200
+	r2. <5>4
+	<[6]>2 <6>
+	<5 3>4 <6 4> <6>2
+	<7 5>4 <6+> r4 <6>
+	r <6> <7> <6 4 3> %205
+	r2. <6>4
+	<_+>2 <5 4>4 <\l _+>
+	r1
+	r
+	r2 <6> %210
+	r4 <6> <7> <6+ 4 3>
+	r2 <6 5 [_+]>
+	r4 <[5+] _+> <7> <6>
+	<[5+] _+>2. <6+>4
+	<7 [5+] _+>2 <6 4>4 <[5+] _+> %215
+	r1
+	r2 <[5+] [_+]>
+	r2 q8 <[6]> <[5+] _+>4
+	r2 <6 4>4 <[5+] _+>
+	r2 <7 5 _+> %220
+	r4 <_+> <6> <6 5>
+	r2 <6 4 2>
+	<6>4 <6 5> r <6 5>
+	r2 <6 4>4 <5 3>
+	r1 %225
+	r
+	r
+	r
+	r
+	r %230
+	<5>2 <4>4 <3>
+	<[6]>2 <6>
+	<6>4. <[6]>8 <5>2
+	<5 2>4 <6> r2
+	<[6]>2. <6 4>4 %235
+	<6>2 <7>4 <6 4 3>
+	r4. <[6]>8 <6>4 <5>
+	r <5>8 <6+> r2
+	<7>4 <6+ 4 3> r4. <[6]>8
+	<6+>4 <_+> <5> <5+>8 <6+> %240
+	<5>2 <[5+] 4>4 <\l _+>
+	<[6]>2 <6+>2
+	<6>4 <6!>8 <5> <5>2
+	<5 2>4 <6> r2
+	<6> <_!>4. <4+>8 %245
+	<6>2 <7>4 <6+ 4 3>
+	r4. <6>8 <6+>4 <[5+] _+>
+	r <5+ [_!]>8 <6+> r2
+	<7>4 <6+ 4 3> r4. <[6]>8
+	r1 %250
+	r2 <5 4>4 <\l 3>
+	<6>2 q
+	q4. <[6]>8 r2
+	<5 2>4 <6> r2
+	q2. <6 [4] [2]>4 %255
+	<6>2 <7>4 <6 4 3>
+	r4 <[6] [5]> r2
+	<6 5>2. <7>4
+	r <7> r2
+	r1 %260
+	r %261 FINIS
 }
 
 % Organo = {
