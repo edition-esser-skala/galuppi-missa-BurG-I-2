@@ -1348,11 +1348,39 @@ EtIncarnatusOrgano = {
 		\key a \minor \time 3/2 \tempoEtIncarnatus
 			\set Score.currentBarNumber = #62
 		\mvTr a'1.\pE-\tuttiE
+		a1 gis2
+		a1 e2
+		a1 g!2 %65
+		f1.
+		e2. f4 e d
+		cis1.
+		d2. e4 d c
+		h1. %70
+		c1 c2
+		f1 d2
+		e1 a2
+		d,1 dis2
+		e1. %75
+		a,1 r2\fermata \bar "||" %76 finis
 	}
 }
 
 EtIncarnatusBassFigures = \figuremode {
-	
+	<5>1 <6>2 %62
+	<6 4 2>1 <6>2
+	r1 <_+>2
+	r1 <6>2 %65
+	<7> <6> <6+>
+	<_+>1.
+	<6 5!>
+	<9 4>2 <8 3>1
+	<6 5>1. %70
+	r
+	r1 <6>2
+	<_+>1.
+	<6>1 <7 5 [_+]>2
+	<5 4>1 <\l _+>2 %75
+	<_+>1. %76 finis
 }
 
 % Organo = {
