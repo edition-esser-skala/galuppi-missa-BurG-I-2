@@ -170,6 +170,7 @@ tempoQuiTollis = \tempoMarkup "Adagio"
 tempoCumSancto = \tempoMarkup "Allegro"
 
 tempoCredo = \tempoMarkup "Allegro"
+tempoEtIncarnatus = \tempoMarkup "Adagio"
 
 
 % modify the Scheme function 'format-bass-figure'

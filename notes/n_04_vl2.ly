@@ -720,6 +720,15 @@ CredoViolinoII = {
 	}
 }
 
+EtIncarnatusViolinoII = {
+	\relative c' {
+		\clef treble
+		\key a \minor \time 3/2 \tempoEtIncarnatus
+			\set Score.currentBarNumber = #62
+		
+	}
+}
+
 % ViolinoII = {
 % 	\relative c' {
 % 		\clef treble

@@ -842,6 +842,18 @@ CredoSopranoLyrics = \lyricmode {
 	lis.] %60 finis
 }
 
+EtIncarnatusSopranoNotes = {
+	\relative c' {
+		\clef treble
+		\key a \minor \time 3/2 \autoBeamOff \tempoEtIncarnatus
+			\set Score.currentBarNumber = #62
+	}
+}
+
+EtIncarnatusSopranoLyrics = \lyricmode {
+	
+}
+
 % SopranoNotes = {
 % 	\relative c' {
 % 		\clef treble
