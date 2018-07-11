@@ -764,7 +764,21 @@ EtIncarnatusViolinoI = {
 		\clef treble
 		\key a \minor \time 3/2 \tempoEtIncarnatus
 			\set Score.currentBarNumber = #62
-		
+		e'1\pE f2 %62
+		d1.
+		c1 e2
+		c2. d4 e2~ %65
+		e d( dis)
+		e1 r2
+		g!1 g2
+		g f1
+		f f2 %70
+		e1 g2
+		a1 h2
+		gis1 a2
+		h1 a2~
+		a1 gis2 %75
+		a1 r2\fermata \bar "||" %76 finis
 	}
 }
 
