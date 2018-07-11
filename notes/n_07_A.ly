@@ -878,12 +878,40 @@ EtIncarnatusAltoNotes = {
 		\clef treble
 		\key a \minor \time 3/2 \autoBeamOff \tempoEtIncarnatus
 			\set Score.currentBarNumber = #62
-		
+			\mvTr e2\pE^\tuttiE e f %62
+		f1 e2
+		e1 e2
+		e2. e4 e2 %65
+		e( d dis)
+		e1 r2
+		e g!1
+		g2 f1
+		f f2 %70
+		e1 e2
+		f1 f2
+		e1.
+		f1 fis2
+		e1 e2 %75
+		e1 r2\fermata \bar "||" %76 finis
 	}
 }
 
 EtIncarnatusAltoLyrics = \lyricmode {
-	
+	[Et in -- car -- %62
+	na -- tus
+	est de
+	Spi -- ri -- tu %65
+	San --
+	cto
+	ex Ma --
+	ri -- a
+	Vir -- gi -- %70
+	ne, et
+	ho -- mo
+	fa --
+	_ _
+	_ ctus %75
+	est.] %76 finis
 }
 
 % AltoNotes = {
