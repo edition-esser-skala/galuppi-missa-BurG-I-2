@@ -888,11 +888,89 @@ CrucifixusSopranoNotes = {
 		\clef treble
 		\key f \major \time 3/4 \autoBeamOff \tempoCrucifixus
 			\set Score.currentBarNumber = #77
+		R2.*18 %94
+		\mvTr c'8.([\pE^\soloE b16] c4) d
+		d c2
+		d8. c16 b4 a
+		a g2
+		R2.*4 %102
+		r4 r g
+		c2 b4
+		a2 c4 %105
+		d2( c4)
+		b2 b4
+		c2 b4
+		a8([ b] c4) b
+		b a d~ %110
+		d c2
+		b4 es2~
+		es4 d2~
+		d4 c2~
+		c4 b2 %115
+		a a4
+		g2 r4
+		R2.*7 %124
+		d8.([ cis16] d4) b' %125
+		b a2
+		b8. a16 g4 f
+		f e2
+		r4 r a
+		d2 c4 %130
+		b2 h4
+		c2( b4
+		a2.)
+		g2 c4~
+		c b2 %135
+		a4 d2~
+		d4 c2~
+		c4 b2~
+		b4 a2
+		g\fermata g4 %140
+		f2 r4
+		R2.*10 %151
+		R2.\fermataMarkup \bar "||" %152 finis
 	}
 }
 
 CrucifixusSopranoLyrics = \lyricmode {
+	Cru -- ci -- %95
+	fi -- xus
+	e -- ti -- am pro
+	no -- bis,
 	
+	sub %103
+	Pon -- ti --
+	o Pi -- %105
+	la --
+	to, sub
+	Pon -- ti --
+	o __ Pi --
+	la -- to pas -- %110
+	sus
+	et se --
+	_
+	_
+	_ %115
+	pul -- tus
+	est.
+	
+	Cru -- ci -- %125
+	fi -- xus
+	e -- ti -- am pro
+	no -- bis,
+	sub
+	Pon -- ti -- %130
+	o Pi --
+	la --
+	
+	to pas --
+	sus %135
+	et se --
+	_
+	_
+	_
+	pul -- tus %140
+	est. %141 finis
 }
 
 % SopranoNotes = {

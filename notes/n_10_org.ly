@@ -1388,12 +1388,162 @@ CrucifixusOrgano = {
 		\clef bass
 		\key f \major \time 3/4 \tempoCrucifixus
 			\set Score.currentBarNumber = #77
-		\mvTr f4\pE-\soloE f b,
+		\mvTr f4\fE-\soloE f b,
+		f' f f
+		b, b h
+		c c c %80
+		d d d
+		g g g
+		c, c c
+		f f f
+		b, b h %85
+		c c c
+		f f h,
+		c c c
+		f f h,
+		c c c %90
+		d d e
+		f f a,
+		b c c,
+		f r r
+		f'\pE f b, %95
+		f' f f
+		b, b h
+		c c8. g'16 e8. d16
+		c4 c h
+		c c c %100
+		f d c
+		g g8. g'16 d8. c16
+		h4 h h
+		c c c
+		f f es %105
+		d d d
+		es es d
+		c c c
+		d d cis
+		d d d %110
+		a' a fis
+		g g g
+		f! f f
+		es es es
+		d es b %115
+		c d d,
+		g\fE g c
+		g' g g
+		c, c cis
+		d d8. c16 b8. a16 %120
+		g4\pE g c
+		g g g
+		c c cis
+		d d8. e16 d8. cis16
+		d4 d cis %125
+		d d d
+		g g gis
+		a a8. a16 e8. d16
+		cis4 cis cis
+		d d d %130
+		g g g,
+		c c c
+		f h, h
+		c c c
+		g' g e %135
+		f f f
+		e e e
+		d d d
+		c d d
+		b c2\fermata %140
+		f4\fE f f
+		b, b h
+		c c c
+		f f h,
+		c c c %145
+		f f h,
+		c c c
+		d d e
+		f f a,
+		b c c %150
+		f, r r
+		f2 r4\fermata \bar "||" %152 finis
 	}
 }
 
 CrucifixusBassFigures = \figuremode {
-	
+	r2. %77
+	<6 4>4 <5 3>2
+	<5>4 <6> <7 5>
+	<6 4> <5 3> <6 _-> %80
+	<6 5 _+>2.
+	r
+	<7>
+	r2 <7->4
+	<5>2 <6 5>4 %85
+	<6 4> <5 3>2
+	r <7 5>4
+	<6 4> <5 3>2
+	r <7 5>4
+	<6 4> <5 3>2 %90
+	<7>4 <6> <6 5>
+	<9 4> <8 3> <6>
+	<6 5> <5 4> <\l 3>
+	r2.
+	r %95
+	<6 4>4 <5 3>2
+	<5>4 <6> <7 5>
+	<6 4> <5 3>4.. <6!>16
+	r2 <7 5>4
+	r2. %100
+	r
+	r
+	<6>2 <5>4
+	r2 <7>4
+	r2 <6 4>4 %105
+	<6>2 <7 5>4
+	r2 <6 4>4
+	<6->2 <7 5>4
+	<5! _+>2 <7 5>4
+	<6 4> <5 _+>2 %110
+	<4>4 <_!> <6 5>
+	<9> <8 6->2
+	<7->4 <6>2
+	<7>4 <6>2
+	<7 _+> <6>4 %115
+	<6 5> <5 4> <\l _+>
+	r2 <_->4
+	<6- 4> <5 3>2
+	<5 _->4 <6> <7 5 _!>
+	<6 4> <5 _+>2 %120
+	r <_->4
+	<6- 4> <5 3>2
+	<_->4 <6> <7 5>
+	<6 4> <5 _+>2
+	<_!> <7- 5>4 %125
+	<6 4> <5 _!>2
+	r4 <6> <7 5>
+	<6 4> <_+>2
+	<6> <6 5>4
+	<_!>2 <7 5 _+>4 %130
+	<_->2 <7 _!>4
+	r2 <7->4
+	<5> <7 5>2
+	r2.
+	<4>4 <3> <6 5> %135
+	<9> <8 6>2
+	<7>4 <6>2
+	<7>4 <6>2
+	<7>4 <5>2
+	<6 5>4 <5 4> <\l 3> %140
+	r2 <7->4
+	r2 <6 5>4
+	<9 4> <8 3>2
+	r2 <7 5>4
+	<6 4> <5 3> <7> %145
+	r2 <7 5>4
+	<6 4> <5 3>2
+	<7>4 <6> <6 5>
+	<9 4> <8 3> <6>
+	<6 5> <5 4> <\l 3> %150
+	r2.
+	r %152 finis
 }
 
 % Organo = {
