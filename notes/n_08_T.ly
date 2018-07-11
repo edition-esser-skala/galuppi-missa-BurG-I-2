@@ -793,6 +793,18 @@ EtIncarnatusTenoreLyrics = \lyricmode {
 	est.] %76 finis
 }
 
+CrucifixusTenoreNotes = {
+	\relative c' {
+		\clef "treble_8"
+		\key f \major \time 3/4 \autoBeamOff \tempoCrucifixus
+			\set Score.currentBarNumber = #77
+	}
+}
+
+CrucifixusTenoreLyrics = \lyricmode {
+	
+}
+
 % TenoreNotes = {
 % 	\relative c' {
 % 		\clef "treble_8"

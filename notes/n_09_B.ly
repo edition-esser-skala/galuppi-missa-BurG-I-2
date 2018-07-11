@@ -776,6 +776,18 @@ EtIncarnatusBassoLyrics = \lyricmode {
 	est. %76 finis
 }
 
+CrucifixusBassoNotes = {
+	\relative c {
+		\clef bass
+		\key f \major \time 3/4 \autoBeamOff \tempoCrucifixus
+			\set Score.currentBarNumber = #77
+	}
+}
+
+CrucifixusBassoLyrics = \lyricmode {
+	
+}
+
 % BassoNotes = {
 % 	\relative c {
 % 		\clef bass

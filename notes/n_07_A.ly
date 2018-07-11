@@ -914,6 +914,18 @@ EtIncarnatusAltoLyrics = \lyricmode {
 	est.] %76 finis
 }
 
+CrucifixusAltoNotes = {
+	\relative c' {
+		\clef treble
+		\key f \major \time 3/4 \autoBeamOff \tempoCrucifixus
+			\set Score.currentBarNumber = #77
+	}
+}
+
+CrucifixusAltoLyrics = \lyricmode {
+	
+}
+
 % AltoNotes = {
 % 	\relative c' {
 % 		\clef treble

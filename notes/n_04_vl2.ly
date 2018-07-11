@@ -743,6 +743,15 @@ EtIncarnatusViolinoII = {
 	}
 }
 
+CrucifixusViolinoII = {
+	\relative c' {
+		\clef treble
+		\key f \major \time 3/4 \tempoCrucifixus
+			\set Score.currentBarNumber = #77
+		
+	}
+}
+
 % ViolinoII = {
 % 	\relative c' {
 % 		\clef treble
