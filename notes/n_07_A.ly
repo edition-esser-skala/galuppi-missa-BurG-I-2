@@ -878,7 +878,7 @@ EtIncarnatusAltoNotes = {
 		\clef treble
 		\key a \minor \time 3/2 \autoBeamOff \tempoEtIncarnatus
 			\set Score.currentBarNumber = #62
-			\mvTr e2\pE^\tuttiE e f %62
+		\mvTr e2\pE^\tuttiE e f %62
 		f1 e2
 		e1 e2
 		e2. e4 e2 %65
@@ -919,11 +919,94 @@ CrucifixusAltoNotes = {
 		\clef treble
 		\key f \major \time 3/4 \autoBeamOff \tempoCrucifixus
 			\set Score.currentBarNumber = #77
+		R2.*18 %94
+		\mvTr a'8.([\pE^\soloE g16] a4) b %95
+		b a2
+		b8. a16 g4 f
+		f e2
+		R2.*3 %101
+		r4 r d
+		g2 f4
+		e2 e4
+		f8([ e]) f4 a %105
+		b2( a4)
+		g2 g4
+		as2 g4
+		fis8([ g] a4) g
+		g fis r %110
+		r r a~
+		a g2
+		a a4
+		g2.
+		fis4 g2 %115
+		g fis4
+		g2 r4
+		R2.*3 %120
+		d8.([ c16] d4) es
+		es d2
+		es8 d c4 b
+		b a2
+		R2.*3 %127
+		r4 r e'
+		a2 g4
+		f2 fis4 %130
+		g2.~
+		g
+		f
+		e2 r4
+		r r g~ %135
+		g f2 g g4
+		f2.
+		e4 f2
+		f e4
+		f2\fermata r4 %140
+		R2.*10 %151
+		R2.\fermataMarkup \bar "||" %152 finis
 	}
 }
 
 CrucifixusAltoLyrics = \lyricmode {
+	Cru -- ci -- %95
+	fi -- xus
+	e -- ti -- am pro
+	no -- bis,
 	
+	sub %102
+	Pon -- ti --
+	o Pi --
+	la -- to, Pi -- %105
+	la --
+	to, sub
+	Pon -- ti --
+	o __ Pi --
+	la -- to %110
+	pas --
+	sus
+	et se --
+	pul --
+	tus, se -- %115
+	pul -- tus
+	est.
+	
+	Cru -- ci -- %121
+	fi -- xus
+	e -- ti -- am pro
+	no -- bis,
+	
+	sub %128
+	Pon -- ti --
+	o Pi -- %130
+	la --
+	
+	_
+	to
+	pas -- %135
+	sus
+	et se --
+	pul --
+	tus, se --
+	pul -- tus %140
+	est. %141 finis
 }
 
 % AltoNotes = {
