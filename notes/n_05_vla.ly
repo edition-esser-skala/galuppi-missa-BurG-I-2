@@ -634,10 +634,24 @@ CredoViola = {
 
 EtIncarnatusViola = {
 	\relative c' {
-		\clef treble
+		\clef alto
 		\key a \minor \time 3/2 \tempoEtIncarnatus
 			\set Score.currentBarNumber = #62
-		
+		a'1\pE a2
+		f1 e2
+		e1 e2
+		e1 g2 %65
+		a a,1
+		h r2
+		cis2 a'1
+		a a2
+		g1 g2 %70
+		g1 c,2
+		c1 h2
+		h e1
+		f fis?2
+		e1. %75
+		e1 r2\fermata \bar "||" %76 finis
 	}
 }
 
