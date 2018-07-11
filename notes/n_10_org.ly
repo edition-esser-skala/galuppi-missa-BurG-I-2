@@ -1409,12 +1409,12 @@ CrucifixusOrgano = {
 		f'\pE f b, %95
 		f' f f
 		b, b h
-		c c8.[ g'16 e8. d16]
-		c4 c h
+		c c8.[ g'16\fE e8. d16]
+		c4 c\pE h
 		c c c %100
 		f d c
-		g g8.[ g'16 d8. c16]
-		h4 h h
+		g g8.[ g'16\fE d8. c16]
+		h4 h\pE h
 		c c c
 		f f es %105
 		d d d
@@ -1435,12 +1435,12 @@ CrucifixusOrgano = {
 		g4\pE g c
 		g g g
 		c c cis
-		d d8.[ e16 d8. cis16]
-		d4 d cis %125
+		d d8.[ e16\fE d8. cis16]
+		d4 d\pE cis %125
 		d d d
 		g g gis
-		a a8.[ a16 e8. d16]
-		cis4 cis cis
+		a a8.[ a16\fE e8. d16]
+		cis4 cis\pE cis
 		d d d %130
 		g g g,
 		c c c

@@ -660,6 +660,82 @@ CrucifixusViola = {
 		\clef treble
 		\key f \major \time 3/4 \tempoCrucifixus
 			\set Score.currentBarNumber = #77
+		f4\fE f f
+		f f f
+		f d d
+		c c es %80
+		d d d
+		d d d
+		c c c
+		c c f
+		f f g %85
+		g g c,
+		c c d
+		c c c\pE
+		c c d
+		c c e\fE %90
+		f f g
+		c, c c
+		d c4. b8
+		a4 r r
+		f'\pE f b, %95
+		f' f f
+		b, b h
+		c c8.[ g'16\fE e8. d16]
+		c4 c\pE h
+		c c c %100
+		f d c
+		g g8.[ g'16\fE d8. c16]
+		h4 h\pE h
+		c c c
+		f f es %105
+		d d d
+		es es d
+		c c c
+		d d cis
+		d d d %110
+		a' a fis
+		g g g
+		f! f f
+		es es es
+		d es b %115
+		c d d
+		g\fE g g
+		g g g
+		g es e
+		d d8.[ c16 b8. a16] %120
+		g4\pE g c
+		g g g
+		c c cis
+		d d8.[ e16\fE d8. cis16]
+		d4 d\pE cis %125
+		d d d
+		g g gis
+		a a8.[ a16\fE e8. d16]
+		cis4 cis\pE cis
+		d d d %130
+		g g g,
+		c c c
+		f h, h
+		c c c
+		g' g e %135
+		f f f
+		e e e
+		d d d
+		c d d
+		b c2\fermata %140
+		c4\fE c f
+		f f g
+		g c, c
+		c c d
+		c c c\pE %145
+		c c d
+		c c e\fE
+		f f c
+		c c c
+		d c4. b8 %150
+		a4 a a
+		f2 r4\fermata \bar "||" %152 finis
 		
 	}
 }
