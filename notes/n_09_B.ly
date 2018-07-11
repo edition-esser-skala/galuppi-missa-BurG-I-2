@@ -864,6 +864,19 @@ CrucifixusBassoLyrics = \lyricmode {
 	est. %141 finis
 }
 
+EtResurrexitBassoNotes = {
+	\relative c {
+		\clef bass
+		\key c \major \time 4/4 \autoBeamOff \tempoEtResurrexit
+			\set Score.currentBarNumber = #153
+		
+	}
+}
+
+EtResurrexitBassoLyrics = \lyricmode {
+	
+}
+
 % BassoNotes = {
 % 	\relative c {
 % 		\clef bass

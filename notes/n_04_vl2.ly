@@ -827,6 +827,15 @@ CrucifixusViolinoII = {
 	}
 }
 
+EtResurrexitViolinoII = {
+	\relative c' {
+		\clef treble
+		\key c \major \time 4/4 \tempoEtResurrexit
+			\set Score.currentBarNumber = #153
+		
+	}
+}
+
 % ViolinoII = {
 % 	\relative c' {
 % 		\clef treble

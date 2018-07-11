@@ -1009,6 +1009,19 @@ CrucifixusAltoLyrics = \lyricmode {
 	est. %141 finis
 }
 
+EtResurrexitAltoNotes = {
+	\relative c' {
+		\clef treble
+		\key c \major \time 4/4 \autoBeamOff \tempoEtResurrexit
+			\set Score.currentBarNumber = #153
+		
+	}
+}
+
+EtResurrexitAltoLyrics = \lyricmode {
+	
+}
+
 % AltoNotes = {
 % 	\relative c' {
 % 		\clef treble
