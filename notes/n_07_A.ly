@@ -958,8 +958,8 @@ CrucifixusAltoNotes = {
 		g f2 g g4
 		f2.
 		e4 f2
-		f e4
-		f2\fermata r4 %140
+		f\fermata e4
+		f2 r4 %140
 		R2.*10 %151
 		R2.\fermataMarkup \bar "||" %152 finis
 	}

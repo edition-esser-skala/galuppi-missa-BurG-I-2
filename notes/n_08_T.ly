@@ -798,6 +798,8 @@ CrucifixusTenoreNotes = {
 		\clef "treble_8"
 		\key f \major \time 3/4 \autoBeamOff \tempoCrucifixus
 			\set Score.currentBarNumber = #77
+		R2.*75 %151
+		R2.\fermataMarkup \bar "||" %152 finis
 	}
 }
 
