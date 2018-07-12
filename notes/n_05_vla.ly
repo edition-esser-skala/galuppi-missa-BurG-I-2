@@ -745,7 +745,109 @@ EtResurrexitViola = {
 		\clef treble
 		\key c \major \time 4/4 \tempoEtResurrexit
 			\set Score.currentBarNumber = #153
-		
+		c8\fE c' 	c16 h a g a8 a a16 g f e
+		f8 f f16 e d c g'8 g, r g'
+		c16 h a g f e d c g'8 e16 f g8 g, %155
+		c c' g16 g e e c4 r
+		g'8 g g g g g g g
+		g g g g e e d d
+		d d c c c c c g'
+		g g g g g4 r %160
+		r2 r4 c,8 c
+		g g a h c4 g'
+		g g g2
+		f4 f f h
+		e, e8 e e4 e %165
+		e8 a a16 g! f e f8 f f16 e d c
+		d8 d d16 c h a e'8 e, r e'
+		a16 g f e d c h a e'8 c16 d e8 e,
+		a e' e e e e e e
+		e e e e e e e e %170
+		f f f f h, e16 dis e8 e
+		e e e gis fis fis e e
+		e e e c' h h a a
+		a a a f! e e d d
+		d g g g g g g g %175
+		g g g e d d d d
+		d h' h h h h h h
+		c c c c fis, h fis16 fis dis dis
+		h8 h' h h h h c c
+		fis, h h h h h h h %180
+		h e, e4 r2
+		r e,4. e8
+		h'4. a8 g4 h
+		h fis' h, fis'
+		d4. d8 d4 d8 d %185
+		d4 fis e8 g d4
+		d d8 d c c e e
+		fis d d d d d d d
+		d g g16 fis e d e8 e e16 d c h
+		c8 c c16 h a g d'8 d, r d' %190
+		g16 fis e d c h a g d'8 h16 c d8 d,
+		g d' d d d d fis fis
+		e e a a d, d d g
+		g g c, c c c c g'
+		a a g g g g g e %195
+		d d c c c c c c
+		c e d d d d d d
+		c c c c c c c g'
+		g g g c, c c c g'
+		g g g g g4 r %200
+		r2 r4 c,
+		g g g g'
+		f d g e
+		e d d c
+		c c d g %205
+		g c, c f
+		h8 e, e4 e e
+		e r r2
+		r4 a, d4. c8
+		h4 h c c %210
+		c e e d
+		d d dis h'
+		h4. h8 e,4 e
+		fis h h c
+		h h h h %215
+		h8 e, e16 d! c h c8 c' c16 h a g
+		a8 a a16 g fis e h'8 h, r h
+		e16 d c h a g fis e h'8 g16 a h8 h
+		h h' h h h h h h
+		h h g g a a d, d %220
+		d d d fis g e fis d
+		d d d d d g g g
+		g g g g g g a a
+		h g g g g g g g
+		g g g g g4 r\fermata %225
+		R1*7 %232
+		r2 g,
+		d'4. c8 h4 g
+		a4. h16 c h8 a16 g a8 h %235
+		c g c2 h4
+		c4 r8 c h4. c16 d
+		c2 h
+		a g4 r8 h
+		a4 d g, fis %240
+		e2 r
+		R1
+		r2 a
+		e'4. d8 c4 a
+		h4. c16 d c8 h16 a c8 dis %245
+		e h e2 dis4
+		e4 r8 e dis4. e16 fis
+		e4 d c2
+		h a4 r8 c
+		h4 e a, d %250
+		c2 r
+		R1
+		r2 g
+		d'4. c8 h4 g
+		a4. h16 c h8 a16 g a8 h %255
+		c g c2 h4
+		c a' g g
+		a g g g8 g
+		g4 g8 g g4 g
+		g8 g g g g g g g %260
+		g4 r r2\fermata \bar "|." %261 FINIS
 	}
 }
 
