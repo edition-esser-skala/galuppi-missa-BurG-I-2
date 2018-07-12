@@ -832,7 +832,114 @@ EtResurrexitViolinoII = {
 		\clef treble
 		\key c \major \time 4/4 \tempoEtResurrexit
 			\set Score.currentBarNumber = #153
-		
+		c'16\fE h c h c h a g a g a g a g f e
+		f e f e f e d c g'8 g, r g'
+		c16 h a g f e d c g'8 e16 f g8 g, %155
+		c c' g16 g e e <c g' c e>4 r
+		c'16 h c h c e d c c8 c h16 d c h
+		c8 c16 d e8 c c16 e d c c8 c
+		h h c16 e f g f8 c16 f e d e c
+		c4( h) c c8 c %160
+		g g a h c4 c
+		h8 h c d c4. c8
+		h h16 c d8 h c4 c8 c
+		c4. c8d h16 c d8 c
+		h4 c c h %165
+		a'16 gis a gis a g f e f e f e f e d c
+		d c d c d c h a e'8 e, r e'
+		a16 g f e d c h a e'8 c16 d e8 e,
+		c'16 h c h c e d c c8 a16 c h d c h
+		c8 a' gis e16 h c8 c h e %170
+		e4 d e16 h gis fis e8 h'
+		gis16 gis gis gis gis gis gis gis a a a a h h h h
+		e, a a a a a a a g g g g a a a a
+		e a a a a a a a g g g g a a a a
+		d, h' h h h h h h h h h h h h h h %175
+		c e c c c c c c c c c c c c c c
+		h h h h h h h h h h h h h h h h
+		h h h h a a a a h8 h fis16 fis dis dis
+		<h fis'? h>8 dis'16 e fis e fis dis e g fis e fis8 e
+		dis16 fis e dis e4 e dis %180
+		e8 h e,4 r2
+		h'4. h8 e4. e8
+		dis e fis dis e4. e8
+		fis e dis fis e4 fis
+		g4. g8 fis fis16 g a8 fis %185
+		g4 fis8 d c e d c
+		h h16 c d8 h c e16 d c8 h
+		a4 h h a
+		g'16 fis g fis g fis e d e d e d e d c h
+		c h c h c h a g d'8 d, r d' %190
+		g16 fis e d c h a g d'8 h16 c d8 d,
+		h'16 a h a h d c h h8 g16 h a8 h16 d
+		c8 e d a g h16 c d8 h
+		c e e c c c c c
+		c4 h c8 c16 d e f g e %195
+		f8 f e16 f g e f8 f16 e f8 a
+		g g fis16 a fis a g8 g16 fis g8 d
+		e e e c c c c16 e d c
+		h d c h c8 c c c16 f e d e c
+		c4 h c c %200
+		h g c8 d e c
+		h c d h c4. g8
+		a4 h c8 h c e16 d
+		c4. c8 h c16 d e8 c
+		c a16 c c8 g16 c c4 h %205
+		c8 c16 d e8 g f c d c
+		h4 c c h
+		c a e'4. d8
+		c4 a a8 f' d a
+		h4. c16 d e8 d c4 %210
+		c c c4. c8
+		h c d h h4 dis8 fis
+		e4 dis e4. e8
+		dis fis dis fis e g fis e
+		dis fis e4 e dis %215
+		e16 dis e dis e d c h c h c h c h a g
+		a g a g a g fis e h'8 h, r h'
+		e16 d c h a g fis e h'8 g16 a h8 h,
+		e'16 dis e dis e g fis e e8 e dis16 fis e dis
+		e g fis g g8 c, c fis16 g a8 c, %220
+		h g' fis d16 fis e8 c16 e d8 d
+		d h h h h16 d c h h d c h
+		c8 c h16 d c h g8 e' d c
+		h d e16 d e c c8 e h d
+		<e c g c,> q q q q4 r\fermata %225
+		R1*2
+		r2 g,
+		d'4. c8 h4 g
+		a4. h16 c h8 a16 g a8 h %230
+		c g c2 h4
+		c r8 c h4. c16 d
+		c2 h
+		a g4 r8 h
+		a4. g16 fis h4 a %235
+		g2 r
+		R1
+		r2 g
+		d'4. c8 h4 g
+		a4. h16 c h8 a16 h cis8 dis %240
+		e h e2 dis4
+		e4 r8 e dis4. e16 fis
+		e4 d c!2
+		h a4 r8 c
+		h4. a16 gis c2 %245
+		h r
+		R1
+		r2 a
+		e'4. d8 c4 a
+		h4. c16 d c8 h a h %250
+		c g c2 h4
+		c4 r8 c h4. c16 d
+		c2 h
+		a g4 r8 h
+		a4. g16 fis h4 a %255
+		g2 a4 g
+		c8 e d c h4 c
+		c h c h16 c d h
+		<e c g c,>4 h16 c d h <e c g c,>4 q
+		q8 e <e c g c,> e q q q q %260
+		q4 r r2\fermata \bar "|." %261 FINIS
 	}
 }
 
