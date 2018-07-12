@@ -1020,8 +1020,8 @@ EtResurrexitSopranoNotes = {
 		b8 b b b b4 a8 a
 		c c c c c4 h
 		c4. b8 a4 g
-		g g8 c a4( g
-		g2) g4 c %200
+		g g8 c a4 \once \tieDashed g~
+		g2 g4 c %200
 		h g g2
 		g4 g g c
 		a g2.~
@@ -1126,7 +1126,7 @@ EtResurrexitSopranoLyrics = \lyricmode {
 	con -- glo -- ri -- fi -- ca -- tur, et
 	con -- glo -- ri -- fi -- ca -- tur:
 	Qui lo -- cu -- tus
-	est per Pro -- phe --
+	est per Pro -- phe -- _
 	tas.] Et %200
 	u -- nam san --
 	ctam ca -- tho -- _
