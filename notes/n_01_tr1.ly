@@ -356,7 +356,97 @@ EtResurrexitClarinoI = {
 		\clef treble
 		\key c \major \time 4/4 \tempoEtResurrexit
 			\set Score.currentBarNumber = #153
-		
+		c'4.\fE e8 e4. a8
+		a2 g4 r8 d
+		e4 f8. e16 d8 e d4 %155
+		c8 c g e c4 r
+		c' e8 e e4 d
+		e g8 g g4 fis
+		g r8 g a4 g8 g
+		g4 f! e r %160
+		R1
+		r4 g8 g g4. a8
+		g4 d e g
+		f c d f
+		e e8 e e4 d %165
+		c2 r
+		R1
+		r2 r4 e
+		e8. e16 e8 e e4 r8 e
+		e4 r8 e e4 r8 e %170
+		e4 d e r
+		e2 fis4 e
+		e2 r
+		d c
+		g r %175
+		c d
+		d4 fis g fis
+		e4. e8 fis4 r
+		fis fis8 fis g4 a8 g
+		fis4 g g fis %180
+		g2 r
+		R1
+		r2 g4. g8
+		a2 g4 fis
+		g g8 g a4 r8 a %185
+		g4 fis8 fis g4 a
+		g g8 fis? e4 a8 g
+		fis4 g g fis
+		g2 r
+		R1*2 %191
+		g4 g8 g g4 fis
+		g a g r
+		g2 a4 g
+		f2 e4 r %195
+		R1*2
+		g4 g8 g a4 g
+		g r8 g a4 g
+		g f e r %200
+		R1
+		r2 r4 c
+		c d8 d e4 g
+		g fis g r8 g
+		a4 g f f8 f %205
+		e4 r r f
+		e e8 e e4 d
+		c r r2
+		R1
+		r4 g' g e %210
+		a g g fis
+		g r fis4. fis8
+		g4 fis g e
+		fis r8 fis g4 a8 g
+		fis4 g g fis %215
+		g2 r
+		R1*2
+		g4 g8 g g4 fis
+		g4. g8 a4 fis8 fis %220
+		g4 fis g a
+		g r g4. g8
+		g4 f! e f8 e
+		d4 e e d
+		e8 c e g c,4 r\fermata %225
+		R1*10 %235
+		c2 g'4. f8
+		e4 c d4. e16 f
+		e8 d16 c e8 fis g d g4~
+		g fis g r8 g
+		fis4. g16 a g4 a %240
+		g2 fis
+		e4 r8 g fis2
+		g4 r r2
+		R1*2 %245
+		e2 fis
+		g4 e fis4. g16 a
+		g4 fis e2~
+		e e4 r
+		R1*6 %255
+		c2 d
+		e4 a g2
+		f e4 d
+		e g8 f e c16 c c8 c
+		c g e g c, c e g %260
+		c,4 r r2\fermata \bar "|." %261 FINIS
 	}
 }
 
