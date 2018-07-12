@@ -1063,8 +1063,8 @@ EtResurrexitAltoNotes = {
 		c d e2~
 		e4 d d g
 		f! g f4. f8 %205
-		e4 e f2(
-		e2.) e4
+		e4 e f2
+		e2. e4
 		e r r e
 		a4. g!8 f4 d
 		d d e2 %210
@@ -1120,7 +1120,7 @@ EtResurrexitAltoNotes = {
 }
 
 EtResurrexitAltoLyrics = \lyricmode {
-	[Er re -- sur -- re -- xit %157
+	[Et re -- sur -- re -- xit %157
 	ter -- ti -- a di --
 	e se -- cun -- dum Scri --
 	ptu -- ras.] %160
@@ -1169,7 +1169,7 @@ EtResurrexitAltoLyrics = \lyricmode {
 	li -- cam et
 	a -- po -- sto -- li -- %205
 	cam ec -- cle --
-	si --
+	_ si --
 	am. Con --
 	fi -- te -- or u --
 	num ba -- pti -- %210
@@ -1180,13 +1180,13 @@ EtResurrexitAltoLyrics = \lyricmode {
 	to -- %215
 	rum.]
 	
-	Et ex -- pe -- cto, ex -- %219
+	[Et ex -- pe -- cto, ex -- %219
 	pe -- cto re -- sur -- %220
 	re -- cti -- o --
 	nem mor -- tu --
 	o -- _ _ _
 	_ _ _
-	rum. %225
+	rum.] %225
 	Et vi --
 	tam ven -- tu -- ri
 	sae -- cu -- li, a --

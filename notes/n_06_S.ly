@@ -1027,8 +1027,8 @@ EtResurrexitSopranoNotes = {
 		a g2.~
 		g4 fis g c
 		a g a g %205
-		g g a( h
-		gis a2) gis4
+		g g a h
+		gis a2 gis4
 		a a e'4. d8
 		c4 a a a
 		g2 g4 g %210
@@ -1085,7 +1085,7 @@ EtResurrexitSopranoNotes = {
 }
 
 EtResurrexitSopranoLyrics = \lyricmode {
-	[Er re -- sur -- re -- xit %157
+	[Et re -- sur -- re -- xit %157
 	ter -- ti -- a di --
 	e se -- cun -- dum Scri --
 	ptu -- ras.] Et a -- %160
@@ -1133,8 +1133,8 @@ EtResurrexitSopranoLyrics = \lyricmode {
 	_ _
 	li -- cam et
 	a -- po -- sto -- li -- %205
-	cam ec -- cle --
-	si --
+	cam ec -- cle -- _
+	_ _ si --
 	am. Con -- fi -- te --
 	or u -- num ba --
 	pti -- sma, u -- %210
@@ -1145,13 +1145,13 @@ EtResurrexitSopranoLyrics = \lyricmode {
 	to -- %215
 	rum.]
 	
-	Et ex -- pe -- cto, ex -- %219
+	[Et ex -- pe -- cto, ex -- %219
 	pe -- cto re -- sur -- %220
 	re -- cti -- o --
 	nem mor -- tu --
 	o -- _
 	_
-	rum. %225
+	rum.] %225
 	
 	Et %228
 	vi -- tam ven --
