@@ -8,7 +8,7 @@
 
 % \include "scores/s_kyrie.ly"
 % \include "scores/s_gloria.ly"
-\include "scores/s_credo.ly"
+% \include "scores/s_credo.ly"
 
 % \include "parts/p_tr12.ly"
 % \include "parts/p_vl1.ly"
@@ -16,4 +16,4 @@
 % \include "parts/p_vla.ly"
 % \include "parts/p_coro.ly"
 % \include "parts/p_org.ly"
-% \include "Parts/p_b.ly"
+\include "parts/p_b.ly"

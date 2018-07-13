@@ -234,6 +234,17 @@ GloriaClarinoI = {
 	}
 }
 
+
+QuiTollisClarinoI = {
+	\relative c' {
+		\clef treble
+		\key c \major \time 4/4 \tempoQuiTollis
+			\set Score.currentBarNumber = #371
+		\override MultiMeasureRest.minimum-length = #50
+		R1*86 \bar "||" %456
+	}
+}
+
 CumSanctoClarinoI = {
 	\relative c' {
 		\clef treble
@@ -348,6 +359,26 @@ CredoClarinoI = {
 		c16 h a g f e d c g8 e g g16 g
 		e4 g8 e c4 e8 g %60
 		c c, e g c,4 r\fermata \bar "||" %61 finis
+	}
+}
+
+EtIncarnatusClarinoI = {
+	\relative c' {
+		\clef treble
+		\key a \minor \time 3/2 \tempoEtIncarnatus
+			\set Score.currentBarNumber = #62
+		\override MultiMeasureRest.minimum-length = #50
+		R1.*15 \bar "||" %76
+	}
+}
+
+CrucifixusClarinoI = {
+	\relative c' {
+		\clef treble
+		\key f \major \time 3/4 \tempoCrucifixus
+			\set Score.currentBarNumber = #77
+		\override MultiMeasureRest.minimum-length = #50
+		R2.*76 \bar "||" %152
 	}
 }
 
