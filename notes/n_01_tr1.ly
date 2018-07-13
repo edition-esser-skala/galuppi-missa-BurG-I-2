@@ -356,7 +356,7 @@ EtResurrexitClarinoI = {
 		\clef treble
 		\key c \major \time 4/4 \tempoEtResurrexit
 			\set Score.currentBarNumber = #153
-		c'4.\fE e8 e4. a8
+		\pao c'4.\fE e8 e4. a8
 		a2 g4 r8 d
 		e4 f8. e16 d8 e d4 %155
 		c8 c g e c4 r
@@ -389,13 +389,13 @@ EtResurrexitClarinoI = {
 		r2 g4. g8
 		a2 g4 fis
 		g g8 g a4 r8 a %185
-		g4 fis8 fis g4 a
-		g g8 fis? e4 a8 g
+		\pao g4 fis8 fis g4 a
+		\pa g g8 fis? \pd e4 a8 g
 		fis4 g g fis
 		g2 r
 		R1*2 %191
-		g4 g8 g g4 fis
-		g a g r
+		\pao g4 g8 g g4 fis
+		g a \pao g r
 		g2 a4 g
 		f2 e4 r %195
 		R1*2
@@ -411,7 +411,7 @@ EtResurrexitClarinoI = {
 		e e8 e e4 d
 		c r r2
 		R1
-		r4 g' g e %210
+		r4 \pao g' g e %210
 		a g g fis
 		g r fis4. fis8
 		g4 fis g e
@@ -425,7 +425,7 @@ EtResurrexitClarinoI = {
 		g r g4. g8
 		g4 f! e f8 e
 		d4 e e d
-		e8 c e g c,4 r\fermata %225
+		e8 c e g \pao c,4 r\fermata %225
 		R1*10 %235
 		c2 g'4. f8
 		e4 c d4. e16 f
@@ -443,7 +443,7 @@ EtResurrexitClarinoI = {
 		R1*6 %255
 		c2 d
 		e4 a g2
-		f e4 d
+		f \pao e4 d
 		e g8 f e c16 c c8 c
 		c g e g c, c e g %260
 		c,4 r r2\fermata \bar "|." %261 FINIS
