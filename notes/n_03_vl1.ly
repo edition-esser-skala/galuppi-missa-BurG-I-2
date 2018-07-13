@@ -980,11 +980,3 @@ EtResurrexitViolinoI = {
 		q4 r r2\fermata \bar "|." %261 FINIS
 	}
 }
-
-% ViolinoI = {
-% 	\relative c' {
-% 		\clef treble
-% 		
-% 		
-% 	}
-% }

@@ -1063,14 +1063,3 @@ EtResurrexitBassoLyrics = \lyricmode {
 	a -- men, a --
 	men, a -- men. %259 FINIS
 }
-
-% BassoNotes = {
-% 	\relative c {
-% 		\clef bass
-% 		
-% 	}
-% }
-% 
-% BassoLyrics = \lyricmode {
-% 	
-% }

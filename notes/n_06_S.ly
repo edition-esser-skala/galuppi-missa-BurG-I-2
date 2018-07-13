@@ -1186,14 +1186,3 @@ EtResurrexitSopranoLyrics = \lyricmode {
 	a -- men, a --
 	men, a -- men. %259 FINIS
 }
-
-% SopranoNotes = {
-% 	\relative c' {
-% 		\clef treble
-% 		
-% 	}
-% }
-% 
-% SopranoLyrics = \lyricmode {
-% 	
-% }

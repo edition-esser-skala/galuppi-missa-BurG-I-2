@@ -449,11 +449,3 @@ EtResurrexitClarinoI = {
 		c,4 r r2\fermata \bar "|." %261 FINIS
 	}
 }
-
-% ClarinoI = {
-% 	\relative c' {
-% 		\clef treble
-% 		
-% 		
-% 	}
-% }

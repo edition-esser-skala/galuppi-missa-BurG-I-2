@@ -1008,14 +1008,3 @@ EtResurrexitTenoreLyrics = \lyricmode {
 	a -- men, a --
 	men, a -- men. %259 FINIS
 }
-
-% TenoreNotes = {
-% 	\relative c' {
-% 		\clef "treble_8"
-% 		
-% 	}
-% }
-% 
-% TenoreLyrics = \lyricmode {
-% 	
-% }

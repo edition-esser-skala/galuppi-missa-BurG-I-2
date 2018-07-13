@@ -1220,14 +1220,3 @@ EtResurrexitAltoLyrics = \lyricmode {
 	men, a --
 	men, a -- men. %259 FINIS
 }
-
-% AltoNotes = {
-% 	\relative c' {
-% 		\clef treble
-% 		
-% 	}
-% }
-% 
-% AltoLyrics = \lyricmode {
-% 	
-% }

@@ -742,7 +742,7 @@ CrucifixusViola = {
 
 EtResurrexitViola = {
 	\relative c' {
-		\clef treble
+		\clef alto
 		\key c \major \time 4/4 \tempoEtResurrexit
 			\set Score.currentBarNumber = #153
 		c8\fE c' 	c16 h a g a8 a a16 g f e
@@ -850,11 +850,3 @@ EtResurrexitViola = {
 		g4 r r2\fermata \bar "|." %261 FINIS
 	}
 }
-
-% Viola = {
-% 	\relative c' {
-% 		\clef treble
-% 		
-% 		
-% 	}
-% }
