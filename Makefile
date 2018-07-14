@@ -55,7 +55,7 @@ movements: $(movements)
 # The dependencies of the full score (`make score'):
 .PHONY: score
 score: $(movements)
-	pdfunite $(movements:%=pdf/s_%.pdf) pdf/$(project)_full_score.pdf
+	pdfunite $(movements:%=pdf/s_%.pdf) pdf/full_score.pdf
 
 # make scores and parts
 all: score parts
